@@ -1,0 +1,541 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "PPP2R1A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+            "depth": 1
+        },
+        {
+            "name": "DYRK2",
+            "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1B",
+            "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1C",
+            "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family.",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1A",
+            "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "SYT1",
+            "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA4A",
+            "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MAPT",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            },
+            "explanation": "The interaction is not relevant to the query because PPP2R1A promotes the dephosphorylation, not the phosphorylation, of MAPT via interaction with GNA12. No evidence of a direct phosphorylation pathway from PPP2R1A to MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "DYRK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] "
+            },
+            "explanation": "The interaction is not relevant. DYRK2 is known to phosphorylate other proteins, but no direct evidence or annotation indicates that DYRK2 phosphorylates MAPT. Therefore, the query cannot be fulfilled."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 943.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction between MAPT (tau) and TUBA1B (tubulin alpha-1B) is not relevant because TUBA1B does not phosphorylate MAPT. MAPT stabilizes microtubules but does not directly interact with tubulin in a phosphorylation context."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            },
+            "explanation": "The interaction between MAPT and TUBA1C is not relevant. MAPT promotes microtubule stability but there is no evidence of TUBA1C phosphorylating MAPT. The query requires a phosphorylation event, which is not established here."
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 835.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction is not relevant to the query. TUBA1C and TUBA1B are tubulin proteins involved in microtubule formation, not phosphorylation. No evidence supports TUBA1B phosphorylating MAPT. Delete the path."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            },
+            "explanation": "The interaction between MAPT and TUBA1C is not relevant to the query because TUBA1C does not phosphorylate MAPT. MAPT stabilizes microtubules, and TUBA1C is a tubulin component; no direct phosphorylation occurs."
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction between TUBA1C and TUBA1A is not relevant to the query as neither protein is known to phosphorylate MAPT. No direct interaction suggests phosphorylation capability. Hence, this path should be deleted."
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 922.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction is not relevant to the query because TUBA1A and TUBA1B are tubulin proteins involved in microtubule formation, not protein kinases, and therefore cannot phosphorylate MAPT (Tau protein)."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 943.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction is not relevant because MAPT (tau) does not phosphorylate TUBA1B (tubulin). Instead, MAPT stabilizes microtubules, including TUBA1B. No evidence supports a phosphorylation relationship between these proteins."
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 922.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction between TUBA1B and TUBA1A is not relevant to the query. Both are tubulin proteins involved in microtubule formation, without direct evidence of phosphorylating MAPT (Tau protein). No direct interaction mechanism is provided."
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction between TUBA1A and TUBA1C is not relevant to the query. Neither TUBA1A nor TUBA1C phosphorylates MAPT. Tubulins are structural proteins, not kinases. The path must be deleted."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 943.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction is not relevant. The query asks for paths where the end protein phosphorylates MAPT, but TUBA1B does not phosphorylate MAPT. Instead, MAPT and TUBA1B interact in microtubule dynamics."
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 835.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction between TUBA1B and TUBA1C is not relevant to the query. Both proteins are tubulin family members and do not phosphorylate MAPT directly. Therefore, the path should be deleted."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            },
+            "explanation": "The interaction is not relevant. MAPT (tau) primarily stabilizes microtubules and interacts with TUBA1C for microtubule assembly. No direct evidence supports TUBA1C phosphorylating MAPT, nor a phosphorylation pathway from TUBA1C to MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "SYT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 480.0,
+                "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] "
+            },
+            "explanation": "The interaction is not relevant. The query seeks proteins that the end protein (SYT1) phosphorylates MAPT, but SYT1 is a calcium sensor and does not exhibit kinase activity necessary for phosphorylation."
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA4A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 618.0,
+                "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "The interaction is not relevant. MAPT (tau) stabilizes microtubules by binding to tubulin (TUBA4A), but there is no evidence that TUBA4A phosphorylates MAPT. The query condition is unmet."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MAPT",
+                "PPP2R1A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> PPP2R1A' is not relevant to the query because PPP2R1A promotes the dephosphorylation, not the phosphorylation, of MAPT. Additionally, there is no evidence of a direct phosphorylation pathway from PPP2R1A to MAPT. Hence, it does not meet the requirements of the query.",
+            "details": "MAPT -> PPP2R1A:\nThe interaction is not relevant to the query because PPP2R1A promotes the dephosphorylation, not the phosphorylation, of MAPT via interaction with GNA12. No evidence of a direct phosphorylation pathway from PPP2R1A to MAPT.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "PPP2R1A",
+                    "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "PPP2R1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+                    },
+                    "explanation": "The interaction is not relevant to the query because PPP2R1A promotes the dephosphorylation, not the phosphorylation, of MAPT via interaction with GNA12. No evidence of a direct phosphorylation pathway from PPP2R1A to MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "DYRK2"
+            ],
+            "score": 0.0,
+            "explanation": "MAPT and DYRK2 do not have a direct phosphorylation interaction. DYRK2 is known to phosphorylate other proteins, but there's no evidence that it phosphorylates MAPT. Therefore, this path is not relevant to the query.",
+            "details": "MAPT -> DYRK2:\nThe interaction is not relevant. DYRK2 is known to phosphorylate other proteins, but no direct evidence or annotation indicates that DYRK2 phosphorylates MAPT. Therefore, the query cannot be fulfilled.\n\n",
+            "proteins": [
+                {
+                    "name": "DYRK2",
+                    "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "DYRK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] "
+                    },
+                    "explanation": "The interaction is not relevant. DYRK2 is known to phosphorylate other proteins, but no direct evidence or annotation indicates that DYRK2 phosphorylates MAPT. Therefore, the query cannot be fulfilled."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1B"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> TUBA1B is not relevant because TUBA1B does not phosphorylate MAPT. MAPT stabilizes microtubules but does not directly interact with TUBA1B in a phosphorylation context. Therefore, this path does not satisfy the query of finding a protein that phosphorylates MAPT.",
+            "details": "MAPT -> TUBA1B:\nThe interaction between MAPT (tau) and TUBA1B (tubulin alpha-1B) is not relevant because TUBA1B does not phosphorylate MAPT. MAPT stabilizes microtubules but does not directly interact with tubulin in a phosphorylation context.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBA1B",
+                    "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 943.0,
+                        "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction between MAPT (tau) and TUBA1B (tubulin alpha-1B) is not relevant because TUBA1B does not phosphorylate MAPT. MAPT stabilizes microtubules but does not directly interact with tubulin in a phosphorylation context."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1C",
+                "TUBA1B"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> TUBA1C -> TUBA1B is not relevant to the query. MAPT promotes microtubule stability, and TUBA1C and TUBA1B are involved in microtubule formation, but none of these interactions involve phosphorylation of MAPT. Therefore, this path does not satisfy the requirement of the query.",
+            "details": "MAPT -> TUBA1C:\nThe interaction between MAPT and TUBA1C is not relevant. MAPT promotes microtubule stability but there is no evidence of TUBA1C phosphorylating MAPT. The query requires a phosphorylation event, which is not established here.\n\nTUBA1C -> TUBA1B:\nThe interaction is not relevant to the query. TUBA1C and TUBA1B are tubulin proteins involved in microtubule formation, not phosphorylation. No evidence supports TUBA1B phosphorylating MAPT. Delete the path.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBA1C",
+                    "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1C",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+                    },
+                    "explanation": "The interaction between MAPT and TUBA1C is not relevant. MAPT promotes microtubule stability but there is no evidence of TUBA1C phosphorylating MAPT. The query requires a phosphorylation event, which is not established here."
+                },
+                {
+                    "start": "TUBA1C",
+                    "end": "TUBA1B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 835.0,
+                        "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction is not relevant to the query. TUBA1C and TUBA1B are tubulin proteins involved in microtubule formation, not phosphorylation. No evidence supports TUBA1B phosphorylating MAPT. Delete the path."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1C",
+                "TUBA1A",
+                "TUBA1B"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> TUBA1C -> TUBA1A -> TUBA1B does not satisfy the query because none of these proteins are known to phosphorylate MAPT. TUBA1C, TUBA1A, and TUBA1B are tubulin components involved in microtubule formation, not protein kinases. Therefore, this path is irrelevant for the phosphorylation of MAPT.",
+            "details": "MAPT -> TUBA1C:\nThe interaction between MAPT and TUBA1C is not relevant to the query because TUBA1C does not phosphorylate MAPT. MAPT stabilizes microtubules, and TUBA1C is a tubulin component; no direct phosphorylation occurs.\n\nTUBA1C -> TUBA1A:\nThe interaction between TUBA1C and TUBA1A is not relevant to the query as neither protein is known to phosphorylate MAPT. No direct interaction suggests phosphorylation capability. Hence, this path should be deleted.\n\nTUBA1A -> TUBA1B:\nThe interaction is not relevant to the query because TUBA1A and TUBA1B are tubulin proteins involved in microtubule formation, not protein kinases, and therefore cannot phosphorylate MAPT (Tau protein).\n\n",
+            "proteins": [
+                {
+                    "name": "TUBA1A",
+                    "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1C",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+                    },
+                    "explanation": "The interaction between MAPT and TUBA1C is not relevant to the query because TUBA1C does not phosphorylate MAPT. MAPT stabilizes microtubules, and TUBA1C is a tubulin component; no direct phosphorylation occurs."
+                },
+                {
+                    "start": "TUBA1C",
+                    "end": "TUBA1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 165.0,
+                        "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction between TUBA1C and TUBA1A is not relevant to the query as neither protein is known to phosphorylate MAPT. No direct interaction suggests phosphorylation capability. Hence, this path should be deleted."
+                },
+                {
+                    "start": "TUBA1A",
+                    "end": "TUBA1B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 922.0,
+                        "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction is not relevant to the query because TUBA1A and TUBA1B are tubulin proteins involved in microtubule formation, not protein kinases, and therefore cannot phosphorylate MAPT (Tau protein)."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1B",
+                "TUBA1A",
+                "TUBA1C"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> TUBA1B -> TUBA1A -> TUBA1C does not satisfy the query requirements as MAPT does not phosphorylate TUBA1B, and the subsequent proteins (TUBA1A, TUBA1C) are tubulins, which do not have kinase activity to phosphorylate MAPT. The provided interactions are not relevant to the phosphorylation of MAPT.",
+            "details": "MAPT -> TUBA1B:\nThe interaction is not relevant because MAPT (tau) does not phosphorylate TUBA1B (tubulin). Instead, MAPT stabilizes microtubules, including TUBA1B. No evidence supports a phosphorylation relationship between these proteins.\n\nTUBA1B -> TUBA1A:\nThe interaction between TUBA1B and TUBA1A is not relevant to the query. Both are tubulin proteins involved in microtubule formation, without direct evidence of phosphorylating MAPT (Tau protein). No direct interaction mechanism is provided.\n\nTUBA1A -> TUBA1C:\nThe interaction between TUBA1A and TUBA1C is not relevant to the query. Neither TUBA1A nor TUBA1C phosphorylates MAPT. Tubulins are structural proteins, not kinases. The path must be deleted.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 943.0,
+                        "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction is not relevant because MAPT (tau) does not phosphorylate TUBA1B (tubulin). Instead, MAPT stabilizes microtubules, including TUBA1B. No evidence supports a phosphorylation relationship between these proteins."
+                },
+                {
+                    "start": "TUBA1B",
+                    "end": "TUBA1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 922.0,
+                        "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction between TUBA1B and TUBA1A is not relevant to the query. Both are tubulin proteins involved in microtubule formation, without direct evidence of phosphorylating MAPT (Tau protein). No direct interaction mechanism is provided."
+                },
+                {
+                    "start": "TUBA1A",
+                    "end": "TUBA1C",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 165.0,
+                        "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction between TUBA1A and TUBA1C is not relevant to the query. Neither TUBA1A nor TUBA1C phosphorylates MAPT. Tubulins are structural proteins, not kinases. The path must be deleted."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1B",
+                "TUBA1C"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> TUBA1B -> TUBA1C does not satisfy the query because neither TUBA1B nor TUBA1C phosphorylates MAPT. They are involved in microtubule dynamics, not in the phosphorylation of MAPT.",
+            "details": "MAPT -> TUBA1B:\nThe interaction is not relevant. The query asks for paths where the end protein phosphorylates MAPT, but TUBA1B does not phosphorylate MAPT. Instead, MAPT and TUBA1B interact in microtubule dynamics.\n\nTUBA1B -> TUBA1C:\nThe interaction between TUBA1B and TUBA1C is not relevant to the query. Both proteins are tubulin family members and do not phosphorylate MAPT directly. Therefore, the path should be deleted.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 943.0,
+                        "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction is not relevant. The query asks for paths where the end protein phosphorylates MAPT, but TUBA1B does not phosphorylate MAPT. Instead, MAPT and TUBA1B interact in microtubule dynamics."
+                },
+                {
+                    "start": "TUBA1B",
+                    "end": "TUBA1C",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 835.0,
+                        "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction between TUBA1B and TUBA1C is not relevant to the query. Both proteins are tubulin family members and do not phosphorylate MAPT directly. Therefore, the path should be deleted."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA1C"
+            ],
+            "score": 0.0,
+            "explanation": "The provided path 'MAPT -> TUBA1C' is irrelevant for the query, as MAPT stabilizes microtubules and interacts with TUBA1C for assembly. There is no evidence showing TUBA1C phosphorylates MAPT, nor any pathway from TUBA1C leading to MAPT phosphorylation.",
+            "details": "MAPT -> TUBA1C:\nThe interaction is not relevant. MAPT (tau) primarily stabilizes microtubules and interacts with TUBA1C for microtubule assembly. No direct evidence supports TUBA1C phosphorylating MAPT, nor a phosphorylation pathway from TUBA1C to MAPT.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA1C",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+                    },
+                    "explanation": "The interaction is not relevant. MAPT (tau) primarily stabilizes microtubules and interacts with TUBA1C for microtubule assembly. No direct evidence supports TUBA1C phosphorylating MAPT, nor a phosphorylation pathway from TUBA1C to MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "SYT1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> SYT1' is not relevant because SYT1 is a calcium sensor and does not have kinase activity to phosphorylate MAPT. Therefore, SYT1 cannot fulfill the requirement of the query, which seeks a protein that phosphorylates MAPT.",
+            "details": "MAPT -> SYT1:\nThe interaction is not relevant. The query seeks proteins that the end protein (SYT1) phosphorylates MAPT, but SYT1 is a calcium sensor and does not exhibit kinase activity necessary for phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "SYT1",
+                    "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "SYT1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 480.0,
+                        "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] "
+                    },
+                    "explanation": "The interaction is not relevant. The query seeks proteins that the end protein (SYT1) phosphorylates MAPT, but SYT1 is a calcium sensor and does not exhibit kinase activity necessary for phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TUBA4A"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MAPT and TUBA4A is not relevant to the query. MAPT, also known as tau, stabilizes microtubules by binding to tubulin (TUBA4A), but there is no evidence that TUBA4A phosphorylates MAPT. Therefore, this path does not satisfy the requirement of finding a protein path where the end protein phosphorylates MAPT.",
+            "details": "MAPT -> TUBA4A:\nThe interaction is not relevant. MAPT (tau) stabilizes microtubules by binding to tubulin (TUBA4A), but there is no evidence that TUBA4A phosphorylates MAPT. The query condition is unmet.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBA4A",
+                    "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TUBA4A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 618.0,
+                        "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "The interaction is not relevant. MAPT (tau) stabilizes microtubules by binding to tubulin (TUBA4A), but there is no evidence that TUBA4A phosphorylates MAPT. The query condition is unmet."
+                }
+            ]
+        }
+    ]
+}

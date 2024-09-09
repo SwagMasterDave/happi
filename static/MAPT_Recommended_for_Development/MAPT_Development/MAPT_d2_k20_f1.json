@@ -1,0 +1,594 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "TTBK1",
+            "annotation": "Tau-tubulin kinase 1; Serine/threonine kinase which is able to phosphorylate TAU on serine, threonine and tyrosine residues. Induces aggregation of TAU.",
+            "depth": 1
+        },
+        {
+            "name": "MARK3",
+            "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MARK1",
+            "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAP4",
+            "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly.",
+            "depth": 1
+        },
+        {
+            "name": "TTBK2",
+            "annotation": "Tau-tubulin kinase 2; Serine/threonine kinase that acts as a key regulator of ciliogenesis: controls the initiation of ciliogenesis by binding to the distal end of the basal body and promoting the removal of CCP110, which caps the mother centriole, leading to the recruitment of IFT proteins, which build the ciliary axoneme. Has some substrate preference for proteins that are already phosphorylated on a Tyr residue at the +2 position relative to the phosphorylation site. Able to phosphorylate tau on serines in vitro.",
+            "depth": 2
+        },
+        {
+            "name": "MARK2",
+            "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MAP2",
+            "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+            "depth": 2
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MAPT",
+            "end": "TTBK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction is relevant because TTBK1 directly phosphorylates MAPT (tau), impacting tau's function. This phosphorylation can induce tau aggregation, crucial for understanding tau-related neurodegenerative processes."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 207.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction is relevant because MARK3 directly phosphorylates MAPT/TAU, as stated in the annotations. This direct phosphorylation impacts MAPT's role in microtubule assembly and neuronal polarity, fitting the query's requirement."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAPT, regulating microtubule dynamics and neuronal polarity, impacting cell cycle progression and neuronal cell survival, which aligns with the query's requirement for phosphorylation of MAPT by the end protein."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 902.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction is relevant. MARK1 phosphorylates MAPT, directly impacting MAPT's function in microtubule dynamics and neuronal polarity. This aligns with the query seeking protein paths where the end protein (MARK1) phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAPT, fulfilling the query requirement. MARK4's role in microtubule regulation and neuronal cell survival underscores its biological significance in phosphorylating MAPT."
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant. MARK4 phosphorylates MAP2 and MAP4, which are microtubule-associated proteins. MAP4, in turn, promotes microtubule assembly, potentially impacting the phosphorylation of MAPT/TAU indirectly through microtubule dynamics."
+        },
+        {
+            "start": "MAPT",
+            "end": "TTBK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction is relevant. TTBK1 directly phosphorylates MAPT. MAPT promotes microtubule stability, while TTBK1 phosphorylates and induces aggregation of MAPT, potentially affecting neuronal polarity and cytoskeletal plasticity."
+        },
+        {
+            "start": "TTBK1",
+            "end": "TTBK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 208.0,
+                "annotation": "Tau-tubulin kinase 2; Serine/threonine kinase that acts as a key regulator of ciliogenesis: controls the initiation of ciliogenesis by binding to the distal end of the basal body and promoting the removal of CCP110, which caps the mother centriole, leading to the recruitment of IFT proteins, which build the ciliary axoneme. Has some substrate preference for proteins that are already phosphorylated on a Tyr residue at the +2 position relative to the phosphorylation site. Able to phosphorylate tau on serines in vitro."
+            },
+            "explanation": "The interaction is relevant because TTBK1 and TTBK2 both phosphorylate tau (MAPT). TTBK1 can phosphorylate TAU on multiple residues, and TTBK2 can phosphorylate tau on serines, aligning with the query's goal."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 207.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction is relevant. MARK3 phosphorylates MAPT directly, as per the annotations. This fits the query, which seeks paths where the end protein (MARK3) phosphorylates the start protein (MAPT)."
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 647.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            },
+            "explanation": "The interaction between MARK3 and MARK2 is relevant, as both proteins are serine/threonine-protein kinases that phosphorylate MAPT/TAU. MARK3 can phosphorylate MAPT directly, and MARK2 also directly phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction between MAPT and MAP4 is not relevant to the query because there is no evidence that MAP4 directly phosphorylates MAPT. Both proteins promote microtubule assembly but do not interact in this manner."
+        },
+        {
+            "start": "MAP4",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant because MARK4 directly phosphorylates MAPT, as stated in the end_annotation. MAP4 is phosphorylated by MARK4, indicating a direct regulatory relationship between MAP4 and MARK4, fulfilling the query's requirement."
+        },
+        {
+            "start": "MARK4",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 538.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction between MARK4 and MARK3 is relevant as both phosphorylate MAPT/TAU. MARK4's role includes reorganization of the microtubule network, while MARK3 regulates microtubule-associated protein phosphorylation, impacting MAPT/TAU directly."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction is not relevant. While MAPT and MAP4 both promote microtubule assembly, there is no direct evidence provided that MAP4 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed."
+        },
+        {
+            "start": "MAP4",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant. MAP4 can be phosphorylated by MARK4, which affects the microtubule network. MARK4 also phosphorylates MAPT, fulfilling the query requirement of identifying paths where the end protein phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction is not relevant. MAPT (Tau) and MAP4 are both microtubule-associated proteins promoting microtubule assembly, but there is no evidence or mechanism indicating that MAP4 phosphorylates MAPT directly."
+        },
+        {
+            "start": "MAP4",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant as MARK4 directly phosphorylates MAPT and also phosphorylates MAP4. MAP4 promotes microtubule assembly, which is relevant to the cellular processes involving MAPT phosphorylation by MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            },
+            "explanation": "The interaction between MARK4 and MAP2 is relevant. MARK4 directly phosphorylates MAP2, and MAP2 stabilizes microtubules. This fits the query as the end protein, MAP2, directly interacts with MAPT/TAU through phosphorylation."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MAPT",
+                "TTBK1"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> TTBK1 is highly relevant because TTBK1 directly phosphorylates MAPT (tau). This phosphorylation modulates tau's function and can induce tau aggregation, a key process in tau-related neurodegenerative diseases such as Alzheimer's disease.",
+            "details": "MAPT -> TTBK1:\nThe interaction is relevant because TTBK1 directly phosphorylates MAPT (tau), impacting tau's function. This phosphorylation can induce tau aggregation, crucial for understanding tau-related neurodegenerative processes.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "TTBK1",
+                    "annotation": "Tau-tubulin kinase 1; Serine/threonine kinase which is able to phosphorylate TAU on serine, threonine and tyrosine residues. Induces aggregation of TAU.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TTBK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction is relevant because TTBK1 directly phosphorylates MAPT (tau), impacting tau's function. This phosphorylation can induce tau aggregation, crucial for understanding tau-related neurodegenerative processes."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK3"
+            ],
+            "score": 100.0,
+            "explanation": "MARK3 directly phosphorylates MAPT, which is crucial for modulating MAPT's role in microtubule assembly and neuronal polarity. This interaction directly satisfies the query as it involves the end protein (MARK3) phosphorylating MAPT, thus influencing neuronal processes.",
+            "details": "MAPT -> MARK3:\nThe interaction is relevant because MARK3 directly phosphorylates MAPT/TAU, as stated in the annotations. This direct phosphorylation impacts MAPT's role in microtubule assembly and neuronal polarity, fitting the query's requirement.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK3",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 207.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction is relevant because MARK3 directly phosphorylates MAPT/TAU, as stated in the annotations. This direct phosphorylation impacts MAPT's role in microtubule assembly and neuronal polarity, fitting the query's requirement."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK4"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> MARK4 is highly relevant because MARK4 directly phosphorylates MAPT, which plays a key role in regulating microtubule dynamics and neuronal polarity. This activity impacts cell cycle progression and neuronal cell survival, directly aligning with the query's requirement for phosphorylation of MAPT by the end protein.",
+            "details": "MAPT -> MARK4:\nThe interaction is relevant. MARK4 directly phosphorylates MAPT, regulating microtubule dynamics and neuronal polarity, impacting cell cycle progression and neuronal cell survival, which aligns with the query's requirement for phosphorylation of MAPT by the end protein.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 442.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAPT, regulating microtubule dynamics and neuronal polarity, impacting cell cycle progression and neuronal cell survival, which aligns with the query's requirement for phosphorylation of MAPT by the end protein."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK1"
+            ],
+            "score": 100.0,
+            "explanation": "The path 'MAPT -> MARK1' is highly relevant because MARK1 directly phosphorylates MAPT. This phosphorylation significantly affects MAPT's role in microtubule dynamics and neuronal polarity, crucial for cellular functions and neurodevelopment. The direct interaction and its biological impact align perfectly with the query's requirement.",
+            "details": "MAPT -> MARK1:\nThe interaction is relevant. MARK1 phosphorylates MAPT, directly impacting MAPT's function in microtubule dynamics and neuronal polarity. This aligns with the query seeking protein paths where the end protein (MARK1) phosphorylates MAPT.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK1",
+                    "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK1",
+                    "type": "INTERACTS_FULL",
+                    "properties": {
+                        "score": 902.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK1 phosphorylates MAPT, directly impacting MAPT's function in microtubule dynamics and neuronal polarity. This aligns with the query seeking protein paths where the end protein (MARK1) phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK4",
+                "MAP4"
+            ],
+            "score": 95.0,
+            "explanation": "The path MAPT -> MARK4 -> MAP4 is highly relevant. MARK4 directly phosphorylates MAPT, crucial for microtubule regulation and neuronal survival. MARK4 also phosphorylates MAP4, enhancing microtubule assembly and indirectly impacting MAPT phosphorylation via microtubule dynamics.",
+            "details": "MAPT -> MARK4:\nThe interaction is relevant. MARK4 directly phosphorylates MAPT, fulfilling the query requirement. MARK4's role in microtubule regulation and neuronal cell survival underscores its biological significance in phosphorylating MAPT.\n\nMARK4 -> MAP4:\nThe interaction is relevant. MARK4 phosphorylates MAP2 and MAP4, which are microtubule-associated proteins. MAP4, in turn, promotes microtubule assembly, potentially impacting the phosphorylation of MAPT/TAU indirectly through microtubule dynamics.\n\n",
+            "proteins": [
+                {
+                    "name": "MAP4",
+                    "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 442.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAPT, fulfilling the query requirement. MARK4's role in microtubule regulation and neuronal cell survival underscores its biological significance in phosphorylating MAPT."
+                },
+                {
+                    "start": "MARK4",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK4 phosphorylates MAP2 and MAP4, which are microtubule-associated proteins. MAP4, in turn, promotes microtubule assembly, potentially impacting the phosphorylation of MAPT/TAU indirectly through microtubule dynamics."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "TTBK1",
+                "TTBK2"
+            ],
+            "score": 95.0,
+            "explanation": "The path MAPT -> TTBK1 -> TTBK2 is highly relevant as TTBK1 directly phosphorylates MAPT, impacting microtubule stability. Additionally, both TTBK1 and TTBK2 are involved in tau phosphorylation, aligning with the requirement that the end protein phosphorylates MAPT. This indicates a coherent biological process involving tau regulation.",
+            "details": "MAPT -> TTBK1:\nThe interaction is relevant. TTBK1 directly phosphorylates MAPT. MAPT promotes microtubule stability, while TTBK1 phosphorylates and induces aggregation of MAPT, potentially affecting neuronal polarity and cytoskeletal plasticity.\n\nTTBK1 -> TTBK2:\nThe interaction is relevant because TTBK1 and TTBK2 both phosphorylate tau (MAPT). TTBK1 can phosphorylate TAU on multiple residues, and TTBK2 can phosphorylate tau on serines, aligning with the query's goal.\n\n",
+            "proteins": [
+                {
+                    "name": "TTBK2",
+                    "annotation": "Tau-tubulin kinase 2; Serine/threonine kinase that acts as a key regulator of ciliogenesis: controls the initiation of ciliogenesis by binding to the distal end of the basal body and promoting the removal of CCP110, which caps the mother centriole, leading to the recruitment of IFT proteins, which build the ciliary axoneme. Has some substrate preference for proteins that are already phosphorylated on a Tyr residue at the +2 position relative to the phosphorylation site. Able to phosphorylate tau on serines in vitro.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "TTBK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction is relevant. TTBK1 directly phosphorylates MAPT. MAPT promotes microtubule stability, while TTBK1 phosphorylates and induces aggregation of MAPT, potentially affecting neuronal polarity and cytoskeletal plasticity."
+                },
+                {
+                    "start": "TTBK1",
+                    "end": "TTBK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 208.0,
+                        "annotation": "Tau-tubulin kinase 2; Serine/threonine kinase that acts as a key regulator of ciliogenesis: controls the initiation of ciliogenesis by binding to the distal end of the basal body and promoting the removal of CCP110, which caps the mother centriole, leading to the recruitment of IFT proteins, which build the ciliary axoneme. Has some substrate preference for proteins that are already phosphorylated on a Tyr residue at the +2 position relative to the phosphorylation site. Able to phosphorylate tau on serines in vitro."
+                    },
+                    "explanation": "The interaction is relevant because TTBK1 and TTBK2 both phosphorylate tau (MAPT). TTBK1 can phosphorylate TAU on multiple residues, and TTBK2 can phosphorylate tau on serines, aligning with the query's goal."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK3",
+                "MARK2"
+            ],
+            "score": 95.0,
+            "explanation": "The path MAPT -> MARK3 -> MARK2 is highly relevant because MARK3 phosphorylates MAPT directly, fitting the query's requirement for the end protein to phosphorylate MAPT. Additionally, both MARK3 and MARK2 are serine/threonine kinases that interact and influence each other, further supporting their roles in microtubule dynamics and MAPT phosphorylation.",
+            "details": "MAPT -> MARK3:\nThe interaction is relevant. MARK3 phosphorylates MAPT directly, as per the annotations. This fits the query, which seeks paths where the end protein (MARK3) phosphorylates the start protein (MAPT).\n\nMARK3 -> MARK2:\nThe interaction between MARK3 and MARK2 is relevant, as both proteins are serine/threonine-protein kinases that phosphorylate MAPT/TAU. MARK3 can phosphorylate MAPT directly, and MARK2 also directly phosphorylates MAPT.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK2",
+                    "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 207.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK3 phosphorylates MAPT directly, as per the annotations. This fits the query, which seeks paths where the end protein (MARK3) phosphorylates the start protein (MAPT)."
+                },
+                {
+                    "start": "MARK3",
+                    "end": "MARK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 647.0,
+                        "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+                    },
+                    "explanation": "The interaction between MARK3 and MARK2 is relevant, as both proteins are serine/threonine-protein kinases that phosphorylate MAPT/TAU. MARK3 can phosphorylate MAPT directly, and MARK2 also directly phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MAP4",
+                "MARK4",
+                "MARK3"
+            ],
+            "score": 90.0,
+            "explanation": "The path MAP4 -> MARK4 -> MARK3 is relevant because MARK4 directly phosphorylates MAPT, fulfilling the query requirement. MARK4 can phosphorylate MAP4, indicating a regulatory relationship. Both MARK4 and MARK3 are involved in microtubule dynamics and can phosphorylate MAPT, impacting its function.",
+            "details": "MAPT -> MAP4:\nThe interaction between MAPT and MAP4 is not relevant to the query because there is no evidence that MAP4 directly phosphorylates MAPT. Both proteins promote microtubule assembly but do not interact in this manner.\n\nMAP4 -> MARK4:\nThe interaction is relevant because MARK4 directly phosphorylates MAPT, as stated in the end_annotation. MAP4 is phosphorylated by MARK4, indicating a direct regulatory relationship between MAP4 and MARK4, fulfilling the query's requirement.\n\nMARK4 -> MARK3:\nThe interaction between MARK4 and MARK3 is relevant as both phosphorylate MAPT/TAU. MARK4's role includes reorganization of the microtubule network, while MARK3 regulates microtubule-associated protein phosphorylation, impacting MAPT/TAU directly.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction between MAPT and MAP4 is not relevant to the query because there is no evidence that MAP4 directly phosphorylates MAPT. Both proteins promote microtubule assembly but do not interact in this manner."
+                },
+                {
+                    "start": "MAP4",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant because MARK4 directly phosphorylates MAPT, as stated in the end_annotation. MAP4 is phosphorylated by MARK4, indicating a direct regulatory relationship between MAP4 and MARK4, fulfilling the query's requirement."
+                },
+                {
+                    "start": "MARK4",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 538.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and MARK3 is relevant as both phosphorylate MAPT/TAU. MARK4's role includes reorganization of the microtubule network, while MARK3 regulates microtubule-associated protein phosphorylation, impacting MAPT/TAU directly."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MAP4",
+                "MARK4"
+            ],
+            "score": 80.0,
+            "explanation": "This path is relevant because MARK4 directly phosphorylates MAPT, fulfilling the query requirement. Although MAPT and MAP4 both promote microtubule assembly, there is no evidence that MAP4 phosphorylates MAPT. However, MARK4's phosphorylation of MAPT is well-documented, indicating a direct and relevant interaction in the context of microtubule dynamics.",
+            "details": "MAPT -> MAP4:\nThe interaction is not relevant. While MAPT and MAP4 both promote microtubule assembly, there is no direct evidence provided that MAP4 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed.\n\nMAP4 -> MARK4:\nThe interaction is relevant. MAP4 can be phosphorylated by MARK4, which affects the microtubule network. MARK4 also phosphorylates MAPT, fulfilling the query requirement of identifying paths where the end protein phosphorylates MAPT.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction is not relevant. While MAPT and MAP4 both promote microtubule assembly, there is no direct evidence provided that MAP4 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed."
+                },
+                {
+                    "start": "MAP4",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant. MAP4 can be phosphorylated by MARK4, which affects the microtubule network. MARK4 also phosphorylates MAPT, fulfilling the query requirement of identifying paths where the end protein phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MAP4",
+                "MARK4",
+                "MAP2"
+            ],
+            "score": 60.0,
+            "explanation": "The path MAPT -> MAP4 -> MARK4 -> MAP2 is not fully relevant. While MARK4 directly phosphorylates MAPT and MAP2, MAPT and MAP4 do not have a direct phosphorylation interaction. MARK4's role in phosphorylating both MAPT and MAP2 fits the query but the initial interaction between MAPT and MAP4 lacks evidence.",
+            "details": "MAPT -> MAP4:\nThe interaction is not relevant. MAPT (Tau) and MAP4 are both microtubule-associated proteins promoting microtubule assembly, but there is no evidence or mechanism indicating that MAP4 phosphorylates MAPT directly.\n\nMAP4 -> MARK4:\nThe interaction is relevant as MARK4 directly phosphorylates MAPT and also phosphorylates MAP4. MAP4 promotes microtubule assembly, which is relevant to the cellular processes involving MAPT phosphorylation by MARK4.\n\nMARK4 -> MAP2:\nThe interaction between MARK4 and MAP2 is relevant. MARK4 directly phosphorylates MAP2, and MAP2 stabilizes microtubules. This fits the query as the end protein, MAP2, directly interacts with MAPT/TAU through phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "MAP2",
+                    "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction is not relevant. MAPT (Tau) and MAP4 are both microtubule-associated proteins promoting microtubule assembly, but there is no evidence or mechanism indicating that MAP4 phosphorylates MAPT directly."
+                },
+                {
+                    "start": "MAP4",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant as MARK4 directly phosphorylates MAPT and also phosphorylates MAP4. MAP4 promotes microtubule assembly, which is relevant to the cellular processes involving MAPT phosphorylation by MARK4."
+                },
+                {
+                    "start": "MARK4",
+                    "end": "MAP2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+                    },
+                    "explanation": "The interaction between MARK4 and MAP2 is relevant. MARK4 directly phosphorylates MAP2, and MAP2 stabilizes microtubules. This fits the query as the end protein, MAP2, directly interacts with MAPT/TAU through phosphorylation."
+                }
+            ]
+        }
+    ]
+}

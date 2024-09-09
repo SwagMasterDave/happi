@@ -1,0 +1,594 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "CDK5",
+            "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] ",
+            "depth": 1
+        },
+        {
+            "name": "BRSK2",
+            "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+            "depth": 1
+        },
+        {
+            "name": "BRSK1",
+            "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CDK1",
+            "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CDK2",
+            "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] ",
+            "depth": 2
+        },
+        {
+            "name": "SPAG5",
+            "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] ",
+            "depth": 1
+        },
+        {
+            "name": "AURKA",
+            "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PKMYT1",
+            "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] ",
+            "depth": 2
+        },
+        {
+            "name": "APP",
+            "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+            "depth": 1
+        },
+        {
+            "name": "GSAP",
+            "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] ",
+            "depth": 2
+        },
+        {
+            "name": "DCTN2",
+            "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development.",
+            "depth": 1
+        },
+        {
+            "name": "RAB7A",
+            "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] ",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MAPT",
+            "end": "CDK5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 784.0,
+                "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+            },
+            "explanation": "The interaction is relevant because CDK5 directly phosphorylates MAPT (tau), which is essential for several neuronal processes including cell cycle arrest and differentiation. This direct phosphorylation aligns with the query's requirement."
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            },
+            "explanation": "The interaction is directly relevant. BRSK2 phosphorylates MAPT at 'Thr-529' and 'Ser-579', aligning with the query's goal of finding protein paths where the end protein (BRSK2) phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            },
+            "explanation": "The interaction is relevant because BRSK2 directly phosphorylates MAPT at specific sites (Thr-529 and Ser-579). This direct phosphorylation supports the query's requirement."
+        },
+        {
+            "start": "BRSK2",
+            "end": "BRSK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 348.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            },
+            "explanation": "The interaction is relevant because both BRSK2 and BRSK1 directly phosphorylate MAPT at 'Thr-529' and 'Ser-579,' making them part of the same biochemical pathway that regulates neuronal polarization."
+        },
+        {
+            "start": "MAPT",
+            "end": "CDK5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 784.0,
+                "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+            },
+            "explanation": "The interaction is relevant. CDK5 directly phosphorylates MAPT (tau), as highlighted in the annotations. This phosphorylation impacts tau's role in microtubule stability and neuronal polarity, directly linking the two proteins."
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 293.0,
+                "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] "
+            },
+            "explanation": "The interaction is not relevant as there is no direct evidence that CDK1 phosphorylates MAPT. Both CDK5 and CDK1 phosphorylate many substrates, including MAPT, but a direct interaction between CDK1 and MAPT is not established."
+        },
+        {
+            "start": "MAPT",
+            "end": "CDK5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 784.0,
+                "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+            },
+            "explanation": "The interaction is relevant because CDK5 directly phosphorylates MAPT (tau). This phosphorylation is well-documented and impacts neuronal functions such as microtubule stability and cell cycle regulation, aligning with the query's objective."
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 921.0,
+                "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] "
+            },
+            "explanation": "The interaction between CDK5 and CDK2 is not relevant to the query. CDK2 does not phosphorylate MAPT, and there's no direct interaction pathway from CDK5 to CDK2 involving MAPT phosphorylation."
+        },
+        {
+            "start": "MAPT",
+            "end": "SPAG5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] "
+            },
+            "explanation": "The interaction is not relevant because SPAG5 does not directly interact with or phosphorylate MAPT based on the provided information. Therefore, there is no direct path or mechanism linking SPAG5 to the phosphorylation of MAPT."
+        },
+        {
+            "start": "SPAG5",
+            "end": "AURKA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] "
+            },
+            "explanation": "The interaction is relevant because SPAG5 is known to regulate the localization of AURKA to the mitotic spindle, and AURKA phosphorylates MAPT, implicating a direct and biologically significant pathway for the query."
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            },
+            "explanation": "The interaction is relevant because BRSK2 directly phosphorylates MAPT (Tau) at specific residues (Thr-529 and Ser-579), which aligns with the query requirement of finding protein paths where the end protein phosphorylates MAPT."
+        },
+        {
+            "start": "BRSK2",
+            "end": "PKMYT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 552.0,
+                "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] "
+            },
+            "explanation": "The interaction is not relevant. BRSK2 directly phosphorylates MAPT, but there is no direct evidence of PKMYT1 phosphorylating MAPT or being involved in a pathway leading to MAPT phosphorylation."
+        },
+        {
+            "start": "MAPT",
+            "end": "APP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 886.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            },
+            "explanation": "The interaction is not relevant because MAPT (tau) does not directly phosphorylate APP (amyloid precursor protein). There is no evidence of a direct phosphorylation event between these two proteins in the provided annotations."
+        },
+        {
+            "start": "APP",
+            "end": "GSAP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 539.0,
+                "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+            },
+            "explanation": "The interaction between APP and GSAP is relevant to the query as GSAP regulates gamma-secretase activity, which cleaves APP, leading to downstream effects that could influence MAPT phosphorylation indirectly."
+        },
+        {
+            "start": "MAPT",
+            "end": "DCTN2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development."
+            },
+            "explanation": "The interaction between MAPT and DCTN2 is not relevant to the query. MAPT (tau) promotes microtubule stability and neuronal polarity, while DCTN2 modulates dynein binding and spindle organization. No direct phosphorylation relationship is indicated."
+        },
+        {
+            "start": "MAPT",
+            "end": "RAB7A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] "
+            },
+            "explanation": "The provided interaction is not relevant to the query. There is no direct evidence that RAB7A phosphorylates MAPT. Both proteins play different roles: MAPT in microtubule assembly and RAB7A in endo-lysosomal trafficking."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MAPT",
+                "CDK5"
+            ],
+            "score": 100.0,
+            "explanation": "MAPT (tau) is directly phosphorylated by CDK5, which is crucial for neuronal processes like cell cycle arrest and differentiation. This direct phosphorylation satisfies the query's requirement of finding a protein path where the end protein phosphorylates MAPT.",
+            "details": "MAPT -> CDK5:\nThe interaction is relevant because CDK5 directly phosphorylates MAPT (tau), which is essential for several neuronal processes including cell cycle arrest and differentiation. This direct phosphorylation aligns with the query's requirement.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "CDK5",
+                    "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CDK5",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 784.0,
+                        "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+                    },
+                    "explanation": "The interaction is relevant because CDK5 directly phosphorylates MAPT (tau), which is essential for several neuronal processes including cell cycle arrest and differentiation. This direct phosphorylation aligns with the query's requirement."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "BRSK2"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> BRSK2 is highly relevant because BRSK2 directly phosphorylates MAPT at specific sites (Thr-529 and Ser-579). This interaction is crucial in regulating microtubule dynamics and neuronal signaling, which are important processes in neurodegenerative diseases like Alzheimer's disease.",
+            "details": "MAPT -> BRSK2:\nThe interaction is directly relevant. BRSK2 phosphorylates MAPT at 'Thr-529' and 'Ser-579', aligning with the query's goal of finding protein paths where the end protein (BRSK2) phosphorylates MAPT.\n\n",
+            "proteins": [
+                {
+                    "name": "BRSK2",
+                    "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "BRSK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+                    },
+                    "explanation": "The interaction is directly relevant. BRSK2 phosphorylates MAPT at 'Thr-529' and 'Ser-579', aligning with the query's goal of finding protein paths where the end protein (BRSK2) phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "BRSK2",
+                "BRSK1"
+            ],
+            "score": 100.0,
+            "explanation": "This path is highly relevant as BRSK2 directly phosphorylates MAPT at Thr-529 and Ser-579, and BRSK1 also phosphorylates MAPT at the same sites. Both BRSK2 and BRSK1 are involved in regulating neuronal polarization, a critical biological process in neural development.",
+            "details": "MAPT -> BRSK2:\nThe interaction is relevant because BRSK2 directly phosphorylates MAPT at specific sites (Thr-529 and Ser-579). This direct phosphorylation supports the query's requirement.\n\nBRSK2 -> BRSK1:\nThe interaction is relevant because both BRSK2 and BRSK1 directly phosphorylate MAPT at 'Thr-529' and 'Ser-579,' making them part of the same biochemical pathway that regulates neuronal polarization.\n\n",
+            "proteins": [
+                {
+                    "name": "BRSK1",
+                    "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "BRSK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+                    },
+                    "explanation": "The interaction is relevant because BRSK2 directly phosphorylates MAPT at specific sites (Thr-529 and Ser-579). This direct phosphorylation supports the query's requirement."
+                },
+                {
+                    "start": "BRSK2",
+                    "end": "BRSK1",
+                    "type": "INTERACTS_FULL",
+                    "properties": {
+                        "score": 348.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+                    },
+                    "explanation": "The interaction is relevant because both BRSK2 and BRSK1 directly phosphorylate MAPT at 'Thr-529' and 'Ser-579,' making them part of the same biochemical pathway that regulates neuronal polarization."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "CDK5",
+                "CDK1"
+            ],
+            "score": 50.0,
+            "explanation": "The path 'MAPT -> CDK5 -> CDK1' is not entirely relevant. While CDK5 directly phosphorylates MAPT, CDK1 does not have a direct interaction with MAPT. Therefore, this path does not satisfy the query's requirement for the end protein (CDK1) to phosphorylate MAPT.",
+            "details": "MAPT -> CDK5:\nThe interaction is relevant. CDK5 directly phosphorylates MAPT (tau), as highlighted in the annotations. This phosphorylation impacts tau's role in microtubule stability and neuronal polarity, directly linking the two proteins.\n\nCDK5 -> CDK1:\nThe interaction is not relevant as there is no direct evidence that CDK1 phosphorylates MAPT. Both CDK5 and CDK1 phosphorylate many substrates, including MAPT, but a direct interaction between CDK1 and MAPT is not established.\n\n",
+            "proteins": [
+                {
+                    "name": "CDK1",
+                    "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CDK5",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 784.0,
+                        "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+                    },
+                    "explanation": "The interaction is relevant. CDK5 directly phosphorylates MAPT (tau), as highlighted in the annotations. This phosphorylation impacts tau's role in microtubule stability and neuronal polarity, directly linking the two proteins."
+                },
+                {
+                    "start": "CDK5",
+                    "end": "CDK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 293.0,
+                        "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] "
+                    },
+                    "explanation": "The interaction is not relevant as there is no direct evidence that CDK1 phosphorylates MAPT. Both CDK5 and CDK1 phosphorylate many substrates, including MAPT, but a direct interaction between CDK1 and MAPT is not established."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "CDK5",
+                "CDK2"
+            ],
+            "score": 50.0,
+            "explanation": "The path 'MAPT -> CDK5 -> CDK2' is partially relevant. CDK5 directly phosphorylates MAPT, which is crucial for neuronal functions. However, there is no documented evidence of a relevant interaction between CDK5 and CDK2 that involves MAPT phosphorylation. Thus, the path does not fully satisfy the query.",
+            "details": "MAPT -> CDK5:\nThe interaction is relevant because CDK5 directly phosphorylates MAPT (tau). This phosphorylation is well-documented and impacts neuronal functions such as microtubule stability and cell cycle regulation, aligning with the query's objective.\n\nCDK5 -> CDK2:\nThe interaction between CDK5 and CDK2 is not relevant to the query. CDK2 does not phosphorylate MAPT, and there's no direct interaction pathway from CDK5 to CDK2 involving MAPT phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "CDK2",
+                    "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CDK5",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 784.0,
+                        "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+                    },
+                    "explanation": "The interaction is relevant because CDK5 directly phosphorylates MAPT (tau). This phosphorylation is well-documented and impacts neuronal functions such as microtubule stability and cell cycle regulation, aligning with the query's objective."
+                },
+                {
+                    "start": "CDK5",
+                    "end": "CDK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 921.0,
+                        "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] "
+                    },
+                    "explanation": "The interaction between CDK5 and CDK2 is not relevant to the query. CDK2 does not phosphorylate MAPT, and there's no direct interaction pathway from CDK5 to CDK2 involving MAPT phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "SPAG5",
+                "AURKA"
+            ],
+            "score": 50.0,
+            "explanation": "The path 'MAPT -> SPAG5 -> AURKA' is not relevant as SPAG5 does not directly interact with or phosphorylate MAPT. However, SPAG5 regulates AURKA's localization, which phosphorylates MAPT. Given the lack of direct interaction between MAPT and SPAG5, the path only partially satisfies the query.",
+            "details": "MAPT -> SPAG5:\nThe interaction is not relevant because SPAG5 does not directly interact with or phosphorylate MAPT based on the provided information. Therefore, there is no direct path or mechanism linking SPAG5 to the phosphorylation of MAPT.\n\nSPAG5 -> AURKA:\nThe interaction is relevant because SPAG5 is known to regulate the localization of AURKA to the mitotic spindle, and AURKA phosphorylates MAPT, implicating a direct and biologically significant pathway for the query.\n\n",
+            "proteins": [
+                {
+                    "name": "SPAG5",
+                    "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "AURKA",
+                    "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "SPAG5",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] "
+                    },
+                    "explanation": "The interaction is not relevant because SPAG5 does not directly interact with or phosphorylate MAPT based on the provided information. Therefore, there is no direct path or mechanism linking SPAG5 to the phosphorylation of MAPT."
+                },
+                {
+                    "start": "SPAG5",
+                    "end": "AURKA",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] "
+                    },
+                    "explanation": "The interaction is relevant because SPAG5 is known to regulate the localization of AURKA to the mitotic spindle, and AURKA phosphorylates MAPT, implicating a direct and biologically significant pathway for the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "BRSK2",
+                "PKMYT1"
+            ],
+            "score": 30.0,
+            "explanation": "The path MAPT -> BRSK2 -> PKMYT1 does not satisfy the query as PKMYT1 does not phosphorylate MAPT. BRSK2 directly phosphorylates MAPT, but there is no evidence that PKMYT1 is involved in MAPT phosphorylation. Therefore, the path is not relevant.",
+            "details": "MAPT -> BRSK2:\nThe interaction is relevant because BRSK2 directly phosphorylates MAPT (Tau) at specific residues (Thr-529 and Ser-579), which aligns with the query requirement of finding protein paths where the end protein phosphorylates MAPT.\n\nBRSK2 -> PKMYT1:\nThe interaction is not relevant. BRSK2 directly phosphorylates MAPT, but there is no direct evidence of PKMYT1 phosphorylating MAPT or being involved in a pathway leading to MAPT phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "PKMYT1",
+                    "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "BRSK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+                    },
+                    "explanation": "The interaction is relevant because BRSK2 directly phosphorylates MAPT (Tau) at specific residues (Thr-529 and Ser-579), which aligns with the query requirement of finding protein paths where the end protein phosphorylates MAPT."
+                },
+                {
+                    "start": "BRSK2",
+                    "end": "PKMYT1",
+                    "type": "INTERACTS_FULL",
+                    "properties": {
+                        "score": 552.0,
+                        "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] "
+                    },
+                    "explanation": "The interaction is not relevant. BRSK2 directly phosphorylates MAPT, but there is no direct evidence of PKMYT1 phosphorylating MAPT or being involved in a pathway leading to MAPT phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "APP",
+                "GSAP"
+            ],
+            "score": 10.0,
+            "explanation": "The path 'MAPT -> APP -> GSAP' is not recommended. The interaction MAPT -> APP is not relevant as MAPT does not directly phosphorylate APP. While APP -> GSAP is relevant to gamma-secretase regulation, it does not directly satisfy the query of the end protein phosphorylating MAPT.",
+            "details": "MAPT -> APP:\nThe interaction is not relevant because MAPT (tau) does not directly phosphorylate APP (amyloid precursor protein). There is no evidence of a direct phosphorylation event between these two proteins in the provided annotations.\n\nAPP -> GSAP:\nThe interaction between APP and GSAP is relevant to the query as GSAP regulates gamma-secretase activity, which cleaves APP, leading to downstream effects that could influence MAPT phosphorylation indirectly.\n\n",
+            "proteins": [
+                {
+                    "name": "APP",
+                    "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "GSAP",
+                    "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "APP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 886.0,
+                        "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+                    },
+                    "explanation": "The interaction is not relevant because MAPT (tau) does not directly phosphorylate APP (amyloid precursor protein). There is no evidence of a direct phosphorylation event between these two proteins in the provided annotations."
+                },
+                {
+                    "start": "APP",
+                    "end": "GSAP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 539.0,
+                        "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+                    },
+                    "explanation": "The interaction between APP and GSAP is relevant to the query as GSAP regulates gamma-secretase activity, which cleaves APP, leading to downstream effects that could influence MAPT phosphorylation indirectly."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "DCTN2"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> DCTN2' is not relevant to the query. MAPT (tau) enhances microtubule stability and neuronal polarity, while DCTN2 modulates dynein binding and spindle organization. There is no direct phosphorylation relationship indicated between them, and DCTN2 does not phosphorylate MAPT.",
+            "details": "MAPT -> DCTN2:\nThe interaction between MAPT and DCTN2 is not relevant to the query. MAPT (tau) promotes microtubule stability and neuronal polarity, while DCTN2 modulates dynein binding and spindle organization. No direct phosphorylation relationship is indicated.\n\n",
+            "proteins": [
+                {
+                    "name": "DCTN2",
+                    "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "DCTN2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development."
+                    },
+                    "explanation": "The interaction between MAPT and DCTN2 is not relevant to the query. MAPT (tau) promotes microtubule stability and neuronal polarity, while DCTN2 modulates dynein binding and spindle organization. No direct phosphorylation relationship is indicated."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "RAB7A"
+            ],
+            "score": 0.0,
+            "explanation": "The path MAPT -> RAB7A is not relevant to the query. There is no evidence that RAB7A phosphorylates MAPT. MAPT is involved in microtubule assembly, while RAB7A is involved in endo-lysosomal trafficking. These distinct biological roles do not support a phosphorylation relationship.",
+            "details": "MAPT -> RAB7A:\nThe provided interaction is not relevant to the query. There is no direct evidence that RAB7A phosphorylates MAPT. Both proteins play different roles: MAPT in microtubule assembly and RAB7A in endo-lysosomal trafficking.\n\n",
+            "proteins": [
+                {
+                    "name": "RAB7A",
+                    "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "RAB7A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] "
+                    },
+                    "explanation": "The provided interaction is not relevant to the query. There is no direct evidence that RAB7A phosphorylates MAPT. Both proteins play different roles: MAPT in microtubule assembly and RAB7A in endo-lysosomal trafficking."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,692 @@
+{
+    "Graph name": "MAPT_d2_k20_f2",
+    "Protein": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "TUBB3",
+            "annotation": "Tubulin beta-3 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain. TUBB3 plays a critical role in proper axon guidance and mantainance. Binding of NTN1/Netrin-1 to its receptor UNC5C might cause dissociation of UNC5C from polymerized TUBB3 in microtubules and thereby lead to increased microtubule dynamics and axon repulsion. Plays a role in dorsal root ganglion axon projection towards the spinal cord.",
+            "depth": 1
+        },
+        {
+            "name": "PTK2B",
+            "annotation": "Protein-tyrosine kinase 2-beta; Non-receptor protein-tyrosine kinase that regulates reorganization of the actin cytoskeleton, cell polarization, cell migration, adhesion, spreading and bone remodeling. Plays a role in the regulation of the humoral immune response, and is required for normal levels of marginal B-cells in the spleen and normal migration of splenic B-cells. Required for normal macrophage polarization and migration towards sites of inflammation. Regulates cytoskeleton rearrangement and cell spreading in T-cells, and contributes to the regulation of T-cell responses. Promot [...] ",
+            "depth": 1
+        },
+        {
+            "name": "ABL1",
+            "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MARK2",
+            "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+            "depth": 1
+        },
+        {
+            "name": "KATNA1",
+            "annotation": "Katanin p60 ATPase-containing subunit A1; Catalytic subunit of a complex which severs microtubules in an ATP-dependent manner. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Microtubule release within the cell body of neurons may be required for their transport into neuronal p [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBB2B",
+            "annotation": "Tubulin beta-2B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non- exchangeable site on the alpha chain (By similarity). Plays a critical role in proper axon guidance in both central and peripheral axon tracts. Implicated in neuronal migration. Belongs to the tubulin family.",
+            "depth": 1
+        },
+        {
+            "name": "BRSK1",
+            "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+            "depth": 1
+        },
+        {
+            "name": "BIN1",
+            "annotation": "Myc box-dependent-interacting protein 1; Is a key player in the control of plasma membrane curvature, membrane shaping and membrane remodeling. Required in muscle cells for the formation of T-tubules, tubular invaginations of the plasma membrane that function in depolarization-contraction coupling. Is a negative regulator of endocytosis (By similarity). Is also involved in the regulation of intracellular vesicles sorting, modulation of BACE1 trafficking and the control of amyloid-beta production. In neuronal circuits, endocytosis regulation may influence the internalization of PHF-tau  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAP2",
+            "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+            "depth": 1
+        },
+        {
+            "name": "STMN2",
+            "annotation": "Stathmin-2; Regulator of microtubule stability. When phosphorylated by MAPK8, stabilizes microtubules and consequently controls neurite length in cortical neurons. In the developing brain, negatively regulates the rate of exit from multipolar stage and retards radial migration from the ventricular zone (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "TUBB",
+            "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "SIRPA",
+            "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PTK2",
+            "annotation": "Focal adhesion kinase 1; Non-receptor protein-tyrosine kinase that plays an essential role in regulating cell migration, adhesion, spreading, reorganization of the actin cytoskeleton, formation and disassembly of focal adhesions and cell protrusions, cell cycle progression, cell proliferation and apoptosis. Required for early embryonic development and placenta development. Required for embryonic angiogenesis, normal cardiomyocyte migration and proliferation, and normal heart development. Regulates axon growth and neuronal cell migration, axon branching and synapse formation; required f [...] ",
+            "depth": 2
+        },
+        {
+            "name": "ABL2",
+            "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] ",
+            "depth": 2
+        },
+        {
+            "name": "ABI2",
+            "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK3",
+            "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK1",
+            "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] ",
+            "depth": 2
+        },
+        {
+            "name": "KATNAL2",
+            "annotation": "Katanin p60 ATPase-containing subunit A-like 2; Severs microtubules in vitro in an ATP-dependent manner. This activity may promote rapid reorganization of cellular microtubule arrays.",
+            "depth": 2
+        },
+        {
+            "name": "KATNB1",
+            "annotation": "Katanin p80 WD40 repeat-containing subunit B1; Participates in a complex which severs microtubules in an ATP-dependent manner. May act to target the enzymatic subunit of this complex to sites of action such as the centrosome. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Micr [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TUBB1",
+            "annotation": "Tubulin beta-1 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB2A",
+            "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "PAK1",
+            "annotation": "Serine/threonine-protein kinase PAK 1; Protein kinase involved in intracellular signaling pathways downstream of integrins and receptor-type kinases that plays an important role in cytoskeleton dynamics, in cell adhesion, migration, proliferation, apoptosis, mitosis, and in vesicle-mediated transport processes. Can directly phosphorylate BAD and protects cells against apoptosis. Activated by interaction with CDC42 and RAC1. Functions as GTPase effector that links the Rho-related GTPases CDC42 and RAC1 to the JNK MAP kinase pathway. Phosphorylates and activates MAP2K1, and thereby media [...] ",
+            "depth": 2
+        },
+        {
+            "name": "BRSK2",
+            "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+            "depth": 2
+        },
+        {
+            "name": "SGIP1",
+            "annotation": "SH3-containing GRB2-like protein 3-interacting protein 1; May function in clathrin-mediated endocytosis. Has both a membrane binding/tubulating activity and the ability to recruit proteins essential to the formation of functional clathrin-coated pits. Has a preference for membranes enriched in phosphatidylserine and phosphoinositides and is required for the endocytosis of the transferrin receptor. May also bind tubulin. May play a role in the regulation of energy homeostasis.",
+            "depth": 2
+        },
+        {
+            "name": "EHD1",
+            "annotation": "EH domain-containing protein 1; ATP- and membrane-binding protein that controls membrane reorganization/tubulation upon ATP hydrolysis. In vitro causes vesiculation of endocytic membranes. Acts in early endocytic membrane fusion and membrane trafficking of recycling endosomes. Recruited to endosomal membranes upon nerve growth factor stimulation, indirectly regulates neurite outgrowth (By similarity). Plays a role in myoblast fusion (By similarity). Involved in the unidirectional retrograde dendritic transport of endocytosed BACE1 and in efficient sorting of BACE1 to axons implicating  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 2
+        },
+        {
+            "name": "STMN1",
+            "annotation": "Stathmin; Involved in the regulation of the microtubule (MT) filament system by destabilizing microtubules. Prevents assembly and promotes disassembly of microtubules. Phosphorylation at Ser-16 may be required for axon formation during neurogenesis. Involved in the control of the learned and innate fear (By similarity); Belongs to the stathmin family.",
+            "depth": 2
+        },
+        {
+            "name": "STMN3",
+            "annotation": "Stathmin-3; Exhibits microtubule-destabilizing activity, which is antagonized by STAT3; Belongs to the stathmin family.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MAPT",
+            "end": "TUBB3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 987.0,
+                "annotation": "Tubulin beta-3 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain. TUBB3 plays a critical role in proper axon guidance and mantainance. Binding of NTN1/Netrin-1 to its receptor UNC5C might cause dissociation of UNC5C from polymerized TUBB3 in microtubules and thereby lead to increased microtubule dynamics and axon repulsion. Plays a role in dorsal root ganglion axon projection towards the spinal cord."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBB3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 618.0,
+                "annotation": "Tubulin beta-3 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain. TUBB3 plays a critical role in proper axon guidance and mantainance. Binding of NTN1/Netrin-1 to its receptor UNC5C might cause dissociation of UNC5C from polymerized TUBB3 in microtubules and thereby lead to increased microtubule dynamics and axon repulsion. Plays a role in dorsal root ganglion axon projection towards the spinal cord."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "PTK2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 510.0,
+                "annotation": "Protein-tyrosine kinase 2-beta; Non-receptor protein-tyrosine kinase that regulates reorganization of the actin cytoskeleton, cell polarization, cell migration, adhesion, spreading and bone remodeling. Plays a role in the regulation of the humoral immune response, and is required for normal levels of marginal B-cells in the spleen and normal migration of splenic B-cells. Required for normal macrophage polarization and migration towards sites of inflammation. Regulates cytoskeleton rearrangement and cell spreading in T-cells, and contributes to the regulation of T-cell responses. Promot [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "PTK2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Protein-tyrosine kinase 2-beta; Non-receptor protein-tyrosine kinase that regulates reorganization of the actin cytoskeleton, cell polarization, cell migration, adhesion, spreading and bone remodeling. Plays a role in the regulation of the humoral immune response, and is required for normal levels of marginal B-cells in the spleen and normal migration of splenic B-cells. Required for normal macrophage polarization and migration towards sites of inflammation. Regulates cytoskeleton rearrangement and cell spreading in T-cells, and contributes to the regulation of T-cell responses. Promot [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "ABL1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 619.0,
+                "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "ABL1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 865.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 621.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "KATNA1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 326.0,
+                "annotation": "Katanin p60 ATPase-containing subunit A1; Catalytic subunit of a complex which severs microtubules in an ATP-dependent manner. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Microtubule release within the cell body of neurons may be required for their transport into neuronal p [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "KATNA1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 194.0,
+                "annotation": "Katanin p60 ATPase-containing subunit A1; Catalytic subunit of a complex which severs microtubules in an ATP-dependent manner. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Microtubule release within the cell body of neurons may be required for their transport into neuronal p [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBB2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 994.0,
+                "annotation": "Tubulin beta-2B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non- exchangeable site on the alpha chain (By similarity). Plays a critical role in proper axon guidance in both central and peripheral axon tracts. Implicated in neuronal migration. Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBB2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 926.0,
+                "annotation": "Tubulin beta-2B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non- exchangeable site on the alpha chain (By similarity). Plays a critical role in proper axon guidance in both central and peripheral axon tracts. Implicated in neuronal migration. Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 527.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BIN1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 941.0,
+                "annotation": "Myc box-dependent-interacting protein 1; Is a key player in the control of plasma membrane curvature, membrane shaping and membrane remodeling. Required in muscle cells for the formation of T-tubules, tubular invaginations of the plasma membrane that function in depolarization-contraction coupling. Is a negative regulator of endocytosis (By similarity). Is also involved in the regulation of intracellular vesicles sorting, modulation of BACE1 trafficking and the control of amyloid-beta production. In neuronal circuits, endocytosis regulation may influence the internalization of PHF-tau  [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BIN1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 614.0,
+                "annotation": "Myc box-dependent-interacting protein 1; Is a key player in the control of plasma membrane curvature, membrane shaping and membrane remodeling. Required in muscle cells for the formation of T-tubules, tubular invaginations of the plasma membrane that function in depolarization-contraction coupling. Is a negative regulator of endocytosis (By similarity). Is also involved in the regulation of intracellular vesicles sorting, modulation of BACE1 trafficking and the control of amyloid-beta production. In neuronal circuits, endocytosis regulation may influence the internalization of PHF-tau  [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 661.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "STMN2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 561.0,
+                "annotation": "Stathmin-2; Regulator of microtubule stability. When phosphorylated by MAPK8, stabilizes microtubules and consequently controls neurite length in cortical neurons. In the developing brain, negatively regulates the rate of exit from multipolar stage and retards radial migration from the ventricular zone (By similarity)."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "STMN2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Stathmin-2; Regulator of microtubule stability. When phosphorylated by MAPK8, stabilizes microtubules and consequently controls neurite length in cortical neurons. In the developing brain, negatively regulates the rate of exit from multipolar stage and retards radial migration from the ventricular zone (By similarity)."
+            }
+        },
+        {
+            "start": "TUBB3",
+            "end": "TUBB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 295.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBB3",
+            "end": "TUBB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 210.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBB3",
+            "end": "TUBB2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 655.0,
+                "annotation": "Tubulin beta-2B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non- exchangeable site on the alpha chain (By similarity). Plays a critical role in proper axon guidance in both central and peripheral axon tracts. Implicated in neuronal migration. Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBB3",
+            "end": "TUBB2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 361.0,
+                "annotation": "Tubulin beta-2B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non- exchangeable site on the alpha chain (By similarity). Plays a critical role in proper axon guidance in both central and peripheral axon tracts. Implicated in neuronal migration. Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "PTK2B",
+            "end": "SIRPA",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 788.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            }
+        },
+        {
+            "start": "PTK2B",
+            "end": "SIRPA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 682.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            }
+        },
+        {
+            "start": "PTK2B",
+            "end": "PTK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 984.0,
+                "annotation": "Focal adhesion kinase 1; Non-receptor protein-tyrosine kinase that plays an essential role in regulating cell migration, adhesion, spreading, reorganization of the actin cytoskeleton, formation and disassembly of focal adhesions and cell protrusions, cell cycle progression, cell proliferation and apoptosis. Required for early embryonic development and placenta development. Required for embryonic angiogenesis, normal cardiomyocyte migration and proliferation, and normal heart development. Regulates axon growth and neuronal cell migration, axon branching and synapse formation; required f [...] "
+            }
+        },
+        {
+            "start": "PTK2B",
+            "end": "PTK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 982.0,
+                "annotation": "Focal adhesion kinase 1; Non-receptor protein-tyrosine kinase that plays an essential role in regulating cell migration, adhesion, spreading, reorganization of the actin cytoskeleton, formation and disassembly of focal adhesions and cell protrusions, cell cycle progression, cell proliferation and apoptosis. Required for early embryonic development and placenta development. Required for embryonic angiogenesis, normal cardiomyocyte migration and proliferation, and normal heart development. Regulates axon growth and neuronal cell migration, axon branching and synapse formation; required f [...] "
+            }
+        },
+        {
+            "start": "ABL1",
+            "end": "ABL2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] "
+            }
+        },
+        {
+            "start": "ABL1",
+            "end": "ABL2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 976.0,
+                "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] "
+            }
+        },
+        {
+            "start": "ABL1",
+            "end": "ABI2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] "
+            }
+        },
+        {
+            "start": "ABL1",
+            "end": "ABI2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 840.0,
+                "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] "
+            }
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 804.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 647.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 743.0,
+                "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+            }
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 675.0,
+                "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+            }
+        },
+        {
+            "start": "KATNA1",
+            "end": "KATNAL2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 466.0,
+                "annotation": "Katanin p60 ATPase-containing subunit A-like 2; Severs microtubules in vitro in an ATP-dependent manner. This activity may promote rapid reorganization of cellular microtubule arrays."
+            }
+        },
+        {
+            "start": "KATNA1",
+            "end": "KATNAL2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Katanin p60 ATPase-containing subunit A-like 2; Severs microtubules in vitro in an ATP-dependent manner. This activity may promote rapid reorganization of cellular microtubule arrays."
+            }
+        },
+        {
+            "start": "KATNA1",
+            "end": "KATNB1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Katanin p80 WD40 repeat-containing subunit B1; Participates in a complex which severs microtubules in an ATP-dependent manner. May act to target the enzymatic subunit of this complex to sites of action such as the centrosome. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Micr [...] "
+            }
+        },
+        {
+            "start": "KATNA1",
+            "end": "KATNB1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 965.0,
+                "annotation": "Katanin p80 WD40 repeat-containing subunit B1; Participates in a complex which severs microtubules in an ATP-dependent manner. May act to target the enzymatic subunit of this complex to sites of action such as the centrosome. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Micr [...] "
+            }
+        },
+        {
+            "start": "TUBB2B",
+            "end": "TUBB1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 527.0,
+                "annotation": "Tubulin beta-1 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBB2B",
+            "end": "TUBB1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 230.0,
+                "annotation": "Tubulin beta-1 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBB2B",
+            "end": "TUBB2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 933.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "TUBB2B",
+            "end": "TUBB2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 859.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "BRSK1",
+            "end": "PAK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase PAK 1; Protein kinase involved in intracellular signaling pathways downstream of integrins and receptor-type kinases that plays an important role in cytoskeleton dynamics, in cell adhesion, migration, proliferation, apoptosis, mitosis, and in vesicle-mediated transport processes. Can directly phosphorylate BAD and protects cells against apoptosis. Activated by interaction with CDC42 and RAC1. Functions as GTPase effector that links the Rho-related GTPases CDC42 and RAC1 to the JNK MAP kinase pathway. Phosphorylates and activates MAP2K1, and thereby media [...] "
+            }
+        },
+        {
+            "start": "BRSK1",
+            "end": "PAK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 423.0,
+                "annotation": "Serine/threonine-protein kinase PAK 1; Protein kinase involved in intracellular signaling pathways downstream of integrins and receptor-type kinases that plays an important role in cytoskeleton dynamics, in cell adhesion, migration, proliferation, apoptosis, mitosis, and in vesicle-mediated transport processes. Can directly phosphorylate BAD and protects cells against apoptosis. Activated by interaction with CDC42 and RAC1. Functions as GTPase effector that links the Rho-related GTPases CDC42 and RAC1 to the JNK MAP kinase pathway. Phosphorylates and activates MAP2K1, and thereby media [...] "
+            }
+        },
+        {
+            "start": "BRSK1",
+            "end": "BRSK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            }
+        },
+        {
+            "start": "BRSK1",
+            "end": "BRSK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 348.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            }
+        },
+        {
+            "start": "BIN1",
+            "end": "SGIP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 695.0,
+                "annotation": "SH3-containing GRB2-like protein 3-interacting protein 1; May function in clathrin-mediated endocytosis. Has both a membrane binding/tubulating activity and the ability to recruit proteins essential to the formation of functional clathrin-coated pits. Has a preference for membranes enriched in phosphatidylserine and phosphoinositides and is required for the endocytosis of the transferrin receptor. May also bind tubulin. May play a role in the regulation of energy homeostasis."
+            }
+        },
+        {
+            "start": "BIN1",
+            "end": "SGIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 524.0,
+                "annotation": "SH3-containing GRB2-like protein 3-interacting protein 1; May function in clathrin-mediated endocytosis. Has both a membrane binding/tubulating activity and the ability to recruit proteins essential to the formation of functional clathrin-coated pits. Has a preference for membranes enriched in phosphatidylserine and phosphoinositides and is required for the endocytosis of the transferrin receptor. May also bind tubulin. May play a role in the regulation of energy homeostasis."
+            }
+        },
+        {
+            "start": "BIN1",
+            "end": "EHD1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 708.0,
+                "annotation": "EH domain-containing protein 1; ATP- and membrane-binding protein that controls membrane reorganization/tubulation upon ATP hydrolysis. In vitro causes vesiculation of endocytic membranes. Acts in early endocytic membrane fusion and membrane trafficking of recycling endosomes. Recruited to endosomal membranes upon nerve growth factor stimulation, indirectly regulates neurite outgrowth (By similarity). Plays a role in myoblast fusion (By similarity). Involved in the unidirectional retrograde dendritic transport of endocytosed BACE1 and in efficient sorting of BACE1 to axons implicating  [...] "
+            }
+        },
+        {
+            "start": "BIN1",
+            "end": "EHD1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 384.0,
+                "annotation": "EH domain-containing protein 1; ATP- and membrane-binding protein that controls membrane reorganization/tubulation upon ATP hydrolysis. In vitro causes vesiculation of endocytic membranes. Acts in early endocytic membrane fusion and membrane trafficking of recycling endosomes. Recruited to endosomal membranes upon nerve growth factor stimulation, indirectly regulates neurite outgrowth (By similarity). Plays a role in myoblast fusion (By similarity). Involved in the unidirectional retrograde dendritic transport of endocytosed BACE1 and in efficient sorting of BACE1 to axons implicating  [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 342.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 361.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "STMN2",
+            "end": "STMN1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 703.0,
+                "annotation": "Stathmin; Involved in the regulation of the microtubule (MT) filament system by destabilizing microtubules. Prevents assembly and promotes disassembly of microtubules. Phosphorylation at Ser-16 may be required for axon formation during neurogenesis. Involved in the control of the learned and innate fear (By similarity); Belongs to the stathmin family."
+            }
+        },
+        {
+            "start": "STMN2",
+            "end": "STMN1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 432.0,
+                "annotation": "Stathmin; Involved in the regulation of the microtubule (MT) filament system by destabilizing microtubules. Prevents assembly and promotes disassembly of microtubules. Phosphorylation at Ser-16 may be required for axon formation during neurogenesis. Involved in the control of the learned and innate fear (By similarity); Belongs to the stathmin family."
+            }
+        },
+        {
+            "start": "STMN2",
+            "end": "STMN3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 473.0,
+                "annotation": "Stathmin-3; Exhibits microtubule-destabilizing activity, which is antagonized by STAT3; Belongs to the stathmin family."
+            }
+        },
+        {
+            "start": "STMN2",
+            "end": "STMN3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "Stathmin-3; Exhibits microtubule-destabilizing activity, which is antagonized by STAT3; Belongs to the stathmin family."
+            }
+        }
+    ]
+}

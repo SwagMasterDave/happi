@@ -1,0 +1,553 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "STK11",
+            "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] ",
+            "depth": 1
+        },
+        {
+            "name": "SIK1",
+            "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] ",
+            "depth": 2
+        },
+        {
+            "name": "STK11IP",
+            "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization.",
+            "depth": 2
+        },
+        {
+            "name": "HGS",
+            "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PRKAA1",
+            "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PPP2R1A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+            "depth": 1
+        },
+        {
+            "name": "USP9X",
+            "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MZT1",
+            "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family.",
+            "depth": 1
+        },
+        {
+            "name": "MZT2A",
+            "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family.",
+            "depth": 1
+        },
+        {
+            "name": "MZT2B",
+            "annotation": "Mitotic spindle organizing protein 2B.",
+            "depth": 2
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MARK4",
+            "end": "STK11",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+            },
+            "explanation": "The interaction is **relevant** because STK11 directly phosphorylates MARK4, promoting its activity. This fits the query's requirement of identifying paths where the end protein STK11 phosphorylates MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "STK11",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+            },
+            "explanation": "The interaction is relevant. STK11 phosphorylates MARK4 directly, as stated in the end_protein's annotation. This aligns with the query's requirement for phosphorylation of MARK4 by the end protein."
+        },
+        {
+            "start": "STK11",
+            "end": "SIK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] "
+            },
+            "explanation": "**Relevance Analysis:**"
+        },
+        {
+            "start": "MARK4",
+            "end": "STK11",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+            },
+            "explanation": "The interaction is relevant because STK11 directly phosphorylates MARK4. STK11's role in phosphorylating AMPK family members, including MARK4, aligns with the query seeking protein paths where the end protein (STK11) phosphorylates MARK4."
+        },
+        {
+            "start": "STK11",
+            "end": "STK11IP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 688.0,
+                "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization."
+            },
+            "explanation": "The interaction is not relevant. STK11 phosphorylates MARK4 directly, not through STK11IP. STK11IP only regulates STK11's subcellular localization and does not phosphorylate MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "HGS",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] "
+            },
+            "explanation": "The interaction between MARK4 and HGS is not relevant to the query. There is no evidence that HGS phosphorylates MARK4 directly or indirectly. HGS mainly functions in signal transduction and trafficking, not phosphorylation."
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKAA1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+            },
+            "explanation": "The interaction is not relevant because the query asks for paths where the end protein, PRKAA1, phosphorylates MARK4. However, the information provided only describes MARK4 phosphorylating other proteins, not the reverse."
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            },
+            "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins, but PPP2R1A is a regulatory subunit of a phosphatase and does not directly phosphorylate MARK4. No direct interaction supports the query."
+        },
+        {
+            "start": "MARK4",
+            "end": "USP9X",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 745.0,
+                "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] "
+            },
+            "explanation": "The interaction is not relevant. The query asks for paths where the end protein (USP9X) phosphorylates MARK4, but USP9X is a deubiquitinase and does not phosphorylate proteins."
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            },
+            "explanation": "The interaction is not relevant. There is no direct evidence or biological mechanism suggesting that MZT1 phosphorylates MARK4. Both proteins are involved in microtubule organization, but their interaction lacks direct phosphorylation evidence."
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 720.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            },
+            "explanation": "The interaction is not relevant because MZT2A is not known to phosphorylate MARK4. Instead, MARK4 is a kinase that phosphorylates other proteins, and no direct or indirect evidence suggests MZT2A phosphorylates MARK4."
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 953.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            },
+            "explanation": "The interaction between MZT2A and MZT1 is not relevant to the query. MZT1 does not phosphorylate MARK4, and no explicit biological mechanism links these proteins to MARK4 phosphorylation."
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 720.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            },
+            "explanation": "The interaction is not relevant. MZT2A, a mitotic spindle organizing protein, is not known to phosphorylate MARK4, a kinase. No direct interaction or biological mechanism supports this phosphorylation."
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 812.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            },
+            "explanation": "The interaction is not relevant. MZT2A and MZT2B are both part of the MOZART2 family involved in mitotic spindle organization, but there is no evidence they phosphorylate MARK4."
+        },
+        {
+            "start": "MZT2B",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 971.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            },
+            "explanation": "The interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Neither MZT2B nor MZT1 is known to phosphorylate MARK4."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MARK4",
+                "STK11"
+            ],
+            "score": 100.0,
+            "explanation": "This path is highly relevant because STK11 (LKB1) directly phosphorylates MARK4, which is a key step in regulating the activity of MARK4. This phosphorylation is crucial for processes like cell polarity, energy metabolism, and microtubule dynamics, making it biologically significant.",
+            "details": "MARK4 -> STK11:\nThe interaction is **relevant** because STK11 directly phosphorylates MARK4, promoting its activity. This fits the query's requirement of identifying paths where the end protein STK11 phosphorylates MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "STK11",
+                    "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "STK11",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+                    },
+                    "explanation": "The interaction is **relevant** because STK11 directly phosphorylates MARK4, promoting its activity. This fits the query's requirement of identifying paths where the end protein STK11 phosphorylates MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "STK11",
+                "SIK1"
+            ],
+            "score": 95.0,
+            "explanation": "The path MARK4 -> STK11 -> SIK1 is highly relevant. STK11 directly phosphorylates MARK4, meeting the query's requirement. Additionally, STK11 directly phosphorylates SIK1, which is involved in important cellular processes like cell cycle regulation, gluconeogenesis, and tumor suppression, potentially influencing MARK4 activity via AMPK-related pathways.",
+            "details": "MARK4 -> STK11:\nThe interaction is relevant. STK11 phosphorylates MARK4 directly, as stated in the end_protein's annotation. This aligns with the query's requirement for phosphorylation of MARK4 by the end protein.\n\nSTK11 -> SIK1:\n**Relevance Analysis:**\n\n1. **Directional Graph:**\n   - **STK11 \u2192 SIK1**\n\n2. **Direct Interaction:**\n   - STK11 directly phosphorylates SIK1, which is relevant.\n\n3. **Biological Processes:**\n   - **STK11** phosphorylates and activates various AMPK family members, including **SIK1**.\n   - **SIK1** is involved in cell cycle regulation, gluconeogenesis, lipogenesis, and tumor suppression.\n\n**Conclusion:**\nThe interaction is relevant as STK11 directly phosphorylates SIK1, influencing MARK4 through the activation of AMPK-related pathways.\n\n",
+            "proteins": [
+                {
+                    "name": "SIK1",
+                    "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "STK11",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+                    },
+                    "explanation": "The interaction is relevant. STK11 phosphorylates MARK4 directly, as stated in the end_protein's annotation. This aligns with the query's requirement for phosphorylation of MARK4 by the end protein."
+                },
+                {
+                    "start": "STK11",
+                    "end": "SIK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] "
+                    },
+                    "explanation": "**Relevance Analysis:**"
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "STK11",
+                "STK11IP"
+            ],
+            "score": 50.0,
+            "explanation": "The path MARK4 -> STK11 is relevant because STK11 directly phosphorylates MARK4, which is essential for MARK4's role in cellular processes. However, the path STK11 -> STK11IP is not relevant as STK11IP only influences STK11's localization, not its phosphorylation activity. Thus, the path partially satisfies the query.",
+            "details": "MARK4 -> STK11:\nThe interaction is relevant because STK11 directly phosphorylates MARK4. STK11's role in phosphorylating AMPK family members, including MARK4, aligns with the query seeking protein paths where the end protein (STK11) phosphorylates MARK4.\n\nSTK11 -> STK11IP:\nThe interaction is not relevant. STK11 phosphorylates MARK4 directly, not through STK11IP. STK11IP only regulates STK11's subcellular localization and does not phosphorylate MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "STK11IP",
+                    "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "STK11",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+                    },
+                    "explanation": "The interaction is relevant because STK11 directly phosphorylates MARK4. STK11's role in phosphorylating AMPK family members, including MARK4, aligns with the query seeking protein paths where the end protein (STK11) phosphorylates MARK4."
+                },
+                {
+                    "start": "STK11",
+                    "end": "STK11IP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 688.0,
+                        "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization."
+                    },
+                    "explanation": "The interaction is not relevant. STK11 phosphorylates MARK4 directly, not through STK11IP. STK11IP only regulates STK11's subcellular localization and does not phosphorylate MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "HGS"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and HGS is not relevant to the query, as there is no evidence that HGS phosphorylates MARK4 directly or indirectly. HGS is primarily involved in signal transduction and trafficking, not phosphorylation.",
+            "details": "MARK4 -> HGS:\nThe interaction between MARK4 and HGS is not relevant to the query. There is no evidence that HGS phosphorylates MARK4 directly or indirectly. HGS mainly functions in signal transduction and trafficking, not phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "HGS",
+                    "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "HGS",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and HGS is not relevant to the query. There is no evidence that HGS phosphorylates MARK4 directly or indirectly. HGS mainly functions in signal transduction and trafficking, not phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PRKAA1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> PRKAA1' is not relevant because the query explicitly asks for paths where the end protein phosphorylates MARK4. In this case, the information suggests that MARK4 phosphorylates other proteins, but there is no evidence that PRKAA1 phosphorylates MARK4.",
+            "details": "MARK4 -> PRKAA1:\nThe interaction is not relevant because the query asks for paths where the end protein, PRKAA1, phosphorylates MARK4. However, the information provided only describes MARK4 phosphorylating other proteins, not the reverse.\n\n",
+            "proteins": [
+                {
+                    "name": "PRKAA1",
+                    "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PRKAA1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+                    },
+                    "explanation": "The interaction is not relevant because the query asks for paths where the end protein, PRKAA1, phosphorylates MARK4. However, the information provided only describes MARK4 phosphorylating other proteins, not the reverse."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PPP2R1A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> PPP2R1A' is irrelevant to the query. MARK4 phosphorylates proteins, while PPP2R1A is a regulatory subunit of a phosphatase and does not directly phosphorylate MARK4. No direct interaction supports the query.",
+            "details": "MARK4 -> PPP2R1A:\nThe interaction is not relevant. MARK4 phosphorylates proteins, but PPP2R1A is a regulatory subunit of a phosphatase and does not directly phosphorylate MARK4. No direct interaction supports the query.\n\n",
+            "proteins": [
+                {
+                    "name": "PPP2R1A",
+                    "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PPP2R1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins, but PPP2R1A is a regulatory subunit of a phosphatase and does not directly phosphorylate MARK4. No direct interaction supports the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "USP9X"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> USP9X is not relevant to the query because USP9X does not phosphorylate proteins; it is a deubiquitinase. Therefore, this path fails to meet the criteria of the query.",
+            "details": "MARK4 -> USP9X:\nThe interaction is not relevant. The query asks for paths where the end protein (USP9X) phosphorylates MARK4, but USP9X is a deubiquitinase and does not phosphorylate proteins.\n\n",
+            "proteins": [
+                {
+                    "name": "USP9X",
+                    "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "USP9X",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 745.0,
+                        "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] "
+                    },
+                    "explanation": "The interaction is not relevant. The query asks for paths where the end protein (USP9X) phosphorylates MARK4, but USP9X is a deubiquitinase and does not phosphorylate proteins."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MZT1"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> MZT1 is not relevant because there is no evidence or biological mechanism suggesting that MZT1 phosphorylates MARK4. Both proteins are involved in microtubule organization, but their interaction lacks direct phosphorylation evidence. Therefore, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> MZT1:\nThe interaction is not relevant. There is no direct evidence or biological mechanism suggesting that MZT1 phosphorylates MARK4. Both proteins are involved in microtubule organization, but their interaction lacks direct phosphorylation evidence.\n\n",
+            "proteins": [
+                {
+                    "name": "MZT1",
+                    "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MZT1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 900.0,
+                        "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+                    },
+                    "explanation": "The interaction is not relevant. There is no direct evidence or biological mechanism suggesting that MZT1 phosphorylates MARK4. Both proteins are involved in microtubule organization, but their interaction lacks direct phosphorylation evidence."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MZT2A",
+                "MZT1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> MZT2A -> MZT1' is not relevant to the query, as neither MZT2A nor MZT1 are known to phosphorylate MARK4. MARK4 is a kinase that phosphorylates other proteins, and there is no evidence supporting a phosphorylation mechanism involving MZT2A and MZT1 affecting MARK4.",
+            "details": "MARK4 -> MZT2A:\nThe interaction is not relevant because MZT2A is not known to phosphorylate MARK4. Instead, MARK4 is a kinase that phosphorylates other proteins, and no direct or indirect evidence suggests MZT2A phosphorylates MARK4.\n\nMZT2A -> MZT1:\nThe interaction between MZT2A and MZT1 is not relevant to the query. MZT1 does not phosphorylate MARK4, and no explicit biological mechanism links these proteins to MARK4 phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "MZT2A",
+                    "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MZT2A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 720.0,
+                        "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+                    },
+                    "explanation": "The interaction is not relevant because MZT2A is not known to phosphorylate MARK4. Instead, MARK4 is a kinase that phosphorylates other proteins, and no direct or indirect evidence suggests MZT2A phosphorylates MARK4."
+                },
+                {
+                    "start": "MZT2A",
+                    "end": "MZT1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 953.0,
+                        "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+                    },
+                    "explanation": "The interaction between MZT2A and MZT1 is not relevant to the query. MZT1 does not phosphorylate MARK4, and no explicit biological mechanism links these proteins to MARK4 phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MZT2A",
+                "MZT2B",
+                "MZT1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> MZT2A -> MZT2B -> MZT1' is not relevant to the query. None of the proteins in the path are known to phosphorylate MARK4, and there is no direct interaction or biological mechanism supporting the phosphorylation of MARK4 by any of these proteins.",
+            "details": "MARK4 -> MZT2A:\nThe interaction is not relevant. MZT2A, a mitotic spindle organizing protein, is not known to phosphorylate MARK4, a kinase. No direct interaction or biological mechanism supports this phosphorylation.\n\nMZT2A -> MZT2B:\nThe interaction is not relevant. MZT2A and MZT2B are both part of the MOZART2 family involved in mitotic spindle organization, but there is no evidence they phosphorylate MARK4.\n\nMZT2B -> MZT1:\nThe interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Neither MZT2B nor MZT1 is known to phosphorylate MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "MZT2B",
+                    "annotation": "Mitotic spindle organizing protein 2B.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MZT2A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 720.0,
+                        "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+                    },
+                    "explanation": "The interaction is not relevant. MZT2A, a mitotic spindle organizing protein, is not known to phosphorylate MARK4, a kinase. No direct interaction or biological mechanism supports this phosphorylation."
+                },
+                {
+                    "start": "MZT2A",
+                    "end": "MZT2B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 812.0,
+                        "annotation": "Mitotic spindle organizing protein 2B."
+                    },
+                    "explanation": "The interaction is not relevant. MZT2A and MZT2B are both part of the MOZART2 family involved in mitotic spindle organization, but there is no evidence they phosphorylate MARK4."
+                },
+                {
+                    "start": "MZT2B",
+                    "end": "MZT1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 971.0,
+                        "annotation": "Mitotic spindle organizing protein 2B."
+                    },
+                    "explanation": "The interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Neither MZT2B nor MZT1 is known to phosphorylate MARK4."
+                }
+            ]
+        }
+    ]
+}

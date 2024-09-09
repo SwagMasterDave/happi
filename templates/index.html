@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        /* CSS for center-aligning and styling the title and form */
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .centered {
+            text-align: center;
+        }
+        .title {
+            font-size: 6em; /* Adjust the font size as needed */
+        }
+        .search-form {
+            margin-top: 20px;
+        }
+        .search-input {
+            padding: 10px;
+            width: 300px;
+            font-size: 1.2em;
+        }
+        .search-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2em;
+        }
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+        .error-message {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+    <script>
+        const allowedProteins = ["MARK4", "MAPT"]; // Replace with your actual list
+
+        function validateInput(event) {
+            const input = document.querySelector('.search-input').value.toUpperCase();
+            const errorMessage = document.querySelector('.error-message');
+
+            if (!allowedProteins.includes(input)) {
+                event.preventDefault();
+                errorMessage.textContent = "The protein does not exist in the list.";
+            } else {
+                errorMessage.textContent = "";
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const form = document.querySelector('.search-form');
+            form.addEventListener('submit', validateInput);
+        });
+    </script>
+</head>
+<body>
+    <div class="centered">
+        <h1 class="title">H A P P I</h1>
+        <form action="{{ url_for('about') }}" method="GET" class="search-form">
+            <input type="text" name="query" class="search-input" placeholder="Type your initial protein..." required>
+            <button type="submit" class="search-button">Search</button>
+            <div class="error-message"></div>
+        </form>
+    </div>
+</body>
+</html>

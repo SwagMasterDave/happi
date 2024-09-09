@@ -1,0 +1,654 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "MARK3",
+            "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAP2",
+            "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+            "depth": 1
+        },
+        {
+            "name": "DOCK7",
+            "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "DOCK8",
+            "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CDC42",
+            "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] ",
+            "depth": 1
+        },
+        {
+            "name": "DOCK10",
+            "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family.",
+            "depth": 2
+        },
+        {
+            "name": "RPTOR",
+            "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MLST8",
+            "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CENPJ",
+            "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAP4",
+            "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly.",
+            "depth": 1
+        },
+        {
+            "name": "DRG1",
+            "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] ",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MARK4",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 538.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is not relevant because there is no explicit evidence or annotation suggesting that MARK3 directly phosphorylates MARK4. Both annotations describe their independent roles without indicating a direct interaction."
+        },
+        {
+            "start": "MARK3",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction between MARK3 and MAP2 is relevant because MARK3 phosphorylates MAP2 directly. This phosphorylation stabilizes microtubules, aligning with the query's focus on phosphorylation pathways impacting MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "DOCK7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+            },
+            "explanation": "This interaction is not relevant because there is no evidence or mechanism provided showing that DOCK7 phosphorylates MARK4 directly. The annotation describes their independent roles but does not indicate a direct phosphorylation relationship."
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 745.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            },
+            "explanation": "The interaction between DOCK7 and DOCK8 is not relevant to the query. There is no evidence that DOCK8 phosphorylates MARK4 or that DOCK7 directly impacts DOCK8 to influence MARK4 phosphorylation."
+        },
+        {
+            "start": "DOCK8",
+            "end": "CDC42",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            },
+            "explanation": "The interaction between DOCK8 and CDC42 is relevant. DOCK8 activates CDC42, a small GTPase involved in cell signaling and migration, which aligns with the query seeking a protein interaction path ending with phosphorylation of MARK4."
+        },
+        {
+            "start": "CDC42",
+            "end": "DOCK10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 953.0,
+                "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family."
+            },
+            "explanation": "The interaction is not relevant to the query because there is no evidence that CDC42 or DOCK10 directly phosphorylates MARK4. Their primary functions involve GTPase activity and guanine nucleotide exchange rather than phosphorylation."
+        },
+        {
+            "start": "MARK4",
+            "end": "RPTOR",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] "
+            },
+            "explanation": "The interaction is not relevant because the provided information does not explicitly state that RPTOR phosphorylates MARK4. Only interactions where the end protein directly phosphorylates the start protein are considered relevant."
+        },
+        {
+            "start": "RPTOR",
+            "end": "MLST8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] "
+            },
+            "explanation": "The interaction between RPTOR and MLST8 is relevant:"
+        },
+        {
+            "start": "MARK4",
+            "end": "CENPJ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] "
+            },
+            "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins but there is no evidence CENPJ phosphorylates MARK4. Therefore, it doesn't fit the query's requirement of the end protein phosphorylating MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "MAPT",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is not relevant because MAPT (tau) is phosphorylated by MARK4, not the other way around. The query requires MAPT to phosphorylate MARK4, which is not supported by the provided annotations."
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is irrelevant because MAP4 phosphorylating MARK4 is not supported by the given information. MARK4 phosphorylates MAP4 but no evidence exists for the reverse interaction."
+        },
+        {
+            "start": "MAP4",
+            "end": "MAPT",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The interaction between MAP4 and MAPT is not relevant to the query. The query seeks proteins that phosphorylate MARK4, but neither MAP4 nor MAPT are indicated to have an interaction with or phosphorylate MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "CDC42",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] "
+            },
+            "explanation": "The interaction between MARK4 and CDC42 does not meet the query requirement, as there is no evidence that CDC42 phosphorylates MARK4 directly. The path is irrelevant."
+        },
+        {
+            "start": "MARK4",
+            "end": "DOCK7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+            },
+            "explanation": "The interaction is not relevant because there is no evidence that DOCK7 directly phosphorylates MARK4. MARK4 is a kinase, while DOCK7 is a GEF, and their roles do not overlap in a phosphorylation pathway."
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 745.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            },
+            "explanation": "The interaction between DOCK7 and DOCK8 is not relevant to the query. The query seeks paths where the end protein phosphorylates MARK4, but neither DOCK7 nor DOCK8 have known kinase activity to phosphorylate MARK4."
+        },
+        {
+            "start": "DOCK8",
+            "end": "CDC42",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            },
+            "explanation": "The interaction between DOCK8 and CDC42 is relevant because DOCK8 is a guanine nucleotide exchange factor (GEF) that activates CDC42. This activation is crucial for various cellular processes, including migration and polarization."
+        },
+        {
+            "start": "MARK4",
+            "end": "DRG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 190.0,
+                "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] "
+            },
+            "explanation": "The interaction is not relevant. DRG1 does not phosphorylate MARK4; MARK4 is a kinase, and DRG1 lacks kinase activity to phosphorylate MARK4. No direct phosphorylation interaction is indicated."
+        },
+        {
+            "start": "MARK4",
+            "end": "MAPT",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is not relevant. The query asks for paths where the end protein (MAPT) phosphorylates MARK4. However, the provided information shows that MARK4 phosphorylates MAPT, not the other way around."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            },
+            "explanation": "The provided interactions between MAPT and MAP4 do not show any direct phosphorylation of MARK4. The query seeks paths where MAP4 phosphorylates MARK4, which is not demonstrated here. Therefore, the interaction is not relevant."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MARK4",
+                "MARK3",
+                "MAP2"
+            ],
+            "score": 30.0,
+            "explanation": "The path 'MARK4 -> MARK3 -> MAP2' does not fully satisfy the query requirements. While MARK3 phosphorylates MAP2, there is no evidence that MARK3 phosphorylates MARK4 directly. As such, this path cannot be recommended for the query.",
+            "details": "MARK4 -> MARK3:\nThe interaction is not relevant because there is no explicit evidence or annotation suggesting that MARK3 directly phosphorylates MARK4. Both annotations describe their independent roles without indicating a direct interaction.\n\nMARK3 -> MAP2:\nThe interaction between MARK3 and MAP2 is relevant because MARK3 phosphorylates MAP2 directly. This phosphorylation stabilizes microtubules, aligning with the query's focus on phosphorylation pathways impacting MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "MARK3",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "MAP2",
+                    "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 538.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is not relevant because there is no explicit evidence or annotation suggesting that MARK3 directly phosphorylates MARK4. Both annotations describe their independent roles without indicating a direct interaction."
+                },
+                {
+                    "start": "MARK3",
+                    "end": "MAP2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction between MARK3 and MAP2 is relevant because MARK3 phosphorylates MAP2 directly. This phosphorylation stabilizes microtubules, aligning with the query's focus on phosphorylation pathways impacting MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "DOCK7",
+                "DOCK8",
+                "CDC42",
+                "DOCK10"
+            ],
+            "score": 20.0,
+            "explanation": "The path 'MARK4 -> DOCK7 -> DOCK8 -> CDC42 -> DOCK10' is not recommended. The interactions from MARK4 to DOCK7 and from DOCK7 to DOCK8 are not supported by evidence indicating phosphorylation. CDC42 activation by DOCK8 is relevant, but the downstream interaction with DOCK10 does not lead to MARK4 phosphorylation. Thus, no direct phosphorylation evidence for MARK4 is provided.",
+            "details": "MARK4 -> DOCK7:\nThis interaction is not relevant because there is no evidence or mechanism provided showing that DOCK7 phosphorylates MARK4 directly. The annotation describes their independent roles but does not indicate a direct phosphorylation relationship.\n\nDOCK7 -> DOCK8:\nThe interaction between DOCK7 and DOCK8 is not relevant to the query. There is no evidence that DOCK8 phosphorylates MARK4 or that DOCK7 directly impacts DOCK8 to influence MARK4 phosphorylation.\n\nDOCK8 -> CDC42:\nThe interaction between DOCK8 and CDC42 is relevant. DOCK8 activates CDC42, a small GTPase involved in cell signaling and migration, which aligns with the query seeking a protein interaction path ending with phosphorylation of MARK4.\n\nCDC42 -> DOCK10:\nThe interaction is not relevant to the query because there is no evidence that CDC42 or DOCK10 directly phosphorylates MARK4. Their primary functions involve GTPase activity and guanine nucleotide exchange rather than phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "DOCK7",
+                    "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "DOCK8",
+                    "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] ",
+                    "depth": 2
+                },
+                {
+                    "name": "CDC42",
+                    "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "DOCK10",
+                    "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "DOCK7",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+                    },
+                    "explanation": "This interaction is not relevant because there is no evidence or mechanism provided showing that DOCK7 phosphorylates MARK4 directly. The annotation describes their independent roles but does not indicate a direct phosphorylation relationship."
+                },
+                {
+                    "start": "DOCK7",
+                    "end": "DOCK8",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 745.0,
+                        "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+                    },
+                    "explanation": "The interaction between DOCK7 and DOCK8 is not relevant to the query. There is no evidence that DOCK8 phosphorylates MARK4 or that DOCK7 directly impacts DOCK8 to influence MARK4 phosphorylation."
+                },
+                {
+                    "start": "DOCK8",
+                    "end": "CDC42",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 983.0,
+                        "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+                    },
+                    "explanation": "The interaction between DOCK8 and CDC42 is relevant. DOCK8 activates CDC42, a small GTPase involved in cell signaling and migration, which aligns with the query seeking a protein interaction path ending with phosphorylation of MARK4."
+                },
+                {
+                    "start": "CDC42",
+                    "end": "DOCK10",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 953.0,
+                        "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family."
+                    },
+                    "explanation": "The interaction is not relevant to the query because there is no evidence that CDC42 or DOCK10 directly phosphorylates MARK4. Their primary functions involve GTPase activity and guanine nucleotide exchange rather than phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "RPTOR",
+                "MLST8"
+            ],
+            "score": 20.0,
+            "explanation": "The path 'MARK4 -> RPTOR -> MLST8' is not relevant because there is no direct phosphorylation interaction between RPTOR and MARK4. Although RPTOR and MLST8 are part of the mTORC1 complex, which influences downstream signaling pathways, this does not satisfy the requirement of direct phosphorylation of MARK4 by the end protein.",
+            "details": "MARK4 -> RPTOR:\nThe interaction is not relevant because the provided information does not explicitly state that RPTOR phosphorylates MARK4. Only interactions where the end protein directly phosphorylates the start protein are considered relevant.\n\nRPTOR -> MLST8:\nThe interaction between RPTOR and MLST8 is relevant:\n\n1. RPTOR and MLST8 are components of the mTORC1 complex, which regulates cell growth in response to nutrients and signals.\n2. Both proteins directly interact within the mTORC1 complex, affecting downstream signaling pathways, potentially influencing MARK4 phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "RPTOR",
+                    "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "MLST8",
+                    "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "RPTOR",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] "
+                    },
+                    "explanation": "The interaction is not relevant because the provided information does not explicitly state that RPTOR phosphorylates MARK4. Only interactions where the end protein directly phosphorylates the start protein are considered relevant."
+                },
+                {
+                    "start": "RPTOR",
+                    "end": "MLST8",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 999.0,
+                        "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] "
+                    },
+                    "explanation": "The interaction between RPTOR and MLST8 is relevant:"
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "CENPJ"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> CENPJ' is not relevant because there is no evidence that CENPJ phosphorylates MARK4. Hence, it does not satisfy the query's requirement of the end protein phosphorylating MARK4.",
+            "details": "MARK4 -> CENPJ:\nThe interaction is not relevant. MARK4 phosphorylates proteins but there is no evidence CENPJ phosphorylates MARK4. Therefore, it doesn't fit the query's requirement of the end protein phosphorylating MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "CENPJ",
+                    "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "CENPJ",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 900.0,
+                        "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] "
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins but there is no evidence CENPJ phosphorylates MARK4. Therefore, it doesn't fit the query's requirement of the end protein phosphorylating MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MAPT"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> MAPT is not relevant to the query because MARK4 phosphorylates MAPT (tau), not the other way around. The query requires a path where the end protein phosphorylates MARK4, which is not supported by the provided information.",
+            "details": "MARK4 -> MAPT:\nThe interaction is not relevant because MAPT (tau) is phosphorylated by MARK4, not the other way around. The query requires MAPT to phosphorylate MARK4, which is not supported by the provided annotations.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MAPT",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 442.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is not relevant because MAPT (tau) is phosphorylated by MARK4, not the other way around. The query requires MAPT to phosphorylate MARK4, which is not supported by the provided annotations."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MAP4",
+                "MAPT"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> MAP4 -> MAPT' is not relevant to the query because MAP4 does not phosphorylate MARK4, and neither MAP4 nor MAPT are indicated to phosphorylate MARK4. This path does not satisfy the requirement of finding proteins that phosphorylate MARK4.",
+            "details": "MARK4 -> MAP4:\nThe interaction is irrelevant because MAP4 phosphorylating MARK4 is not supported by the given information. MARK4 phosphorylates MAP4 but no evidence exists for the reverse interaction.\n\nMAP4 -> MAPT:\nThe interaction between MAP4 and MAPT is not relevant to the query. The query seeks proteins that phosphorylate MARK4, but neither MAP4 nor MAPT are indicated to have an interaction with or phosphorylate MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "MAP4",
+                    "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is irrelevant because MAP4 phosphorylating MARK4 is not supported by the given information. MARK4 phosphorylates MAP4 but no evidence exists for the reverse interaction."
+                },
+                {
+                    "start": "MAP4",
+                    "end": "MAPT",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The interaction between MAP4 and MAPT is not relevant to the query. The query seeks proteins that phosphorylate MARK4, but neither MAP4 nor MAPT are indicated to have an interaction with or phosphorylate MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "CDC42"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and CDC42 does not satisfy the query because there is no evidence that CDC42 phosphorylates MARK4 directly. Thus, this path is irrelevant to the requirement.",
+            "details": "MARK4 -> CDC42:\nThe interaction between MARK4 and CDC42 does not meet the query requirement, as there is no evidence that CDC42 phosphorylates MARK4 directly. The path is irrelevant.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "CDC42",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and CDC42 does not meet the query requirement, as there is no evidence that CDC42 phosphorylates MARK4 directly. The path is irrelevant."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "DOCK7",
+                "DOCK8",
+                "CDC42"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> DOCK7 -> DOCK8 -> CDC42 is not relevant because there is no evidence that DOCK7 or DOCK8 can phosphorylate MARK4. CDC42, being a small GTPase, also does not have kinase activity to phosphorylate MARK4. Thus, the path does not satisfy the requirement of the end protein phosphorylating MARK4.",
+            "details": "MARK4 -> DOCK7:\nThe interaction is not relevant because there is no evidence that DOCK7 directly phosphorylates MARK4. MARK4 is a kinase, while DOCK7 is a GEF, and their roles do not overlap in a phosphorylation pathway.\n\nDOCK7 -> DOCK8:\nThe interaction between DOCK7 and DOCK8 is not relevant to the query. The query seeks paths where the end protein phosphorylates MARK4, but neither DOCK7 nor DOCK8 have known kinase activity to phosphorylate MARK4.\n\nDOCK8 -> CDC42:\nThe interaction between DOCK8 and CDC42 is relevant because DOCK8 is a guanine nucleotide exchange factor (GEF) that activates CDC42. This activation is crucial for various cellular processes, including migration and polarization.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "DOCK7",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+                    },
+                    "explanation": "The interaction is not relevant because there is no evidence that DOCK7 directly phosphorylates MARK4. MARK4 is a kinase, while DOCK7 is a GEF, and their roles do not overlap in a phosphorylation pathway."
+                },
+                {
+                    "start": "DOCK7",
+                    "end": "DOCK8",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 745.0,
+                        "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+                    },
+                    "explanation": "The interaction between DOCK7 and DOCK8 is not relevant to the query. The query seeks paths where the end protein phosphorylates MARK4, but neither DOCK7 nor DOCK8 have known kinase activity to phosphorylate MARK4."
+                },
+                {
+                    "start": "DOCK8",
+                    "end": "CDC42",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 983.0,
+                        "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+                    },
+                    "explanation": "The interaction between DOCK8 and CDC42 is relevant because DOCK8 is a guanine nucleotide exchange factor (GEF) that activates CDC42. This activation is crucial for various cellular processes, including migration and polarization."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "DRG1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> DRG1' is not relevant as DRG1 does not phosphorylate MARK4. MARK4 is a kinase, whereas DRG1 lacks kinase activity and thus cannot phosphorylate MARK4. There is no direct phosphorylation interaction indicated between DRG1 and MARK4.",
+            "details": "MARK4 -> DRG1:\nThe interaction is not relevant. DRG1 does not phosphorylate MARK4; MARK4 is a kinase, and DRG1 lacks kinase activity to phosphorylate MARK4. No direct phosphorylation interaction is indicated.\n\n",
+            "proteins": [
+                {
+                    "name": "DRG1",
+                    "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "DRG1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 190.0,
+                        "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] "
+                    },
+                    "explanation": "The interaction is not relevant. DRG1 does not phosphorylate MARK4; MARK4 is a kinase, and DRG1 lacks kinase activity to phosphorylate MARK4. No direct phosphorylation interaction is indicated."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MAPT",
+                "MAP4"
+            ],
+            "score": 0.0,
+            "explanation": "The provided path 'MARK4 -> MAPT -> MAP4' is not relevant for the query. MARK4 phosphorylates MAPT, not the other way around. Additionally, there is no evidence that MAP4 phosphorylates MARK4. Therefore, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> MAPT:\nThe interaction is not relevant. The query asks for paths where the end protein (MAPT) phosphorylates MARK4. However, the provided information shows that MARK4 phosphorylates MAPT, not the other way around.\n\nMAPT -> MAP4:\nThe provided interactions between MAPT and MAP4 do not show any direct phosphorylation of MARK4. The query seeks paths where MAP4 phosphorylates MARK4, which is not demonstrated here. Therefore, the interaction is not relevant.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MAPT",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 442.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is not relevant. The query asks for paths where the end protein (MAPT) phosphorylates MARK4. However, the provided information shows that MARK4 phosphorylates MAPT, not the other way around."
+                },
+                {
+                    "start": "MAPT",
+                    "end": "MAP4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+                    },
+                    "explanation": "The provided interactions between MAPT and MAP4 do not show any direct phosphorylation of MARK4. The query seeks paths where MAP4 phosphorylates MARK4, which is not demonstrated here. Therefore, the interaction is not relevant."
+                }
+            ]
+        }
+    ]
+}

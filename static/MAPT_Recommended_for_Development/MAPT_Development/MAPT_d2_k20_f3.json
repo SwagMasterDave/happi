@@ -1,0 +1,540 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "CAMK2A",
+            "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] ",
+            "depth": 1
+        },
+        {
+            "name": "GSKIP",
+            "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] ",
+            "depth": 1
+        },
+        {
+            "name": "GSK3B",
+            "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] ",
+            "depth": 2
+        },
+        {
+            "name": "GSK3A",
+            "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] ",
+            "depth": 2
+        },
+        {
+            "name": "SIRPA",
+            "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PTPN6",
+            "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis.",
+            "depth": 2
+        },
+        {
+            "name": "CEP350",
+            "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation.",
+            "depth": 1
+        },
+        {
+            "name": "CEP192",
+            "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1.",
+            "depth": 2
+        },
+        {
+            "name": "HIP1",
+            "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] ",
+            "depth": 1
+        },
+        {
+            "name": "KIF2A",
+            "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity.",
+            "depth": 1
+        },
+        {
+            "name": "PTBP1",
+            "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] ",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MAPT",
+            "end": "CAMK2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] "
+            },
+            "explanation": "The interaction between MAPT and CAMK2A is relevant as CAMK2A phosphorylates MAPT. This phosphorylation impacts MAPT's role in microtubule stability and neuronal polarity, aligning with the query's focus on phosphorylation pathways."
+        },
+        {
+            "start": "MAPT",
+            "end": "GSKIP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+            },
+            "explanation": "The interaction is not relevant to the query. GSKIP does not directly phosphorylate MAPT (tau). Instead, GSKIP regulates GSK3B and PKA activity, which indirectly impacts phosphorylation events. No direct interaction path is found."
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 948.0,
+                "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] "
+            },
+            "explanation": "The interaction is relevant. GSKIP interacts with GSK3B, facilitating its kinase activity. GSK3B phosphorylates MAPT directly, impacting Wnt signaling, glucose homeostasis, and neuron function. Thus, the path aligns with the query."
+        },
+        {
+            "start": "MAPT",
+            "end": "GSKIP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+            },
+            "explanation": "The interaction is not relevant to the query."
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 658.0,
+                "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] "
+            },
+            "explanation": "The interaction is relevant. GSKIP regulates GSK3A activity by anchoring it, and GSK3A phosphorylates MAPT. This pathway explains how GSKIP influences MAPT phosphorylation indirectly via GSK3A."
+        },
+        {
+            "start": "MAPT",
+            "end": "SIRPA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 248.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            },
+            "explanation": "The interaction between MAPT and SIRPA is not relevant to the query since SIRPA does not directly phosphorylate MAPT. SIRPA functions as a docking protein, not a kinase, thus no direct phosphorylation occurs."
+        },
+        {
+            "start": "SIRPA",
+            "end": "PTPN6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 845.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis."
+            },
+            "explanation": "The interaction between SIRPA and PTPN6 is relevant. SIRPA induces PTPN6 translocation to the plasma membrane, where PTPN6 modulates signaling by tyrosine-phosphorylated receptors. This interaction can impact downstream signaling pathways, potentially affecting MAPT phosphorylation."
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP350",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+            },
+            "explanation": "The interaction is not relevant. There is no direct information suggesting that CEP350 phosphorylates MAPT. Both proteins are involved in microtubule dynamics but lack direct phosphorylation linkage."
+        },
+        {
+            "start": "CEP350",
+            "end": "CEP192",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1."
+            },
+            "explanation": "The interaction between CEP350 and CEP192 is relevant as both proteins are involved in centrosome maturation and microtubule organization. CEP192 recruits and activates kinases like AURKA and PLK1, which can potentially influence MAPT phosphorylation indirectly."
+        },
+        {
+            "start": "MAPT",
+            "end": "HIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] "
+            },
+            "explanation": "The interaction between MAPT and HIP1 is not relevant to the query. There is no direct evidence that HIP1 phosphorylates MAPT or interacts directly with proteins that do. Thus, the path should be deleted."
+        },
+        {
+            "start": "MAPT",
+            "end": "KIF2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity."
+            },
+            "explanation": "The provided interaction is not relevant. MAPT (tau) does not phosphorylate KIF2A. Instead, both proteins are involved in microtubule dynamics but do not directly interact in a phosphorylation pathway."
+        },
+        {
+            "start": "MAPT",
+            "end": "SIRPA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 248.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            },
+            "explanation": "The interaction between MAPT and SIRPA is not relevant since no direct evidence suggests that SIRPA phosphorylates MAPT. The provided annotations do not indicate a phosphorylation relationship between these proteins."
+        },
+        {
+            "start": "MAPT",
+            "end": "PTBP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] "
+            },
+            "explanation": "The interaction is not relevant. PTBP1 represses MAPT exon 10 splicing, but there is no evidence that PTBP1 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed here."
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP350",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+            },
+            "explanation": "This interaction is not relevant because there is no evidence that CEP350 directly phosphorylates MAPT. Both proteins are involved in microtubule-related processes but lack direct phosphorylation interaction."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MAPT",
+                "CAMK2A"
+            ],
+            "score": 100.0,
+            "explanation": "The path 'MAPT -> CAMK2A' is highly relevant because CAMK2A phosphorylates MAPT, impacting MAPT's role in microtubule stability and neuronal polarity. This aligns directly with the query's focus on phosphorylation pathways involving MAPT.",
+            "details": "MAPT -> CAMK2A:\nThe interaction between MAPT and CAMK2A is relevant as CAMK2A phosphorylates MAPT. This phosphorylation impacts MAPT's role in microtubule stability and neuronal polarity, aligning with the query's focus on phosphorylation pathways.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "CAMK2A",
+                    "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CAMK2A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] "
+                    },
+                    "explanation": "The interaction between MAPT and CAMK2A is relevant as CAMK2A phosphorylates MAPT. This phosphorylation impacts MAPT's role in microtubule stability and neuronal polarity, aligning with the query's focus on phosphorylation pathways."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "GSKIP",
+                "GSK3B"
+            ],
+            "score": 70.0,
+            "explanation": "The path MAPT -> GSKIP -> GSK3B is partially relevant. While GSKIP does not directly phosphorylate MAPT, it regulates GSK3B, which directly phosphorylates MAPT. This suggests an indirect regulatory mechanism via GSKIP, impacting MAPT phosphorylation through GSK3B's kinase activity, influencing key cellular processes like neuron function and Wnt signaling.",
+            "details": "MAPT -> GSKIP:\nThe interaction is not relevant to the query. GSKIP does not directly phosphorylate MAPT (tau). Instead, GSKIP regulates GSK3B and PKA activity, which indirectly impacts phosphorylation events. No direct interaction path is found.\n\nGSKIP -> GSK3B:\nThe interaction is relevant. GSKIP interacts with GSK3B, facilitating its kinase activity. GSK3B phosphorylates MAPT directly, impacting Wnt signaling, glucose homeostasis, and neuron function. Thus, the path aligns with the query.\n\n",
+            "proteins": [
+                {
+                    "name": "GSKIP",
+                    "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "GSK3B",
+                    "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "GSKIP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+                    },
+                    "explanation": "The interaction is not relevant to the query. GSKIP does not directly phosphorylate MAPT (tau). Instead, GSKIP regulates GSK3B and PKA activity, which indirectly impacts phosphorylation events. No direct interaction path is found."
+                },
+                {
+                    "start": "GSKIP",
+                    "end": "GSK3B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 948.0,
+                        "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] "
+                    },
+                    "explanation": "The interaction is relevant. GSKIP interacts with GSK3B, facilitating its kinase activity. GSK3B phosphorylates MAPT directly, impacting Wnt signaling, glucose homeostasis, and neuron function. Thus, the path aligns with the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "GSKIP",
+                "GSK3A"
+            ],
+            "score": 70.0,
+            "explanation": "The path MAPT -> GSKIP -> GSK3A is partially relevant. GSKIP does not directly interact with MAPT, but it regulates GSK3A, which phosphorylates MAPT. This explains an indirect regulatory mechanism where GSKIP anchors GSK3A, leading to MAPT phosphorylation by GSK3A.",
+            "details": "MAPT -> GSKIP:\nThe interaction is not relevant to the query.\n\nExplanation: GSKIP is an anchoring protein that regulates kinases like GSK3B and PKA, but there is no direct evidence indicating that GSKIP phosphorylates MAPT directly.\n\nGSKIP -> GSK3A:\nThe interaction is relevant. GSKIP regulates GSK3A activity by anchoring it, and GSK3A phosphorylates MAPT. This pathway explains how GSKIP influences MAPT phosphorylation indirectly via GSK3A.\n\n",
+            "proteins": [
+                {
+                    "name": "GSK3A",
+                    "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "GSKIP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+                    },
+                    "explanation": "The interaction is not relevant to the query."
+                },
+                {
+                    "start": "GSKIP",
+                    "end": "GSK3A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 658.0,
+                        "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] "
+                    },
+                    "explanation": "The interaction is relevant. GSKIP regulates GSK3A activity by anchoring it, and GSK3A phosphorylates MAPT. This pathway explains how GSKIP influences MAPT phosphorylation indirectly via GSK3A."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "SIRPA",
+                "PTPN6"
+            ],
+            "score": 30.0,
+            "explanation": "The path 'MAPT -> SIRPA -> PTPN6' is not relevant because SIRPA does not phosphorylate MAPT directly. While the interaction between SIRPA and PTPN6 is relevant as it affects signaling pathways, there is no direct evidence that PTPN6 phosphorylates MAPT. Therefore, the path does not meet the query requirements.",
+            "details": "MAPT -> SIRPA:\nThe interaction between MAPT and SIRPA is not relevant to the query since SIRPA does not directly phosphorylate MAPT. SIRPA functions as a docking protein, not a kinase, thus no direct phosphorylation occurs.\n\nSIRPA -> PTPN6:\nThe interaction between SIRPA and PTPN6 is relevant. SIRPA induces PTPN6 translocation to the plasma membrane, where PTPN6 modulates signaling by tyrosine-phosphorylated receptors. This interaction can impact downstream signaling pathways, potentially affecting MAPT phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "SIRPA",
+                    "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "PTPN6",
+                    "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "SIRPA",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 248.0,
+                        "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+                    },
+                    "explanation": "The interaction between MAPT and SIRPA is not relevant to the query since SIRPA does not directly phosphorylate MAPT. SIRPA functions as a docking protein, not a kinase, thus no direct phosphorylation occurs."
+                },
+                {
+                    "start": "SIRPA",
+                    "end": "PTPN6",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 845.0,
+                        "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis."
+                    },
+                    "explanation": "The interaction between SIRPA and PTPN6 is relevant. SIRPA induces PTPN6 translocation to the plasma membrane, where PTPN6 modulates signaling by tyrosine-phosphorylated receptors. This interaction can impact downstream signaling pathways, potentially affecting MAPT phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "CEP350",
+                "CEP192"
+            ],
+            "score": 30.0,
+            "explanation": "The path MAPT -> CEP350 -> CEP192 does not satisfy the query as there is no direct evidence of phosphorylation of MAPT by CEP350 or CEP192. CEP192 can influence MAPT indirectly via kinases AURKA and PLK1, but this is speculative. Therefore, the path is not relevant.",
+            "details": "MAPT -> CEP350:\nThe interaction is not relevant. There is no direct information suggesting that CEP350 phosphorylates MAPT. Both proteins are involved in microtubule dynamics but lack direct phosphorylation linkage.\n\nCEP350 -> CEP192:\nThe interaction between CEP350 and CEP192 is relevant as both proteins are involved in centrosome maturation and microtubule organization. CEP192 recruits and activates kinases like AURKA and PLK1, which can potentially influence MAPT phosphorylation indirectly.\n\n",
+            "proteins": [
+                {
+                    "name": "CEP350",
+                    "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation.",
+                    "depth": 1
+                },
+                {
+                    "name": "CEP192",
+                    "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CEP350",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+                    },
+                    "explanation": "The interaction is not relevant. There is no direct information suggesting that CEP350 phosphorylates MAPT. Both proteins are involved in microtubule dynamics but lack direct phosphorylation linkage."
+                },
+                {
+                    "start": "CEP350",
+                    "end": "CEP192",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 165.0,
+                        "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1."
+                    },
+                    "explanation": "The interaction between CEP350 and CEP192 is relevant as both proteins are involved in centrosome maturation and microtubule organization. CEP192 recruits and activates kinases like AURKA and PLK1, which can potentially influence MAPT phosphorylation indirectly."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "HIP1"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> HIP1' does not satisfy the query as there is no evidence that HIP1 phosphorylates MAPT or interacts with proteins that do. Therefore, this path should be deleted.",
+            "details": "MAPT -> HIP1:\nThe interaction between MAPT and HIP1 is not relevant to the query. There is no direct evidence that HIP1 phosphorylates MAPT or interacts directly with proteins that do. Thus, the path should be deleted.\n\n",
+            "proteins": [
+                {
+                    "name": "HIP1",
+                    "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "HIP1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] "
+                    },
+                    "explanation": "The interaction between MAPT and HIP1 is not relevant to the query. There is no direct evidence that HIP1 phosphorylates MAPT or interacts directly with proteins that do. Thus, the path should be deleted."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "KIF2A"
+            ],
+            "score": 0.0,
+            "explanation": "The provided path MAPT -> KIF2A is not relevant for the query. MAPT (tau) does not phosphorylate KIF2A. Both proteins are involved in microtubule dynamics but do not directly interact in a phosphorylation pathway. There is no explicit mechanistic pathway where the end protein phosphorylates MAPT.",
+            "details": "MAPT -> KIF2A:\nThe provided interaction is not relevant. MAPT (tau) does not phosphorylate KIF2A. Instead, both proteins are involved in microtubule dynamics but do not directly interact in a phosphorylation pathway.\n\n",
+            "proteins": [
+                {
+                    "name": "KIF2A",
+                    "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "KIF2A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity."
+                    },
+                    "explanation": "The provided interaction is not relevant. MAPT (tau) does not phosphorylate KIF2A. Instead, both proteins are involved in microtubule dynamics but do not directly interact in a phosphorylation pathway."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "SIRPA"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> SIRPA' is not relevant because there is no direct evidence that SIRPA phosphorylates MAPT. Therefore, the interaction does not satisfy the query's requirement for the end protein to phosphorylate MAPT. Additionally, without any direct phosphorylation relationship or clear biological mechanism connecting these proteins, it cannot be recommended.",
+            "details": "MAPT -> SIRPA:\nThe interaction between MAPT and SIRPA is not relevant since no direct evidence suggests that SIRPA phosphorylates MAPT. The provided annotations do not indicate a phosphorylation relationship between these proteins.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "SIRPA",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 248.0,
+                        "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+                    },
+                    "explanation": "The interaction between MAPT and SIRPA is not relevant since no direct evidence suggests that SIRPA phosphorylates MAPT. The provided annotations do not indicate a phosphorylation relationship between these proteins."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "PTBP1"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction MAPT -> PTBP1 is not relevant. PTBP1 represses MAPT exon 10 splicing, but there is no evidence of phosphorylation involved. The query specifically asks for phosphorylation, which is not addressed here.",
+            "details": "MAPT -> PTBP1:\nThe interaction is not relevant. PTBP1 represses MAPT exon 10 splicing, but there is no evidence that PTBP1 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed here.\n\n",
+            "proteins": [
+                {
+                    "name": "PTBP1",
+                    "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "PTBP1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] "
+                    },
+                    "explanation": "The interaction is not relevant. PTBP1 represses MAPT exon 10 splicing, but there is no evidence that PTBP1 phosphorylates MAPT. The query specifically asks for phosphorylation, which is not addressed here."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "CEP350"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MAPT -> CEP350' is not relevant as there is no evidence that CEP350 directly phosphorylates MAPT. Both proteins are involved in microtubule-related processes but lack a direct phosphorylation interaction. Therefore, this path cannot satisfy the query of finding a protein that phosphorylates MAPT.",
+            "details": "MAPT -> CEP350:\nThis interaction is not relevant because there is no evidence that CEP350 directly phosphorylates MAPT. Both proteins are involved in microtubule-related processes but lack direct phosphorylation interaction.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "CEP350",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+                    },
+                    "explanation": "This interaction is not relevant because there is no evidence that CEP350 directly phosphorylates MAPT. Both proteins are involved in microtubule-related processes but lack direct phosphorylation interaction."
+                }
+            ]
+        }
+    ]
+}

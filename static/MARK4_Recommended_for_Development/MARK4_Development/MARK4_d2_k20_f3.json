@@ -1,0 +1,521 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "ODF2",
+            "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CCDC114",
+            "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family.",
+            "depth": 2
+        },
+        {
+            "name": "CCDC120",
+            "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth.",
+            "depth": 2
+        },
+        {
+            "name": "USP7",
+            "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MYH10",
+            "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.",
+            "depth": 1
+        },
+        {
+            "name": "MYO18A",
+            "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PARD6A",
+            "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family.",
+            "depth": 1
+        },
+        {
+            "name": "PPP2CB",
+            "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily.",
+            "depth": 1
+        },
+        {
+            "name": "YWHAH",
+            "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MARK4",
+            "end": "ODF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+            },
+            "explanation": "The interaction between MARK4 and ODF2 is relevant. MARK4 phosphorylates ODF2, impacting centrosomal localization. This direct interaction aligns with the query, making it biologically significant."
+        },
+        {
+            "start": "MARK4",
+            "end": "ODF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+            },
+            "explanation": "The interaction is relevant. MARK4 directly phosphorylates ODF2, affecting its centrosomal localization. This aligns with the query seeking protein paths where the end protein (ODF2) phosphorylates MARK4."
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC114",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family."
+            },
+            "explanation": "The interaction between ODF2 and CCDC114 is not relevant to the query. There is no direct evidence or known pathway suggesting that CCDC114 phosphorylates MARK4. This interaction should be deleted."
+        },
+        {
+            "start": "MARK4",
+            "end": "ODF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+            },
+            "explanation": "The interaction is not relevant because the query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 phosphorylates ODF2, not the other way around. Hence, the direction of interaction is incorrect."
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC120",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 808.0,
+                "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth."
+            },
+            "explanation": "The interaction between ODF2 and CCDC120 is relevant. ODF2 is a scaffold protein localized at centrioles, and CCDC120 cooperates with ODF2 for subdistal appendage assembly, impacting centrosome functions. However, there's no direct evidence that CCDC120 phosphorylates MARK4, making the path incomplete for the query."
+        },
+        {
+            "start": "MARK4",
+            "end": "USP7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] "
+            },
+            "explanation": "The interaction is not relevant. USP7 is a deubiquitinase, not a kinase, and there is no evidence that USP7 directly phosphorylates MARK4. Thus, USP7 cannot fulfill the query's requirement to phosphorylate MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            },
+            "explanation": "The interaction is not relevant. MARK4 phosphorylates microtubule-associated proteins but there's no evidence that MYH10 phosphorylates MARK4 or interacts directly with it. Hence, the query's condition is unmet."
+        },
+        {
+            "start": "MARK4",
+            "end": "MYO18A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] "
+            },
+            "explanation": "The interaction is not relevant. MARK4 is a kinase, typically phosphorylating other proteins. MYO18A functions in Golgi membrane trafficking and actomyosin retrograde flow but is not known to phosphorylate other proteins, including MARK4."
+        },
+        {
+            "start": "MYO18A",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            },
+            "explanation": "This interaction is not relevant to the query. There is no evidence that MYH10 phosphorylates MARK4 directly. The provided annotations do not mention any interaction between MYH10 and MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+            },
+            "explanation": "The interaction is not relevant because there is no evidence that PARD6A directly phosphorylates MARK4. PARD6A primarily functions in cell polarity and tight junctions, not in direct phosphorylation of MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2CB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily."
+            },
+            "explanation": "The interaction is not relevant. PPP2CB is a phosphatase, not a kinase, and it dephosphorylates rather than phosphorylates proteins. Therefore, it cannot phosphorylate MARK4 as required by the query."
+        },
+        {
+            "start": "MARK4",
+            "end": "YWHAH",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 370.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            },
+            "explanation": "The provided protein interaction between MARK4 and YWHAH is not relevant to the query. There is no evidence that YWHAH directly phosphorylates MARK4. YWHAH is an adapter protein, not a kinase."
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            },
+            "explanation": "The interaction is not relevant. There is no evidence that MYH10 directly phosphorylates MARK4. MARK4 is a kinase, typically phosphorylating other proteins. MYH10 is a myosin involved in cellular movement, not phosphorylation."
+        },
+        {
+            "start": "MYH10",
+            "end": "MYO18A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            },
+            "explanation": "The provided interaction between MYH10 and MYO18A does not show a direct phosphorylation of MARK4. MYH10 and MYO18A are involved in cytoskeletal organization and cell morphology but lack evidence for direct phosphorylation pathways affecting MARK4. Thus, the path does not meet the query requirements and should be deleted."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MARK4",
+                "ODF2"
+            ],
+            "score": 100.0,
+            "explanation": "The path MARK4 -> ODF2 is biologically significant because MARK4 directly phosphorylates ODF2, which impacts centrosomal localization. This interaction fulfills the query's requirement that the end protein (ODF2) is phosphorylated by MARK4, making the path highly relevant.",
+            "details": "MARK4 -> ODF2:\nThe interaction between MARK4 and ODF2 is relevant. MARK4 phosphorylates ODF2, impacting centrosomal localization. This direct interaction aligns with the query, making it biologically significant.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "ODF2",
+                    "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "ODF2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and ODF2 is relevant. MARK4 phosphorylates ODF2, impacting centrosomal localization. This direct interaction aligns with the query, making it biologically significant."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "ODF2",
+                "CCDC114"
+            ],
+            "score": 50.0,
+            "explanation": "The path 'MARK4 -> ODF2 -> CCDC114' should be revised to 'MARK4 -> ODF2' since MARK4 directly phosphorylates ODF2, aligning with the query requirement. However, the interaction 'ODF2 -> CCDC114' is irrelevant because there is no evidence that CCDC114 phosphorylates MARK4.",
+            "details": "MARK4 -> ODF2:\nThe interaction is relevant. MARK4 directly phosphorylates ODF2, affecting its centrosomal localization. This aligns with the query seeking protein paths where the end protein (ODF2) phosphorylates MARK4.\n\nODF2 -> CCDC114:\nThe interaction between ODF2 and CCDC114 is not relevant to the query. There is no direct evidence or known pathway suggesting that CCDC114 phosphorylates MARK4. This interaction should be deleted.\n\n",
+            "proteins": [
+                {
+                    "name": "CCDC114",
+                    "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "ODF2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK4 directly phosphorylates ODF2, affecting its centrosomal localization. This aligns with the query seeking protein paths where the end protein (ODF2) phosphorylates MARK4."
+                },
+                {
+                    "start": "ODF2",
+                    "end": "CCDC114",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 165.0,
+                        "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family."
+                    },
+                    "explanation": "The interaction between ODF2 and CCDC114 is not relevant to the query. There is no direct evidence or known pathway suggesting that CCDC114 phosphorylates MARK4. This interaction should be deleted."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "ODF2",
+                "CCDC120"
+            ],
+            "score": 10.0,
+            "explanation": "The path 'MARK4 -> ODF2 -> CCDC120' is not relevant for the query as the direction of interaction is incorrect and there is no direct evidence that CCDC120 phosphorylates MARK4. MARK4 phosphorylates ODF2, and ODF2 interacts with CCDC120 in centrosome assembly, but this does not satisfy the query requirement.",
+            "details": "MARK4 -> ODF2:\nThe interaction is not relevant because the query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 phosphorylates ODF2, not the other way around. Hence, the direction of interaction is incorrect.\n\nODF2 -> CCDC120:\nThe interaction between ODF2 and CCDC120 is relevant. ODF2 is a scaffold protein localized at centrioles, and CCDC120 cooperates with ODF2 for subdistal appendage assembly, impacting centrosome functions. However, there's no direct evidence that CCDC120 phosphorylates MARK4, making the path incomplete for the query.\n\n",
+            "proteins": [
+                {
+                    "name": "CCDC120",
+                    "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "ODF2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+                    },
+                    "explanation": "The interaction is not relevant because the query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 phosphorylates ODF2, not the other way around. Hence, the direction of interaction is incorrect."
+                },
+                {
+                    "start": "ODF2",
+                    "end": "CCDC120",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 808.0,
+                        "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth."
+                    },
+                    "explanation": "The interaction between ODF2 and CCDC120 is relevant. ODF2 is a scaffold protein localized at centrioles, and CCDC120 cooperates with ODF2 for subdistal appendage assembly, impacting centrosome functions. However, there's no direct evidence that CCDC120 phosphorylates MARK4, making the path incomplete for the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "USP7"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> USP7' is not relevant because USP7 is a deubiquitinase, not a kinase, and there is no evidence that USP7 directly phosphorylates MARK4. Therefore, USP7 cannot fulfill the query's requirement to phosphorylate MARK4.",
+            "details": "MARK4 -> USP7:\nThe interaction is not relevant. USP7 is a deubiquitinase, not a kinase, and there is no evidence that USP7 directly phosphorylates MARK4. Thus, USP7 cannot fulfill the query's requirement to phosphorylate MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "USP7",
+                    "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "USP7",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] "
+                    },
+                    "explanation": "The interaction is not relevant. USP7 is a deubiquitinase, not a kinase, and there is no evidence that USP7 directly phosphorylates MARK4. Thus, USP7 cannot fulfill the query's requirement to phosphorylate MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MYH10"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> MYH10 is not relevant as there is no evidence that MYH10 phosphorylates or interacts directly with MARK4. MARK4 is known to phosphorylate microtubule-associated proteins, but this does not fulfill the query's condition that the end protein phosphorylates MARK4.",
+            "details": "MARK4 -> MYH10:\nThe interaction is not relevant. MARK4 phosphorylates microtubule-associated proteins but there's no evidence that MYH10 phosphorylates MARK4 or interacts directly with it. Hence, the query's condition is unmet.\n\n",
+            "proteins": [
+                {
+                    "name": "MYH10",
+                    "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MYH10",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 phosphorylates microtubule-associated proteins but there's no evidence that MYH10 phosphorylates MARK4 or interacts directly with it. Hence, the query's condition is unmet."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MYO18A",
+                "MYH10"
+            ],
+            "score": 0.0,
+            "explanation": "The provided path 'MARK4 -> MYO18A -> MYH10' is not relevant to the query. MARK4 is a kinase and MYO18A does not phosphorylate other proteins, including MARK4. Additionally, there is no evidence that MYH10 phosphorylates MARK4 directly or via MYO18A. Therefore, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> MYO18A:\nThe interaction is not relevant. MARK4 is a kinase, typically phosphorylating other proteins. MYO18A functions in Golgi membrane trafficking and actomyosin retrograde flow but is not known to phosphorylate other proteins, including MARK4.\n\nMYO18A -> MYH10:\nThis interaction is not relevant to the query. There is no evidence that MYH10 phosphorylates MARK4 directly. The provided annotations do not mention any interaction between MYH10 and MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "MYO18A",
+                    "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MYO18A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] "
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 is a kinase, typically phosphorylating other proteins. MYO18A functions in Golgi membrane trafficking and actomyosin retrograde flow but is not known to phosphorylate other proteins, including MARK4."
+                },
+                {
+                    "start": "MYO18A",
+                    "end": "MYH10",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 540.0,
+                        "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+                    },
+                    "explanation": "This interaction is not relevant to the query. There is no evidence that MYH10 phosphorylates MARK4 directly. The provided annotations do not mention any interaction between MYH10 and MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PARD6A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> PARD6A' is not relevant because there is no evidence that PARD6A directly phosphorylates MARK4. PARD6A primarily functions in cell polarity and tight junctions, not in direct phosphorylation of MARK4.",
+            "details": "MARK4 -> PARD6A:\nThe interaction is not relevant because there is no evidence that PARD6A directly phosphorylates MARK4. PARD6A primarily functions in cell polarity and tight junctions, not in direct phosphorylation of MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "PARD6A",
+                    "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PARD6A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+                    },
+                    "explanation": "The interaction is not relevant because there is no evidence that PARD6A directly phosphorylates MARK4. PARD6A primarily functions in cell polarity and tight junctions, not in direct phosphorylation of MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PPP2CB"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> PPP2CB' is not relevant because PPP2CB is a phosphatase and dephosphorylates proteins, whereas the query requires a protein that phosphorylates MARK4. Therefore, it cannot fulfill the requirement of phosphorylating MARK4.",
+            "details": "MARK4 -> PPP2CB:\nThe interaction is not relevant. PPP2CB is a phosphatase, not a kinase, and it dephosphorylates rather than phosphorylates proteins. Therefore, it cannot phosphorylate MARK4 as required by the query.\n\n",
+            "proteins": [
+                {
+                    "name": "PPP2CB",
+                    "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PPP2CB",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily."
+                    },
+                    "explanation": "The interaction is not relevant. PPP2CB is a phosphatase, not a kinase, and it dephosphorylates rather than phosphorylates proteins. Therefore, it cannot phosphorylate MARK4 as required by the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "YWHAH"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and YWHAH is not relevant to the query. YWHAH is an adapter protein, not a kinase, and there is no evidence that it directly phosphorylates MARK4. Therefore, this path does not meet the query requirements.",
+            "details": "MARK4 -> YWHAH:\nThe provided protein interaction between MARK4 and YWHAH is not relevant to the query. There is no evidence that YWHAH directly phosphorylates MARK4. YWHAH is an adapter protein, not a kinase.\n\n",
+            "proteins": [
+                {
+                    "name": "YWHAH",
+                    "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "YWHAH",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 370.0,
+                        "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+                    },
+                    "explanation": "The provided protein interaction between MARK4 and YWHAH is not relevant to the query. There is no evidence that YWHAH directly phosphorylates MARK4. YWHAH is an adapter protein, not a kinase."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MYH10",
+                "MYO18A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> MYH10 -> MYO18A' is not relevant. MARK4 is a kinase, typically phosphorylating other proteins, while MYH10 is a myosin involved in cellular movement, not phosphorylation. There is no evidence that MYH10 directly phosphorylates MARK4 or that MYO18A is involved in such a pathway. Therefore, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> MYH10:\nThe interaction is not relevant. There is no evidence that MYH10 directly phosphorylates MARK4. MARK4 is a kinase, typically phosphorylating other proteins. MYH10 is a myosin involved in cellular movement, not phosphorylation.\n\nMYH10 -> MYO18A:\nThe provided interaction between MYH10 and MYO18A does not show a direct phosphorylation of MARK4. MYH10 and MYO18A are involved in cytoskeletal organization and cell morphology but lack evidence for direct phosphorylation pathways affecting MARK4. Thus, the path does not meet the query requirements and should be deleted.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MYH10",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+                    },
+                    "explanation": "The interaction is not relevant. There is no evidence that MYH10 directly phosphorylates MARK4. MARK4 is a kinase, typically phosphorylating other proteins. MYH10 is a myosin involved in cellular movement, not phosphorylation."
+                },
+                {
+                    "start": "MYH10",
+                    "end": "MYO18A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 540.0,
+                        "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+                    },
+                    "explanation": "The provided interaction between MYH10 and MYO18A does not show a direct phosphorylation of MARK4. MYH10 and MYO18A are involved in cytoskeletal organization and cell morphology but lack evidence for direct phosphorylation pathways affecting MARK4. Thus, the path does not meet the query requirements and should be deleted."
+                }
+            ]
+        }
+    ]
+}

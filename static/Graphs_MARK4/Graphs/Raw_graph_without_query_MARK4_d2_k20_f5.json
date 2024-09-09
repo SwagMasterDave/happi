@@ -1,0 +1,702 @@
+{
+    "Graph name": "MARK4_d2_k20_f5",
+    "Protein": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "YWHAZ",
+            "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family.",
+            "depth": 1
+        },
+        {
+            "name": "MYH9",
+            "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10.",
+            "depth": 1
+        },
+        {
+            "name": "RNF41",
+            "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PSMC3",
+            "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1A",
+            "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "TUBG1",
+            "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation.",
+            "depth": 1
+        },
+        {
+            "name": "KHDRBS3",
+            "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "SOGA1",
+            "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family.",
+            "depth": 1
+        },
+        {
+            "name": "PARD6G",
+            "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "TUBGCP5",
+            "annotation": "Gamma-tubulin complex component 5; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 1
+        },
+        {
+            "name": "SFN",
+            "annotation": "14-3-3 protein sigma; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. When bound to KRT17, regulates protein synthesis and epithelial cell growth by stimulating Akt/mTOR pathway. May also regulate MDM2 autoubiquitination and degradation and thereby activate p53/TP53; Belongs to the 14-3-3 family.",
+            "depth": 2
+        },
+        {
+            "name": "YWHAH",
+            "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+            "depth": 2
+        },
+        {
+            "name": "MYH14",
+            "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping.",
+            "depth": 2
+        },
+        {
+            "name": "MYH10",
+            "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.",
+            "depth": 2
+        },
+        {
+            "name": "TRIM8",
+            "annotation": "E3 ubiquitin-protein ligase TRIM8; E3 ubiquitin-protein ligase which plays different roles in immune pathways. Participates in the activation of interferon-gamma signaling by promoting proteasomal degradation of the repressor SOCS1. Plays a positive role in the TNFalpha and IL-1beta signaling pathways. Mechanistically, induces the 'lys-63' polyubiquitination of MAP3K7/TAK1 component leading to the activation of NF-kappa-B. Modulates also STAT3 activity through negative regulation of PIAS3, either by degradation of PIAS3 through the ubiquitin-proteasome pathway or exclusion of PIAS3 fro [...] ",
+            "depth": 2
+        },
+        {
+            "name": "RNF166",
+            "annotation": "E3 ubiquitin-protein ligase RNF166; E3 ubiquitin-protein ligase that promotes the ubiquitination of different substrates. In turn, participates in different biological processes including interferon production or autophagy. Plays a role in the activation of RNA virus-induced interferon-beta production by promoting the ubiquitination of TRAF3 and TRAF6. Plays also a role in the early recruitment of autophagy adapters to bacteria. Mediates 'Lys-29' and 'Lys-33'-linked ubiquitination of SQSTM1 leading to xenophagic targeting of bacteria and inhibition of their replication.",
+            "depth": 2
+        },
+        {
+            "name": "PSMC6",
+            "annotation": "26S proteasome regulatory subunit 10B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC6 belongs to the heterohexameric ring of AAA (ATPases associated wi [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PSMC4",
+            "annotation": "26S proteasome regulatory subunit 6B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC4 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TUBA1B",
+            "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "TUBA1C",
+            "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB",
+            "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "TUBG2",
+            "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "SRSF1",
+            "annotation": "Serine/arginine-rich splicing factor 1; Plays a role in preventing exon skipping, ensuring the accuracy of splicing and regulating alternative splicing. Interacts with other spliceosomal components, via the RS domains, to form a bridge between the 5'- and 3'-splice site binding components, U1 snRNP and U2AF. Can stimulate binding of U1 snRNP to a 5'-splice site- containing pre-mRNA. Binds to purine-rich RNA sequences, either the octamer, 5'-RGAAGAAC-3' (r=A or G) or the decamers, AGGACAGAGC/AGGACGAAGC. Binds preferentially to the 5'-CGAGGCG-3' motif in vitro. Three copies of the octame [...] ",
+            "depth": 2
+        },
+        {
+            "name": "KHDRBS2",
+            "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 2; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds both poly(A) and poly(U) homopolymers. Phosphorylation by PTK6 inhibits its RNA-binding ability (By similarity). Induces an increased concentration-dependent incorporation of exon in CD44 pre- mRNA by direct binding to purine-rich exonic enhancer. Can regulate alternative splicing of NRXN1 in the laminin G-like domain 6 containing the evolutionary conserved neurexi [...] ",
+            "depth": 2
+        },
+        {
+            "name": "YWHAB",
+            "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "YWHAG",
+            "annotation": "14-3-3 protein gamma, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner.",
+            "depth": 2
+        },
+        {
+            "name": "PARD6A",
+            "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family.",
+            "depth": 2
+        },
+        {
+            "name": "PARD6B",
+            "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBGCP6",
+            "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 2
+        },
+        {
+            "name": "TUBGCP2",
+            "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MARK4",
+            "end": "YWHAZ",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 531.0,
+                "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "YWHAZ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH9",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 311.0,
+                "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH9",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "RNF41",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 178.0,
+                "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "RNF41",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PSMC3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 161.0,
+                "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PSMC3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBA1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 329.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBG1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 698.0,
+                "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 697.0,
+                "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "KHDRBS3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 183.0,
+                "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "KHDRBS3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 163.0,
+                "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "SOGA1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 190.0,
+                "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "SOGA1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6G",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 272.0,
+                "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6G",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP5",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Gamma-tubulin complex component 5; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Gamma-tubulin complex component 5; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "YWHAZ",
+            "end": "SFN",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 878.0,
+                "annotation": "14-3-3 protein sigma; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. When bound to KRT17, regulates protein synthesis and epithelial cell growth by stimulating Akt/mTOR pathway. May also regulate MDM2 autoubiquitination and degradation and thereby activate p53/TP53; Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "YWHAZ",
+            "end": "SFN",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 810.0,
+                "annotation": "14-3-3 protein sigma; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. When bound to KRT17, regulates protein synthesis and epithelial cell growth by stimulating Akt/mTOR pathway. May also regulate MDM2 autoubiquitination and degradation and thereby activate p53/TP53; Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "YWHAZ",
+            "end": "YWHAH",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 972.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            }
+        },
+        {
+            "start": "YWHAZ",
+            "end": "YWHAH",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 930.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            }
+        },
+        {
+            "start": "MYH9",
+            "end": "MYH14",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 932.0,
+                "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping."
+            }
+        },
+        {
+            "start": "MYH9",
+            "end": "MYH14",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 924.0,
+                "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping."
+            }
+        },
+        {
+            "start": "MYH9",
+            "end": "MYH10",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 985.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MYH9",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "RNF41",
+            "end": "TRIM8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 333.0,
+                "annotation": "E3 ubiquitin-protein ligase TRIM8; E3 ubiquitin-protein ligase which plays different roles in immune pathways. Participates in the activation of interferon-gamma signaling by promoting proteasomal degradation of the repressor SOCS1. Plays a positive role in the TNFalpha and IL-1beta signaling pathways. Mechanistically, induces the 'lys-63' polyubiquitination of MAP3K7/TAK1 component leading to the activation of NF-kappa-B. Modulates also STAT3 activity through negative regulation of PIAS3, either by degradation of PIAS3 through the ubiquitin-proteasome pathway or exclusion of PIAS3 fro [...] "
+            }
+        },
+        {
+            "start": "RNF41",
+            "end": "TRIM8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "E3 ubiquitin-protein ligase TRIM8; E3 ubiquitin-protein ligase which plays different roles in immune pathways. Participates in the activation of interferon-gamma signaling by promoting proteasomal degradation of the repressor SOCS1. Plays a positive role in the TNFalpha and IL-1beta signaling pathways. Mechanistically, induces the 'lys-63' polyubiquitination of MAP3K7/TAK1 component leading to the activation of NF-kappa-B. Modulates also STAT3 activity through negative regulation of PIAS3, either by degradation of PIAS3 through the ubiquitin-proteasome pathway or exclusion of PIAS3 fro [...] "
+            }
+        },
+        {
+            "start": "RNF41",
+            "end": "RNF166",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 301.0,
+                "annotation": "E3 ubiquitin-protein ligase RNF166; E3 ubiquitin-protein ligase that promotes the ubiquitination of different substrates. In turn, participates in different biological processes including interferon production or autophagy. Plays a role in the activation of RNA virus-induced interferon-beta production by promoting the ubiquitination of TRAF3 and TRAF6. Plays also a role in the early recruitment of autophagy adapters to bacteria. Mediates 'Lys-29' and 'Lys-33'-linked ubiquitination of SQSTM1 leading to xenophagic targeting of bacteria and inhibition of their replication."
+            }
+        },
+        {
+            "start": "RNF41",
+            "end": "RNF166",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "E3 ubiquitin-protein ligase RNF166; E3 ubiquitin-protein ligase that promotes the ubiquitination of different substrates. In turn, participates in different biological processes including interferon production or autophagy. Plays a role in the activation of RNA virus-induced interferon-beta production by promoting the ubiquitination of TRAF3 and TRAF6. Plays also a role in the early recruitment of autophagy adapters to bacteria. Mediates 'Lys-29' and 'Lys-33'-linked ubiquitination of SQSTM1 leading to xenophagic targeting of bacteria and inhibition of their replication."
+            }
+        },
+        {
+            "start": "PSMC3",
+            "end": "PSMC6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "26S proteasome regulatory subunit 10B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC6 belongs to the heterohexameric ring of AAA (ATPases associated wi [...] "
+            }
+        },
+        {
+            "start": "PSMC3",
+            "end": "PSMC6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 997.0,
+                "annotation": "26S proteasome regulatory subunit 10B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC6 belongs to the heterohexameric ring of AAA (ATPases associated wi [...] "
+            }
+        },
+        {
+            "start": "PSMC3",
+            "end": "PSMC4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "26S proteasome regulatory subunit 6B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC4 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+            }
+        },
+        {
+            "start": "PSMC3",
+            "end": "PSMC4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 998.0,
+                "annotation": "26S proteasome regulatory subunit 6B; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC4 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 966.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 922.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1C",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 691.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBG1",
+            "end": "TUBB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 629.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBG1",
+            "end": "TUBB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 446.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBG1",
+            "end": "TUBG2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity)."
+            }
+        },
+        {
+            "start": "TUBG1",
+            "end": "TUBG2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 958.0,
+                "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity)."
+            }
+        },
+        {
+            "start": "KHDRBS3",
+            "end": "SRSF1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 609.0,
+                "annotation": "Serine/arginine-rich splicing factor 1; Plays a role in preventing exon skipping, ensuring the accuracy of splicing and regulating alternative splicing. Interacts with other spliceosomal components, via the RS domains, to form a bridge between the 5'- and 3'-splice site binding components, U1 snRNP and U2AF. Can stimulate binding of U1 snRNP to a 5'-splice site- containing pre-mRNA. Binds to purine-rich RNA sequences, either the octamer, 5'-RGAAGAAC-3' (r=A or G) or the decamers, AGGACAGAGC/AGGACGAAGC. Binds preferentially to the 5'-CGAGGCG-3' motif in vitro. Three copies of the octame [...] "
+            }
+        },
+        {
+            "start": "KHDRBS3",
+            "end": "SRSF1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 300.0,
+                "annotation": "Serine/arginine-rich splicing factor 1; Plays a role in preventing exon skipping, ensuring the accuracy of splicing and regulating alternative splicing. Interacts with other spliceosomal components, via the RS domains, to form a bridge between the 5'- and 3'-splice site binding components, U1 snRNP and U2AF. Can stimulate binding of U1 snRNP to a 5'-splice site- containing pre-mRNA. Binds to purine-rich RNA sequences, either the octamer, 5'-RGAAGAAC-3' (r=A or G) or the decamers, AGGACAGAGC/AGGACGAAGC. Binds preferentially to the 5'-CGAGGCG-3' motif in vitro. Three copies of the octame [...] "
+            }
+        },
+        {
+            "start": "KHDRBS3",
+            "end": "KHDRBS2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 835.0,
+                "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 2; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds both poly(A) and poly(U) homopolymers. Phosphorylation by PTK6 inhibits its RNA-binding ability (By similarity). Induces an increased concentration-dependent incorporation of exon in CD44 pre- mRNA by direct binding to purine-rich exonic enhancer. Can regulate alternative splicing of NRXN1 in the laminin G-like domain 6 containing the evolutionary conserved neurexi [...] "
+            }
+        },
+        {
+            "start": "KHDRBS3",
+            "end": "KHDRBS2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 614.0,
+                "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 2; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds both poly(A) and poly(U) homopolymers. Phosphorylation by PTK6 inhibits its RNA-binding ability (By similarity). Induces an increased concentration-dependent incorporation of exon in CD44 pre- mRNA by direct binding to purine-rich exonic enhancer. Can regulate alternative splicing of NRXN1 in the laminin G-like domain 6 containing the evolutionary conserved neurexi [...] "
+            }
+        },
+        {
+            "start": "SOGA1",
+            "end": "YWHAB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 186.0,
+                "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] "
+            }
+        },
+        {
+            "start": "SOGA1",
+            "end": "YWHAB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 188.0,
+                "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] "
+            }
+        },
+        {
+            "start": "SOGA1",
+            "end": "YWHAG",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 186.0,
+                "annotation": "14-3-3 protein gamma, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner."
+            }
+        },
+        {
+            "start": "SOGA1",
+            "end": "YWHAG",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 208.0,
+                "annotation": "14-3-3 protein gamma, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner."
+            }
+        },
+        {
+            "start": "PARD6G",
+            "end": "PARD6A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "PARD6G",
+            "end": "PARD6A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 908.0,
+                "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "PARD6G",
+            "end": "PARD6B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 960.0,
+                "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "PARD6G",
+            "end": "PARD6B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 963.0,
+                "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "TUBGCP5",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP5",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP5",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 994.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP5",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        }
+    ]
+}

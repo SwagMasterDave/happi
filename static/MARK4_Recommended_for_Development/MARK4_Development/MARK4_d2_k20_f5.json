@@ -1,0 +1,468 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "YWHAZ",
+            "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family.",
+            "depth": 1
+        },
+        {
+            "name": "YWHAH",
+            "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+            "depth": 2
+        },
+        {
+            "name": "MYH9",
+            "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10.",
+            "depth": 1
+        },
+        {
+            "name": "RNF41",
+            "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PSMC3",
+            "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1A",
+            "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "TUBG1",
+            "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation.",
+            "depth": 1
+        },
+        {
+            "name": "KHDRBS3",
+            "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "SOGA1",
+            "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family.",
+            "depth": 1
+        },
+        {
+            "name": "PARD6G",
+            "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity).",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MARK4",
+            "end": "YWHAZ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+            },
+            "explanation": "The interaction is not relevant to the query. YWHAZ binds phosphoserine/phosphothreonine motifs but does not phosphorylate MARK4; thus, it cannot fulfill the requirement of the end protein phosphorylating MARK4."
+        },
+        {
+            "start": "YWHAZ",
+            "end": "YWHAH",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 930.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            },
+            "explanation": "The interaction between YWHAZ and YWHAH is relevant to the query because both are 14-3-3 proteins that modulate signaling pathways through phosphoserine/phosphothreonine motifs, which could impact MARK4 activity indirectly."
+        },
+        {
+            "start": "MARK4",
+            "end": "YWHAZ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+            },
+            "explanation": "The interaction is not relevant because YWHAZ (14-3-3 protein zeta/delta) binds to phosphoserine or phosphothreonine motifs and modulates activity, but there is no evidence it directly phosphorylates MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH9",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+            },
+            "explanation": "The interaction between MARK4 and MYH9 is not relevant to the query because there is no direct evidence provided that MYH9 phosphorylates MARK4. MARK4 is a kinase, but MYH9's role as a substrate or kinase is not established."
+        },
+        {
+            "start": "MARK4",
+            "end": "RNF41",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] "
+            },
+            "explanation": "The given interactions are not relevant to the query because there is no evidence that RNF41 phosphorylates MARK4 directly. RNF41 is an E3 ubiquitin-protein ligase, not a kinase, and does not perform phosphorylation activities."
+        },
+        {
+            "start": "MARK4",
+            "end": "PSMC3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+            },
+            "explanation": "The interaction is not relevant. There is no evidence provided that PSMC3 phosphorylates MARK4. PSMC3 is involved in protein degradation, not phosphorylation, and there is no known direct interaction."
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            },
+            "explanation": "This interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 is the kinase, not the substrate, making the path direction incorrect."
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 697.0,
+                "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+            },
+            "explanation": "The interaction is not relevant. The query asks for paths where the end protein phosphorylates MARK4, but TUBG1 is not known to phosphorylate MARK4. No explicit interaction path is provided."
+        },
+        {
+            "start": "MARK4",
+            "end": "KHDRBS3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 163.0,
+                "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] "
+            },
+            "explanation": "The interaction is not relevant as there is no direct evidence that KHDRBS3 phosphorylates MARK4. MARK4 is a kinase and typically phosphorylates other proteins, but KHDRBS3 is an RNA-binding protein with no known kinase activity."
+        },
+        {
+            "start": "MARK4",
+            "end": "SOGA1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family."
+            },
+            "explanation": "The interaction is not relevant because there is no evidence or annotation indicating that SOGA1 directly phosphorylates MARK4. The available information only describes MARK4's phosphorylation activities and SOGA1's role in autophagy and glucose regulation."
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6G",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+            },
+            "explanation": "The interaction is not relevant because the query requires PARD6G to phosphorylate MARK4, but the provided data only shows MARK4's phosphorylation targets, not a reverse interaction. Thus, no directional evidence supports the query."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MARK4",
+                "YWHAZ",
+                "YWHAH"
+            ],
+            "score": 10.0,
+            "explanation": "The path 'MARK4 -> YWHAZ -> YWHAH' is not relevant to the query because YWHAZ does not phosphorylate MARK4. Both YWHAZ and YWHAH are 14-3-3 proteins that modulate signaling pathways but do not directly phosphorylate MARK4, thus failing to meet the requirement of the query.",
+            "details": "MARK4 -> YWHAZ:\nThe interaction is not relevant to the query. YWHAZ binds phosphoserine/phosphothreonine motifs but does not phosphorylate MARK4; thus, it cannot fulfill the requirement of the end protein phosphorylating MARK4.\n\nYWHAZ -> YWHAH:\nThe interaction between YWHAZ and YWHAH is relevant to the query because both are 14-3-3 proteins that modulate signaling pathways through phosphoserine/phosphothreonine motifs, which could impact MARK4 activity indirectly.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "YWHAZ",
+                    "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family.",
+                    "depth": 1
+                },
+                {
+                    "name": "YWHAH",
+                    "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "YWHAZ",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 420.0,
+                        "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+                    },
+                    "explanation": "The interaction is not relevant to the query. YWHAZ binds phosphoserine/phosphothreonine motifs but does not phosphorylate MARK4; thus, it cannot fulfill the requirement of the end protein phosphorylating MARK4."
+                },
+                {
+                    "start": "YWHAZ",
+                    "end": "YWHAH",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 930.0,
+                        "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+                    },
+                    "explanation": "The interaction between YWHAZ and YWHAH is relevant to the query because both are 14-3-3 proteins that modulate signaling pathways through phosphoserine/phosphothreonine motifs, which could impact MARK4 activity indirectly."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "YWHAZ"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> YWHAZ' is not recommended because YWHAZ (14-3-3 protein zeta/delta) binds to phosphoserine or phosphothreonine motifs and modulates activity but does not directly phosphorylate MARK4. Thus, it does not satisfy the query requirement of finding a protein that phosphorylates MARK4.",
+            "details": "MARK4 -> YWHAZ:\nThe interaction is not relevant because YWHAZ (14-3-3 protein zeta/delta) binds to phosphoserine or phosphothreonine motifs and modulates activity, but there is no evidence it directly phosphorylates MARK4.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "YWHAZ",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 420.0,
+                        "annotation": "14-3-3 protein zeta/delta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Induces ARHGEF7 activity on RAC1 as well as lamellipodia and membrane ruffle formation. In neurons, regulates spine maturation through the modulation of ARHGEF7 activity (By similarity). Belongs to the 14-3-3 family."
+                    },
+                    "explanation": "The interaction is not relevant because YWHAZ (14-3-3 protein zeta/delta) binds to phosphoserine or phosphothreonine motifs and modulates activity, but there is no evidence it directly phosphorylates MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "MYH9"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and MYH9 is not relevant to the query because there is no direct evidence provided that MYH9 phosphorylates MARK4. MARK4 is a kinase, but MYH9's role as a substrate or kinase is not established. Therefore, this path does not satisfy the requirement that the end protein phosphorylates MARK4.",
+            "details": "MARK4 -> MYH9:\nThe interaction between MARK4 and MYH9 is not relevant to the query because there is no direct evidence provided that MYH9 phosphorylates MARK4. MARK4 is a kinase, but MYH9's role as a substrate or kinase is not established.\n\n",
+            "proteins": [
+                {
+                    "name": "MYH9",
+                    "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "MYH9",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+                    },
+                    "explanation": "The interaction between MARK4 and MYH9 is not relevant to the query because there is no direct evidence provided that MYH9 phosphorylates MARK4. MARK4 is a kinase, but MYH9's role as a substrate or kinase is not established."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "RNF41"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> RNF41 is not relevant to the query because RNF41 is an E3 ubiquitin-protein ligase and does not perform phosphorylation activities. Therefore, it cannot phosphorylate MARK4 directly.",
+            "details": "MARK4 -> RNF41:\nThe given interactions are not relevant to the query because there is no evidence that RNF41 phosphorylates MARK4 directly. RNF41 is an E3 ubiquitin-protein ligase, not a kinase, and does not perform phosphorylation activities.\n\n",
+            "proteins": [
+                {
+                    "name": "RNF41",
+                    "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "RNF41",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "E3 ubiquitin-protein ligase NRDP1; Acts as E3 ubiquitin-protein ligase and regulates the degradation of target proteins. Polyubiquitinates MYD88. Negatively regulates MYD88-dependent production of proinflammatory cytokines. Can promote TRIF-dependent production of type I interferon and inhibits infection with vesicular stomatitis virus (By similarity). Promotes also activation of TBK1 and IRF3. Involved in the ubiquitination of erythropoietin (EPO) and interleukin-3 (IL-3) receptors. Thus, through maintaining basal levels of cytokine receptors, RNF41 is involved in the control of hemat [...] "
+                    },
+                    "explanation": "The given interactions are not relevant to the query because there is no evidence that RNF41 phosphorylates MARK4 directly. RNF41 is an E3 ubiquitin-protein ligase, not a kinase, and does not perform phosphorylation activities."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PSMC3"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> PSMC3 is not relevant as there is no evidence that PSMC3 phosphorylates MARK4. PSMC3 is involved in protein degradation, not phosphorylation, and there is no known direct interaction between these proteins.",
+            "details": "MARK4 -> PSMC3:\nThe interaction is not relevant. There is no evidence provided that PSMC3 phosphorylates MARK4. PSMC3 is involved in protein degradation, not phosphorylation, and there is no known direct interaction.\n\n",
+            "proteins": [
+                {
+                    "name": "PSMC3",
+                    "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PSMC3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "26S proteasome regulatory subunit 6A; Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC3 belongs to the heterohexameric ring of AAA (ATPases associated wit [...] "
+                    },
+                    "explanation": "The interaction is not relevant. There is no evidence provided that PSMC3 phosphorylates MARK4. PSMC3 is involved in protein degradation, not phosphorylation, and there is no known direct interaction."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "TUBA1A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> TUBA1A' is not relevant to the query because the query requires that the end protein phosphorylates MARK4. In this path, MARK4 is the kinase and TUBA1A is the substrate, making the interaction direction incorrect.",
+            "details": "MARK4 -> TUBA1A:\nThis interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 is the kinase, not the substrate, making the path direction incorrect.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBA1A",
+                    "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "TUBA1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+                    },
+                    "explanation": "This interaction is not relevant to the query. The query asks for paths where the end protein phosphorylates MARK4. Here, MARK4 is the kinase, not the substrate, making the path direction incorrect."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "TUBG1"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> TUBG1 is not relevant because TUBG1 does not phosphorylate MARK4. The query specifically asks for paths where the end protein phosphorylates MARK4, and there is no known interaction where TUBG1 directly phosphorylates MARK4.",
+            "details": "MARK4 -> TUBG1:\nThe interaction is not relevant. The query asks for paths where the end protein phosphorylates MARK4, but TUBG1 is not known to phosphorylate MARK4. No explicit interaction path is provided.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBG1",
+                    "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "TUBG1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 697.0,
+                        "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+                    },
+                    "explanation": "The interaction is not relevant. The query asks for paths where the end protein phosphorylates MARK4, but TUBG1 is not known to phosphorylate MARK4. No explicit interaction path is provided."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "KHDRBS3"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction path MARK4 -> KHDRBS3 is not relevant because KHDRBS3 does not phosphorylate MARK4. KHDRBS3 is an RNA-binding protein without kinase activity, while MARK4, a kinase, typically phosphorylates other proteins. Consequently, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> KHDRBS3:\nThe interaction is not relevant as there is no direct evidence that KHDRBS3 phosphorylates MARK4. MARK4 is a kinase and typically phosphorylates other proteins, but KHDRBS3 is an RNA-binding protein with no known kinase activity.\n\n",
+            "proteins": [
+                {
+                    "name": "KHDRBS3",
+                    "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "KHDRBS3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 163.0,
+                        "annotation": "KH domain-containing, RNA-binding, signal transduction-associated protein 3; RNA-binding protein that plays a role in the regulation of alternative splicing and influences mRNA splice site selection and exon inclusion. Binds preferentially to the 5'-[AU]UAAA-3' motif in vitro. Binds optimally to RNA containing 5'-[AU]UAA-3' as a bipartite motif spaced by more than 15 nucleotides. Binds poly(A). RNA-binding abilities are down-regulated by tyrosine kinase PTK6. Involved in splice site selection of vascular endothelial growth factor. In vitro regulates CD44 alternative splicing by direct  [...] "
+                    },
+                    "explanation": "The interaction is not relevant as there is no direct evidence that KHDRBS3 phosphorylates MARK4. MARK4 is a kinase and typically phosphorylates other proteins, but KHDRBS3 is an RNA-binding protein with no known kinase activity."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "SOGA1"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> SOGA1 is not relevant because there is no evidence that SOGA1 phosphorylates MARK4. The available information only describes MARK4's phosphorylation activities and SOGA1's role in autophagy and glucose regulation, without any direct interaction or phosphorylation relationship between them.",
+            "details": "MARK4 -> SOGA1:\nThe interaction is not relevant because there is no evidence or annotation indicating that SOGA1 directly phosphorylates MARK4. The available information only describes MARK4's phosphorylation activities and SOGA1's role in autophagy and glucose regulation.\n\n",
+            "proteins": [
+                {
+                    "name": "SOGA1",
+                    "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "SOGA1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "C-terminal 80 kDa form; Regulates autophagy by playing a role in the reduction of glucose production in an adiponectin- and insulin-dependent manner. Belongs to the SOGA family."
+                    },
+                    "explanation": "The interaction is not relevant because there is no evidence or annotation indicating that SOGA1 directly phosphorylates MARK4. The available information only describes MARK4's phosphorylation activities and SOGA1's role in autophagy and glucose regulation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PARD6G"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> PARD6G is not relevant because the query specifically requires PARD6G to phosphorylate MARK4. The provided data only indicates MARK4's phosphorylation targets but does not support the reverse interaction. No biological processes or mechanisms justify this path under the given query requirements.",
+            "details": "MARK4 -> PARD6G:\nThe interaction is not relevant because the query requires PARD6G to phosphorylate MARK4, but the provided data only shows MARK4's phosphorylation targets, not a reverse interaction. Thus, no directional evidence supports the query.\n\n",
+            "proteins": [
+                {
+                    "name": "PARD6G",
+                    "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity).",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PARD6G",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+                    },
+                    "explanation": "The interaction is not relevant because the query requires PARD6G to phosphorylate MARK4, but the provided data only shows MARK4's phosphorylation targets, not a reverse interaction. Thus, no directional evidence supports the query."
+                }
+            ]
+        }
+    ]
+}

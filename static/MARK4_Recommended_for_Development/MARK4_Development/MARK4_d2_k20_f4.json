@@ -1,0 +1,488 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "APP",
+            "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+            "depth": 1
+        },
+        {
+            "name": "APH1A",
+            "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family.",
+            "depth": 2
+        },
+        {
+            "name": "ARHGEF2",
+            "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] ",
+            "depth": 1
+        },
+        {
+            "name": "RAC1",
+            "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PDE4B",
+            "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily.",
+            "depth": 1
+        },
+        {
+            "name": "PRKCI",
+            "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PRPF40A",
+            "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family.",
+            "depth": 1
+        },
+        {
+            "name": "TRIM66",
+            "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "CYFIP1",
+            "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBGCP3",
+            "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 1
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MARK4",
+            "end": "APP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 337.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            },
+            "explanation": "The interaction is **not relevant** because there is no direct evidence that APP phosphorylates MARK4. APP is involved in signaling and cellular processes, but its role as a kinase in phosphorylating MARK4 is not supported."
+        },
+        {
+            "start": "APP",
+            "end": "APH1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 807.0,
+                "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+            },
+            "explanation": "The interaction between APP and APH1A is relevant. APP and APH1A are both components of the gamma-secretase complex, which processes regulatory proteins like Notch receptors and APP, impacting pathways that could include MARK4 phosphorylation."
+        },
+        {
+            "start": "MARK4",
+            "end": "ARHGEF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 427.0,
+                "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+            },
+            "explanation": "The interaction between MARK4 and ARHGEF2 is not directly relevant. MARK4 is a kinase that phosphorylates microtubule-associated proteins, while ARHGEF2 is a guanine nucleotide exchange factor for Rho-GTPases, suggesting no direct phosphorylation interaction."
+        },
+        {
+            "start": "ARHGEF2",
+            "end": "RAC1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 575.0,
+                "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] "
+            },
+            "explanation": "The interaction between ARHGEF2 and RAC1 is relevant. ARHGEF2 activates Rho-GTPases, including RAC1, which in turn regulates multiple cellular processes, potentially impacting MARK4 through downstream signaling pathways."
+        },
+        {
+            "start": "MARK4",
+            "end": "PDE4B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 360.0,
+                "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily."
+            },
+            "explanation": "The interaction between MARK4 and PDE4B is not relevant to the query. There is no direct evidence or biological process indicating that PDE4B phosphorylates MARK4. Thus, the path should be deleted."
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKCI",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 370.0,
+                "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] "
+            },
+            "explanation": "The interaction is not relevant. The query asks for phosphorylation of MARK4 by the end protein (PRKCI), but there is no direct evidence that PRKCI phosphorylates MARK4 in the provided annotations."
+        },
+        {
+            "start": "MARK4",
+            "end": "APP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 337.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            },
+            "explanation": "The interactions are not relevant. The query asks for paths where the end protein phosphorylates MARK4. APP does not phosphorylate MARK4; MARK4 is a kinase that phosphorylates other proteins, not the other way around."
+        },
+        {
+            "start": "MARK4",
+            "end": "PRPF40A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 197.0,
+                "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family."
+            },
+            "explanation": "The interaction is not relevant. MARK4 phosphorylates MAPT/TAU, MAP2, and MAP4, but there is no evidence that PRPF40A phosphorylates MARK4 or any downstream interaction between PRPF40A and MARK4."
+        },
+        {
+            "start": "MARK4",
+            "end": "TRIM66",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 163.0,
+                "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity)."
+            },
+            "explanation": "The interaction is not relevant. MARK4 is a kinase that phosphorylates proteins but no evidence suggests TRIM66 phosphorylates MARK4. No direct interaction between TRIM66 and MARK4 is indicated in the provided annotations."
+        },
+        {
+            "start": "MARK4",
+            "end": "ARHGEF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 427.0,
+                "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+            },
+            "explanation": "The interaction is not relevant to the query. MARK4 is a kinase that phosphorylates other proteins, but there is no evidence that ARHGEF2 phosphorylates MARK4 or that MARK4 directly interacts with ARHGEF2."
+        },
+        {
+            "start": "MARK4",
+            "end": "CYFIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] "
+            },
+            "explanation": "The interaction between MARK4 and CYFIP1 is not relevant to the query, as there is no evidence that CYFIP1 phosphorylates MARK4. The provided annotations do not indicate a direct or indirect phosphorylation relationship."
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            },
+            "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins, whereas the query requests paths where the end protein (TUBGCP3) phosphorylates MARK4. No evidence suggests TUBGCP3 phosphorylates MARK4."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MARK4",
+                "APP",
+                "APH1A"
+            ],
+            "score": 20.0,
+            "explanation": "The path 'MARK4 -> APP -> APH1A' is not recommended. The interaction MARK4 -> APP is not relevant as there's no direct evidence that APP phosphorylates MARK4. While APP and APH1A interact within the gamma-secretase complex, this does not establish a phosphorylation link to MARK4.",
+            "details": "MARK4 -> APP:\nThe interaction is **not relevant** because there is no direct evidence that APP phosphorylates MARK4. APP is involved in signaling and cellular processes, but its role as a kinase in phosphorylating MARK4 is not supported.\n\nAPP -> APH1A:\nThe interaction between APP and APH1A is relevant. APP and APH1A are both components of the gamma-secretase complex, which processes regulatory proteins like Notch receptors and APP, impacting pathways that could include MARK4 phosphorylation.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "APP",
+                    "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "APH1A",
+                    "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family.",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "APP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 337.0,
+                        "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+                    },
+                    "explanation": "The interaction is **not relevant** because there is no direct evidence that APP phosphorylates MARK4. APP is involved in signaling and cellular processes, but its role as a kinase in phosphorylating MARK4 is not supported."
+                },
+                {
+                    "start": "APP",
+                    "end": "APH1A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 807.0,
+                        "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+                    },
+                    "explanation": "The interaction between APP and APH1A is relevant. APP and APH1A are both components of the gamma-secretase complex, which processes regulatory proteins like Notch receptors and APP, impacting pathways that could include MARK4 phosphorylation."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "ARHGEF2",
+                "RAC1"
+            ],
+            "score": 10.0,
+            "explanation": "The path 'MARK4 -> ARHGEF2 -> RAC1' is not directly relevant for the query 'Find protein paths that the end protein phosphorylates MARK4'. MARK4 does not directly interact with ARHGEF2, and there is no evidence that RAC1 can phosphorylate MARK4. The intermediate interactions do not suggest a direct phosphorylation mechanism.",
+            "details": "MARK4 -> ARHGEF2:\nThe interaction between MARK4 and ARHGEF2 is not directly relevant. MARK4 is a kinase that phosphorylates microtubule-associated proteins, while ARHGEF2 is a guanine nucleotide exchange factor for Rho-GTPases, suggesting no direct phosphorylation interaction.\n\nARHGEF2 -> RAC1:\nThe interaction between ARHGEF2 and RAC1 is relevant. ARHGEF2 activates Rho-GTPases, including RAC1, which in turn regulates multiple cellular processes, potentially impacting MARK4 through downstream signaling pathways.\n\n",
+            "proteins": [
+                {
+                    "name": "ARHGEF2",
+                    "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] ",
+                    "depth": 1
+                },
+                {
+                    "name": "RAC1",
+                    "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "ARHGEF2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 427.0,
+                        "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and ARHGEF2 is not directly relevant. MARK4 is a kinase that phosphorylates microtubule-associated proteins, while ARHGEF2 is a guanine nucleotide exchange factor for Rho-GTPases, suggesting no direct phosphorylation interaction."
+                },
+                {
+                    "start": "ARHGEF2",
+                    "end": "RAC1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 575.0,
+                        "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] "
+                    },
+                    "explanation": "The interaction between ARHGEF2 and RAC1 is relevant. ARHGEF2 activates Rho-GTPases, including RAC1, which in turn regulates multiple cellular processes, potentially impacting MARK4 through downstream signaling pathways."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PDE4B"
+            ],
+            "score": 0.0,
+            "explanation": "The path MARK4 -> PDE4B is not relevant to the query as there is no direct evidence or biological process indicating that PDE4B phosphorylates MARK4. Therefore, this path should be deleted.",
+            "details": "MARK4 -> PDE4B:\nThe interaction between MARK4 and PDE4B is not relevant to the query. There is no direct evidence or biological process indicating that PDE4B phosphorylates MARK4. Thus, the path should be deleted.\n\n",
+            "proteins": [
+                {
+                    "name": "PDE4B",
+                    "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PDE4B",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 360.0,
+                        "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily."
+                    },
+                    "explanation": "The interaction between MARK4 and PDE4B is not relevant to the query. There is no direct evidence or biological process indicating that PDE4B phosphorylates MARK4. Thus, the path should be deleted."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PRKCI"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and PRKCI is not relevant for the query as there is no direct evidence that PRKCI phosphorylates MARK4. Thus, the path does not satisfy the requirement of the query.",
+            "details": "MARK4 -> PRKCI:\nThe interaction is not relevant. The query asks for phosphorylation of MARK4 by the end protein (PRKCI), but there is no direct evidence that PRKCI phosphorylates MARK4 in the provided annotations.\n\n",
+            "proteins": [
+                {
+                    "name": "PRKCI",
+                    "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PRKCI",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 370.0,
+                        "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] "
+                    },
+                    "explanation": "The interaction is not relevant. The query asks for phosphorylation of MARK4 by the end protein (PRKCI), but there is no direct evidence that PRKCI phosphorylates MARK4 in the provided annotations."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "APP"
+            ],
+            "score": 0.0,
+            "explanation": "The provided path 'MARK4 -> APP' is not relevant to the query, as the query requires the end protein to phosphorylate MARK4. APP does not phosphorylate MARK4; instead, MARK4 is a kinase that phosphorylates other proteins. Therefore, this path does not satisfy the query requirements.",
+            "details": "MARK4 -> APP:\nThe interactions are not relevant. The query asks for paths where the end protein phosphorylates MARK4. APP does not phosphorylate MARK4; MARK4 is a kinase that phosphorylates other proteins, not the other way around.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "APP",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 337.0,
+                        "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+                    },
+                    "explanation": "The interactions are not relevant. The query asks for paths where the end protein phosphorylates MARK4. APP does not phosphorylate MARK4; MARK4 is a kinase that phosphorylates other proteins, not the other way around."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "PRPF40A"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> PRPF40A' is not relevant. MARK4 phosphorylates MAPT/TAU, MAP2, and MAP4, but there is no evidence that PRPF40A phosphorylates MARK4 or any downstream interaction between PRPF40A and MARK4. Therefore, this path does not satisfy the query requirement.",
+            "details": "MARK4 -> PRPF40A:\nThe interaction is not relevant. MARK4 phosphorylates MAPT/TAU, MAP2, and MAP4, but there is no evidence that PRPF40A phosphorylates MARK4 or any downstream interaction between PRPF40A and MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "PRPF40A",
+                    "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "PRPF40A",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 197.0,
+                        "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family."
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 phosphorylates MAPT/TAU, MAP2, and MAP4, but there is no evidence that PRPF40A phosphorylates MARK4 or any downstream interaction between PRPF40A and MARK4."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "TRIM66"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> TRIM66' is not relevant because there is no evidence that TRIM66 phosphorylates MARK4. No direct interaction between TRIM66 and MARK4 is indicated in the provided annotations.",
+            "details": "MARK4 -> TRIM66:\nThe interaction is not relevant. MARK4 is a kinase that phosphorylates proteins but no evidence suggests TRIM66 phosphorylates MARK4. No direct interaction between TRIM66 and MARK4 is indicated in the provided annotations.\n\n",
+            "proteins": [
+                {
+                    "name": "TRIM66",
+                    "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity).",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "TRIM66",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 163.0,
+                        "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity)."
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 is a kinase that phosphorylates proteins but no evidence suggests TRIM66 phosphorylates MARK4. No direct interaction between TRIM66 and MARK4 is indicated in the provided annotations."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "ARHGEF2"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> ARHGEF2' is not relevant to the query because there is no evidence that ARHGEF2 phosphorylates MARK4 or that MARK4 directly interacts with ARHGEF2. MARK4 is known to phosphorylate other proteins, but this interaction does not satisfy the requirement that the end protein phosphorylates MARK4.",
+            "details": "MARK4 -> ARHGEF2:\nThe interaction is not relevant to the query. MARK4 is a kinase that phosphorylates other proteins, but there is no evidence that ARHGEF2 phosphorylates MARK4 or that MARK4 directly interacts with ARHGEF2.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "ARHGEF2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 427.0,
+                        "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+                    },
+                    "explanation": "The interaction is not relevant to the query. MARK4 is a kinase that phosphorylates other proteins, but there is no evidence that ARHGEF2 phosphorylates MARK4 or that MARK4 directly interacts with ARHGEF2."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "CYFIP1"
+            ],
+            "score": 0.0,
+            "explanation": "The interaction between MARK4 and CYFIP1 is not relevant to the query because there is no evidence that CYFIP1 phosphorylates MARK4. The provided annotations do not indicate a direct or indirect phosphorylation relationship. Therefore, this path does not satisfy the requirements of the query.",
+            "details": "MARK4 -> CYFIP1:\nThe interaction between MARK4 and CYFIP1 is not relevant to the query, as there is no evidence that CYFIP1 phosphorylates MARK4. The provided annotations do not indicate a direct or indirect phosphorylation relationship.\n\n",
+            "proteins": [
+                {
+                    "name": "CYFIP1",
+                    "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "CYFIP1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 161.0,
+                        "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] "
+                    },
+                    "explanation": "The interaction between MARK4 and CYFIP1 is not relevant to the query, as there is no evidence that CYFIP1 phosphorylates MARK4. The provided annotations do not indicate a direct or indirect phosphorylation relationship."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MARK4",
+                "TUBGCP3"
+            ],
+            "score": 0.0,
+            "explanation": "The path 'MARK4 -> TUBGCP3' is not relevant because MARK4 phosphorylates proteins, and there is no evidence suggesting that TUBGCP3 phosphorylates MARK4. The query requires paths where the end protein phosphorylates MARK4, which is not the case here.",
+            "details": "MARK4 -> TUBGCP3:\nThe interaction is not relevant. MARK4 phosphorylates proteins, whereas the query requests paths where the end protein (TUBGCP3) phosphorylates MARK4. No evidence suggests TUBGCP3 phosphorylates MARK4.\n\n",
+            "proteins": [
+                {
+                    "name": "TUBGCP3",
+                    "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MARK4",
+                    "end": "TUBGCP3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 540.0,
+                        "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+                    },
+                    "explanation": "The interaction is not relevant. MARK4 phosphorylates proteins, whereas the query requests paths where the end protein (TUBGCP3) phosphorylates MARK4. No evidence suggests TUBGCP3 phosphorylates MARK4."
+                }
+            ]
+        }
+    ]
+}

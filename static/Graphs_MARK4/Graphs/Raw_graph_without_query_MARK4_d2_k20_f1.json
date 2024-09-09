@@ -1,0 +1,662 @@
+{
+    "Graph name": "MARK4_d2_k20_f1",
+    "Protein": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "CENPJ",
+            "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CDC42",
+            "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] ",
+            "depth": 1
+        },
+        {
+            "name": "DRG1",
+            "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MAP4",
+            "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly.",
+            "depth": 1
+        },
+        {
+            "name": "RPTOR",
+            "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MARK3",
+            "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "DOCK7",
+            "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MTCL1",
+            "annotation": "Microtubule cross-linking factor 1; Microtubule-associated factor involved in the late phase of epithelial polarization and microtubule dynamics regulation. Plays a role in the development and maintenance of non-centrosomal microtubule bundles at the lateral membrane in polarized epithelial cells. Belongs to the SOGA family.",
+            "depth": 1
+        },
+        {
+            "name": "MAP2",
+            "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+            "depth": 1
+        },
+        {
+            "name": "CCP110",
+            "annotation": "Centriolar coiled-coil protein of 110 kDa; Necessary for centrosome duplication at different stages of procentriole formation. Acts as a key negative regulator of ciliogenesis in collaboration with CEP97 by capping the mother centriole thereby preventing cilia formation. Also involved in promoting ciliogenesis. May play a role in the assembly of the mother centriole subdistal appendages (SDA) thereby effecting the fusion of recycling endosomes to basal bodies during cilia formation (By similarity). Required for correct spindle formation and has a role in regulating cytokinesis and geno [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CEP120",
+            "annotation": "Centrosomal protein of 120 kDa; Plays a role in the microtubule-dependent coupling of the nucleus and the centrosome. Involved in the processes that regulate centrosome-mediated interkinetic nuclear migration (INM) of neural progenitors and for proper positioning of neurons during brain development. Also implicated in the migration and selfrenewal of neural progenitors. Required for centriole duplication and maturation during mitosis and subsequent ciliogenesis (By similarity). Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubu [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MAP1B",
+            "annotation": "Microtubule-associated protein 1B; Facilitates tyrosination of alpha-tubulin in neuronal microtubules (By similarity). Phosphorylated MAP1B may play a role in the cytoskeletal changes that accompany neurite extension. Possibly MAP1B binds to at least two tubulin subunits in the polymer, and this bridging of subunits might be involved in nucleating microtubule polymerization and in stabilizing microtubules. Acts as a positive cofactor in DAPK1-mediated autophagic vesicle formation and membrane blebbing.",
+            "depth": 2
+        },
+        {
+            "name": "DOCK8",
+            "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] ",
+            "depth": 2
+        },
+        {
+            "name": "DOCK10",
+            "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family.",
+            "depth": 2
+        },
+        {
+            "name": "GNL2",
+            "annotation": "Nucleolar GTP-binding protein 2; GTPase that associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation (By similarity). May promote cell proliferation possibly by increasing p53/TP53 protein levels, and consequently those of its downstream product CDKN1A/p21, and decreasing RPL23A protein levels.",
+            "depth": 2
+        },
+        {
+            "name": "LSG1",
+            "annotation": "Large subunit GTPase 1 homolog; GTPase required for the XPO1/CRM1-mediated nuclear export of the 60S ribosomal subunit. Probably acts by mediating the release of NMD3 from the 60S ribosomal subunit after export into the cytoplasm (Probable).",
+            "depth": 2
+        },
+        {
+            "name": "MLST8",
+            "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] ",
+            "depth": 2
+        },
+        {
+            "name": "AKT1S1",
+            "annotation": "Proline-rich AKT1 substrate 1; Subunit of mTORC1, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-regulates protein synthesis [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK2",
+            "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+            "depth": 2
+        },
+        {
+            "name": "DOCK6",
+            "annotation": "Dedicator of cytokinesis protein 6; Acts as guanine nucleotide exchange factor (GEF) for CDC42 and RAC1 small GTPases. Through its activation of CDC42 and RAC1, may regulate neurite outgrowth (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "PRC1",
+            "annotation": "Protein regulator of cytokinesis 1; Key regulator of cytokinesis that cross-links antiparrallel microtubules at an average distance of 35 nM. Essential for controlling the spatiotemporal formation of the midzone and successful cytokinesis. Required for KIF14 localization to the central spindle and midbody. Required to recruit PLK1 to the spindle. Stimulates PLK1 phosphorylation of RACGAP1 to allow recruitment of ECT2 to the central spindle. Acts as an oncogene for promoting bladder cancer cells proliferation, apoptosis inhibition and carcinogenic progression. Belongs to the MAP65/ASE1  [...] ",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MARK4",
+            "end": "CENPJ",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CENPJ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Centromere protein J; Plays an important role in cell division and centrosome function by participating in centriole duplication. Inhibits microtubule nucleation from the centrosome. Involved in the regulation of slow processive growth of centriolar microtubules. Acts as microtubule plus-end tracking protein that stabilizes centriolar microtubules and inhibits microtubule polymerization and extension from the distal ends of centrioles. Required for centriole elongation and for STIL-mediated centriole amplification. Required for the recruitment of CEP295 to the proximal end of new-born  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAPT",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 659.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAPT",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CDC42",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 258.0,
+                "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CDC42",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Cell division control protein 42 homolog; Plasma membrane-associated small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. In active state binds to a variety of effector proteins to regulate cellular responses. Involved in epithelial cell polarization processes. Regulates the bipolar attachment of spindle microtubules to kinetochores before chromosome congression in metaphase. Regulates cell migration. In neurons, plays a role in the extension and maintenance of the formation of filopodia, thin and actin-rich surface projections. Required for DOCK10-med [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "DRG1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 190.0,
+                "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "DRG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 190.0,
+                "annotation": "Developmentally-regulated GTP-binding protein 1; Catalyzes the conversion of GTP to GDP through hydrolysis of the gamma-phosphate bond in GTP. Appears to have an intrinsic GTPase activity that is stimulated by ZC3H15/DFRP1 binding likely by increasing the affinity for the potassium ions. When hydroxylated at C-3 of 'Lys-22' by JMJD7, may bind to RNA and play a role in translation. Binds to microtubules and promotes microtubule polymerization and stability that are required for mitotic spindle assembly during prophase to anaphase transition. GTPase activity is not necessary for these mi [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 608.0,
+                "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein 4; Non-neuronal microtubule-associated protein. Promotes microtubule assembly."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "RPTOR",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 410.0,
+                "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "RPTOR",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Regulatory-associated protein of mTOR; Involved in the control of the mammalian target of rapamycin complex 1 (mTORC1) activity which regulates cell growth and survival, and autophagy in response to nutrient and hormonal signals; functions as a scaffold for recruiting mTORC1 substrates. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTO [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MARK3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 571.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 538.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "DOCK7",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 187.0,
+                "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "DOCK7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Dedicator of cytokinesis protein 7; Functions as a guanine nucleotide exchange factor (GEF), which activates Rac1 and Rac3 Rho small GTPases by exchanging bound GDP for free GTP. Does not have a GEF activity for CDC42. Required for STMN1 'Ser-15' phosphorylation during axon formation and consequently for neuronal polarization. As part of the DISP complex, may regulate the association of septins with actin and thereby regulate the actin cytoskeleton. Has a role in pigmentation (By similarity). Involved in the regulation of cortical neurogenesis through the control of radial glial cells  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MTCL1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 168.0,
+                "annotation": "Microtubule cross-linking factor 1; Microtubule-associated factor involved in the late phase of epithelial polarization and microtubule dynamics regulation. Plays a role in the development and maintenance of non-centrosomal microtubule bundles at the lateral membrane in polarized epithelial cells. Belongs to the SOGA family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MTCL1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Microtubule cross-linking factor 1; Microtubule-associated factor involved in the late phase of epithelial polarization and microtubule dynamics regulation. Plays a role in the development and maintenance of non-centrosomal microtubule bundles at the lateral membrane in polarized epithelial cells. Belongs to the SOGA family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 361.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            }
+        },
+        {
+            "start": "CENPJ",
+            "end": "CCP110",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 980.0,
+                "annotation": "Centriolar coiled-coil protein of 110 kDa; Necessary for centrosome duplication at different stages of procentriole formation. Acts as a key negative regulator of ciliogenesis in collaboration with CEP97 by capping the mother centriole thereby preventing cilia formation. Also involved in promoting ciliogenesis. May play a role in the assembly of the mother centriole subdistal appendages (SDA) thereby effecting the fusion of recycling endosomes to basal bodies during cilia formation (By similarity). Required for correct spindle formation and has a role in regulating cytokinesis and geno [...] "
+            }
+        },
+        {
+            "start": "CENPJ",
+            "end": "CCP110",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 524.0,
+                "annotation": "Centriolar coiled-coil protein of 110 kDa; Necessary for centrosome duplication at different stages of procentriole formation. Acts as a key negative regulator of ciliogenesis in collaboration with CEP97 by capping the mother centriole thereby preventing cilia formation. Also involved in promoting ciliogenesis. May play a role in the assembly of the mother centriole subdistal appendages (SDA) thereby effecting the fusion of recycling endosomes to basal bodies during cilia formation (By similarity). Required for correct spindle formation and has a role in regulating cytokinesis and geno [...] "
+            }
+        },
+        {
+            "start": "CENPJ",
+            "end": "CEP120",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 815.0,
+                "annotation": "Centrosomal protein of 120 kDa; Plays a role in the microtubule-dependent coupling of the nucleus and the centrosome. Involved in the processes that regulate centrosome-mediated interkinetic nuclear migration (INM) of neural progenitors and for proper positioning of neurons during brain development. Also implicated in the migration and selfrenewal of neural progenitors. Required for centriole duplication and maturation during mitosis and subsequent ciliogenesis (By similarity). Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubu [...] "
+            }
+        },
+        {
+            "start": "CENPJ",
+            "end": "CEP120",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 430.0,
+                "annotation": "Centrosomal protein of 120 kDa; Plays a role in the microtubule-dependent coupling of the nucleus and the centrosome. Involved in the processes that regulate centrosome-mediated interkinetic nuclear migration (INM) of neural progenitors and for proper positioning of neurons during brain development. Also implicated in the migration and selfrenewal of neural progenitors. Required for centriole duplication and maturation during mitosis and subsequent ciliogenesis (By similarity). Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubu [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 752.0,
+                "annotation": "Microtubule-associated protein 1B; Facilitates tyrosination of alpha-tubulin in neuronal microtubules (By similarity). Phosphorylated MAP1B may play a role in the cytoskeletal changes that accompany neurite extension. Possibly MAP1B binds to at least two tubulin subunits in the polymer, and this bridging of subunits might be involved in nucleating microtubule polymerization and in stabilizing microtubules. Acts as a positive cofactor in DAPK1-mediated autophagic vesicle formation and membrane blebbing."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein 1B; Facilitates tyrosination of alpha-tubulin in neuronal microtubules (By similarity). Phosphorylated MAP1B may play a role in the cytoskeletal changes that accompany neurite extension. Possibly MAP1B binds to at least two tubulin subunits in the polymer, and this bridging of subunits might be involved in nucleating microtubule polymerization and in stabilizing microtubules. Acts as a positive cofactor in DAPK1-mediated autophagic vesicle formation and membrane blebbing."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 659.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 442.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "CDC42",
+            "end": "DOCK8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 997.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            }
+        },
+        {
+            "start": "CDC42",
+            "end": "DOCK8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            }
+        },
+        {
+            "start": "CDC42",
+            "end": "DOCK10",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family."
+            }
+        },
+        {
+            "start": "CDC42",
+            "end": "DOCK10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 953.0,
+                "annotation": "Dedicator of cytokinesis protein 10; Guanine nucleotide-exchange factor (GEF) that activates CDC42 and RAC1 by exchanging bound GDP for free GTP. Essential for dendritic spine morphogenesis in Purkinje cells and in hippocampal neurons, via a CDC42-mediated pathway. Sustains B-cell lymphopoiesis in secondary lymphoid tissues and regulates FCER2/CD23 expression. Belongs to the DOCK family."
+            }
+        },
+        {
+            "start": "DRG1",
+            "end": "GNL2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 553.0,
+                "annotation": "Nucleolar GTP-binding protein 2; GTPase that associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation (By similarity). May promote cell proliferation possibly by increasing p53/TP53 protein levels, and consequently those of its downstream product CDKN1A/p21, and decreasing RPL23A protein levels."
+            }
+        },
+        {
+            "start": "DRG1",
+            "end": "GNL2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 185.0,
+                "annotation": "Nucleolar GTP-binding protein 2; GTPase that associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation (By similarity). May promote cell proliferation possibly by increasing p53/TP53 protein levels, and consequently those of its downstream product CDKN1A/p21, and decreasing RPL23A protein levels."
+            }
+        },
+        {
+            "start": "DRG1",
+            "end": "LSG1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 366.0,
+                "annotation": "Large subunit GTPase 1 homolog; GTPase required for the XPO1/CRM1-mediated nuclear export of the 60S ribosomal subunit. Probably acts by mediating the release of NMD3 from the 60S ribosomal subunit after export into the cytoplasm (Probable)."
+            }
+        },
+        {
+            "start": "DRG1",
+            "end": "LSG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 186.0,
+                "annotation": "Large subunit GTPase 1 homolog; GTPase required for the XPO1/CRM1-mediated nuclear export of the 60S ribosomal subunit. Probably acts by mediating the release of NMD3 from the 60S ribosomal subunit after export into the cytoplasm (Probable)."
+            }
+        },
+        {
+            "start": "MAP4",
+            "end": "MAPT",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 423.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            }
+        },
+        {
+            "start": "MAP4",
+            "end": "MAPT",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] "
+            }
+        },
+        {
+            "start": "MAP4",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 608.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MAP4",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "RPTOR",
+            "end": "MLST8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] "
+            }
+        },
+        {
+            "start": "RPTOR",
+            "end": "MLST8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Target of rapamycin complex subunit LST8; Subunit of both mTORC1 and mTORC2, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-r [...] "
+            }
+        },
+        {
+            "start": "RPTOR",
+            "end": "AKT1S1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Proline-rich AKT1 substrate 1; Subunit of mTORC1, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-regulates protein synthesis [...] "
+            }
+        },
+        {
+            "start": "RPTOR",
+            "end": "AKT1S1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Proline-rich AKT1 substrate 1; Subunit of mTORC1, which regulates cell growth and survival in response to nutrient and hormonal signals. mTORC1 is activated in response to growth factors or amino acids. Growth factor-stimulated mTORC1 activation involves a AKT1-mediated phosphorylation of TSC1- TSC2, which leads to the activation of the RHEB GTPase that potently activates the protein kinase activity of mTORC1. Amino acid-signaling to mTORC1 requires its relocalization to the lysosomes mediated by the Ragulator complex and the Rag GTPases. Activated mTORC1 up-regulates protein synthesis [...] "
+            }
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 804.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            }
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 647.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            }
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 571.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 538.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 882.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            }
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 745.0,
+                "annotation": "Dedicator of cytokinesis protein 8; Guanine nucleotide exchange factor (GEF) which specifically activates small GTPase CDC42 by exchanging bound GDP for free GTP. During immune responses, required for interstitial dendritic cell (DC) migration by locally activating CDC42 at the leading edge membrane of DC (By similarity). Required for CD4(+) T-cell migration in response to chemokine stimulation by promoting CDC42 activation at T cell leading edge membrane. Is involved in NK cell cytotoxicity by controlling polarization of microtubule-organizing center (MTOC), and possibly regulating CC [...] "
+            }
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 443.0,
+                "annotation": "Dedicator of cytokinesis protein 6; Acts as guanine nucleotide exchange factor (GEF) for CDC42 and RAC1 small GTPases. Through its activation of CDC42 and RAC1, may regulate neurite outgrowth (By similarity)."
+            }
+        },
+        {
+            "start": "DOCK7",
+            "end": "DOCK6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "Dedicator of cytokinesis protein 6; Acts as guanine nucleotide exchange factor (GEF) for CDC42 and RAC1 small GTPases. Through its activation of CDC42 and RAC1, may regulate neurite outgrowth (By similarity)."
+            }
+        },
+        {
+            "start": "MTCL1",
+            "end": "PRC1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Protein regulator of cytokinesis 1; Key regulator of cytokinesis that cross-links antiparrallel microtubules at an average distance of 35 nM. Essential for controlling the spatiotemporal formation of the midzone and successful cytokinesis. Required for KIF14 localization to the central spindle and midbody. Required to recruit PLK1 to the spindle. Stimulates PLK1 phosphorylation of RACGAP1 to allow recruitment of ECT2 to the central spindle. Acts as an oncogene for promoting bladder cancer cells proliferation, apoptosis inhibition and carcinogenic progression. Belongs to the MAP65/ASE1  [...] "
+            }
+        },
+        {
+            "start": "MTCL1",
+            "end": "PRC1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 298.0,
+                "annotation": "Protein regulator of cytokinesis 1; Key regulator of cytokinesis that cross-links antiparrallel microtubules at an average distance of 35 nM. Essential for controlling the spatiotemporal formation of the midzone and successful cytokinesis. Required for KIF14 localization to the central spindle and midbody. Required to recruit PLK1 to the spindle. Stimulates PLK1 phosphorylation of RACGAP1 to allow recruitment of ECT2 to the central spindle. Acts as an oncogene for promoting bladder cancer cells proliferation, apoptosis inhibition and carcinogenic progression. Belongs to the MAP65/ASE1  [...] "
+            }
+        },
+        {
+            "start": "MTCL1",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MTCL1",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 168.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 342.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 361.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            }
+        }
+    ]
+}

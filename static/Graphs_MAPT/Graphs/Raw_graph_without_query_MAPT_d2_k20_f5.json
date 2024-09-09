@@ -1,0 +1,677 @@
+{
+    "Graph name": "MAPT_d2_k20_f5",
+    "Protein": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "PPP2R1A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+            "depth": 1
+        },
+        {
+            "name": "DYRK2",
+            "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1B",
+            "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1C",
+            "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family.",
+            "depth": 1
+        },
+        {
+            "name": "SYT1",
+            "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBA4A",
+            "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "APBB1",
+            "annotation": "Amyloid-beta A4 precursor protein-binding family B member 1; Transcription coregulator that can have both coactivator and corepressor functions. Adapter protein that forms a transcriptionally active complex with the gamma-secretase-derived amyloid precursor protein (APP) intracellular domain. Plays a central role in the response to DNA damage by translocating to the nucleus and inducing apoptosis. May act by specifically recognizing and binding histone H2AX phosphorylated on 'Tyr-142' (H2AXY142ph) at double-strand breaks (DSBs), recruiting other pro-apoptosis factors such as MAPK8/JNK1 [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBB2A",
+            "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "TUBA8",
+            "annotation": "Tubulin alpha-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "CEP170",
+            "annotation": "Centrosomal protein of 170 kDa; Plays a role in microtubule organization. Required for centriole subdistal appendage assembly. Belongs to the CEP170 family.",
+            "depth": 1
+        },
+        {
+            "name": "PPP2R1B",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit.",
+            "depth": 2
+        },
+        {
+            "name": "PPP2R5A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment.",
+            "depth": 2
+        },
+        {
+            "name": "ATM",
+            "annotation": "Serine-protein kinase ATM; Serine/threonine protein kinase which activates checkpoint signaling upon double strand breaks (DSBs), apoptosis and genotoxic stresses such as ionizing ultraviolet A light (UVA), thereby acting as a DNA damage sensor. Recognizes the substrate consensus sequence [ST]- Q. Phosphorylates 'Ser-139' of histone variant H2AX at double strand breaks (DSBs), thereby regulating DNA damage response mechanism. Also plays a role in pre-B cell allelic exclusion, a process leading to expression of a single immunoglobulin heavy chain allele to enforce clonality and monospec [...] ",
+            "depth": 2
+        },
+        {
+            "name": "STK4",
+            "annotation": "Serine/threonine-protein kinase 4 18kDa subunit; Stress-activated, pro-apoptotic kinase which, following caspase-cleavage, enters the nucleus and induces chromatin condensation followed by internucleosomal DNA fragmentation. Key component of the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein STK3/MST2 and STK4/MST1, in complex with its regulatory protein SAV1, phosphorylates and activates LATS1/2 in complex with its regul [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TUBA1A",
+            "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "SYT9",
+            "annotation": "Synaptotagmin-9; May be involved in Ca(2+)-dependent exocytosis of secretory vesicles through Ca(2+) and phospholipid binding to the C2 domain or may serve as Ca(2+) sensors in the process of vesicular trafficking and exocytosis.",
+            "depth": 2
+        },
+        {
+            "name": "SYT2",
+            "annotation": "Synaptotagmin-2; Exhibits calcium-dependent phospholipid and inositol polyphosphate binding properties (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). Plays a role in dendrite formation by melanocytes. Belongs to the synaptotagmin family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB4A",
+            "annotation": "Tubulin beta-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "APBB2",
+            "annotation": "Amyloid-beta A4 precursor protein-binding family B member 2; May modulate the internalization of amyloid-beta precursor protein.",
+            "depth": 2
+        },
+        {
+            "name": "APBB3",
+            "annotation": "Amyloid-beta A4 precursor protein-binding family B member 3; May modulate the internalization of amyloid-beta precursor protein.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB",
+            "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB8",
+            "annotation": "Tubulin beta-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). TUBB8 has a key role in meiotic spindle assembly and oocyte maturation ; Belongs to the tubulin family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBB8B",
+            "annotation": "Tubulin beta 8B; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family.",
+            "depth": 2
+        },
+        {
+            "name": "CEP162",
+            "annotation": "Centrosomal protein of 162 kDa; Required to promote assembly of the transition zone in primary cilia. Acts by specifically recognizing and binding the axonemal microtubule. Localizes to the distal ends of centrioles before ciliogenesis and directly binds to axonemal microtubule, thereby promoting and restricting transition zone formation specifically at the cilia base. Required to mediate CEP290 association with microtubules. Belongs to the CEP162 family.",
+            "depth": 2
+        },
+        {
+            "name": "CEP170B",
+            "annotation": "Centrosomal protein of 170 kDa protein B; Plays a role in microtubule organization.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MAPT",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 403.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "DYRK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 390.0,
+                "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "DYRK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Dual specificity tyrosine-phosphorylation-regulated kinase 2; Serine/threonine-protein kinase involved in the regulation of the mitotic cell cycle, cell proliferation, apoptosis, organization of the cytoskeleton and neurite outgrowth. Functions in part via its role in ubiquitin-dependent proteasomal protein degradation. Functions downstream of ATM and phosphorylates p53/TP53 at 'Ser-46', and thereby contributes to the induction of apoptosis in response to DNA damage. Phosphorylates NFATC1, and thereby inhibits its accumulation in the nucleus and its transcription factor activity. Phosp [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 995.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 943.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1C",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 938.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SYT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 694.0,
+                "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SYT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 480.0,
+                "annotation": "Synaptotagmin-1; Calcium sensor that participates in triggering neurotransmitter release at the synapse (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). It binds acidic phospholipids with a specificity that requires the presence of both an acidic head group and a diacyl backbone. A Ca(2+)- dependent interaction between synaptotagmin and putative receptors for activated protein kinase C has also been reported. It can bind to at least three additional proteins in a Ca(2+)-in [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA4A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA4A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 618.0,
+                "annotation": "Tubulin alpha-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "APBB1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 592.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 1; Transcription coregulator that can have both coactivator and corepressor functions. Adapter protein that forms a transcriptionally active complex with the gamma-secretase-derived amyloid precursor protein (APP) intracellular domain. Plays a central role in the response to DNA damage by translocating to the nucleus and inducing apoptosis. May act by specifically recognizing and binding histone H2AX phosphorylated on 'Tyr-142' (H2AXY142ph) at double-strand breaks (DSBs), recruiting other pro-apoptosis factors such as MAPK8/JNK1 [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "APBB1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 1; Transcription coregulator that can have both coactivator and corepressor functions. Adapter protein that forms a transcriptionally active complex with the gamma-secretase-derived amyloid precursor protein (APP) intracellular domain. Plays a central role in the response to DNA damage by translocating to the nucleus and inducing apoptosis. May act by specifically recognizing and binding histone H2AX phosphorylated on 'Tyr-142' (H2AXY142ph) at double-strand breaks (DSBs), recruiting other pro-apoptosis factors such as MAPK8/JNK1 [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBB2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 957.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBB2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 217.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 961.0,
+                "annotation": "Tubulin alpha-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 410.0,
+                "annotation": "Tubulin alpha-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP170",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 298.0,
+                "annotation": "Centrosomal protein of 170 kDa; Plays a role in microtubule organization. Required for centriole subdistal appendage assembly. Belongs to the CEP170 family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP170",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centrosomal protein of 170 kDa; Plays a role in microtubule organization. Required for centriole subdistal appendage assembly. Belongs to the CEP170 family."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 990.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R5A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R5A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment."
+            }
+        },
+        {
+            "start": "DYRK2",
+            "end": "ATM",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 869.0,
+                "annotation": "Serine-protein kinase ATM; Serine/threonine protein kinase which activates checkpoint signaling upon double strand breaks (DSBs), apoptosis and genotoxic stresses such as ionizing ultraviolet A light (UVA), thereby acting as a DNA damage sensor. Recognizes the substrate consensus sequence [ST]- Q. Phosphorylates 'Ser-139' of histone variant H2AX at double strand breaks (DSBs), thereby regulating DNA damage response mechanism. Also plays a role in pre-B cell allelic exclusion, a process leading to expression of a single immunoglobulin heavy chain allele to enforce clonality and monospec [...] "
+            }
+        },
+        {
+            "start": "DYRK2",
+            "end": "ATM",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine-protein kinase ATM; Serine/threonine protein kinase which activates checkpoint signaling upon double strand breaks (DSBs), apoptosis and genotoxic stresses such as ionizing ultraviolet A light (UVA), thereby acting as a DNA damage sensor. Recognizes the substrate consensus sequence [ST]- Q. Phosphorylates 'Ser-139' of histone variant H2AX at double strand breaks (DSBs), thereby regulating DNA damage response mechanism. Also plays a role in pre-B cell allelic exclusion, a process leading to expression of a single immunoglobulin heavy chain allele to enforce clonality and monospec [...] "
+            }
+        },
+        {
+            "start": "DYRK2",
+            "end": "STK4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 309.0,
+                "annotation": "Serine/threonine-protein kinase 4 18kDa subunit; Stress-activated, pro-apoptotic kinase which, following caspase-cleavage, enters the nucleus and induces chromatin condensation followed by internucleosomal DNA fragmentation. Key component of the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein STK3/MST2 and STK4/MST1, in complex with its regulatory protein SAV1, phosphorylates and activates LATS1/2 in complex with its regul [...] "
+            }
+        },
+        {
+            "start": "DYRK2",
+            "end": "STK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 299.0,
+                "annotation": "Serine/threonine-protein kinase 4 18kDa subunit; Stress-activated, pro-apoptotic kinase which, following caspase-cleavage, enters the nucleus and induces chromatin condensation followed by internucleosomal DNA fragmentation. Key component of the Hippo signaling pathway which plays a pivotal role in organ size control and tumor suppression by restricting proliferation and promoting apoptosis. The core of this pathway is composed of a kinase cascade wherein STK3/MST2 and STK4/MST1, in complex with its regulatory protein SAV1, phosphorylates and activates LATS1/2 in complex with its regul [...] "
+            }
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 966.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 922.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1C",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 984.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA1B",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 835.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 691.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 984.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1C",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 835.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "SYT1",
+            "end": "SYT9",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 653.0,
+                "annotation": "Synaptotagmin-9; May be involved in Ca(2+)-dependent exocytosis of secretory vesicles through Ca(2+) and phospholipid binding to the C2 domain or may serve as Ca(2+) sensors in the process of vesicular trafficking and exocytosis."
+            }
+        },
+        {
+            "start": "SYT1",
+            "end": "SYT9",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 499.0,
+                "annotation": "Synaptotagmin-9; May be involved in Ca(2+)-dependent exocytosis of secretory vesicles through Ca(2+) and phospholipid binding to the C2 domain or may serve as Ca(2+) sensors in the process of vesicular trafficking and exocytosis."
+            }
+        },
+        {
+            "start": "SYT1",
+            "end": "SYT2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 821.0,
+                "annotation": "Synaptotagmin-2; Exhibits calcium-dependent phospholipid and inositol polyphosphate binding properties (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). Plays a role in dendrite formation by melanocytes. Belongs to the synaptotagmin family."
+            }
+        },
+        {
+            "start": "SYT1",
+            "end": "SYT2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 796.0,
+                "annotation": "Synaptotagmin-2; Exhibits calcium-dependent phospholipid and inositol polyphosphate binding properties (By similarity). May have a regulatory role in the membrane interactions during trafficking of synaptic vesicles at the active zone of the synapse (By similarity). Plays a role in dendrite formation by melanocytes. Belongs to the synaptotagmin family."
+            }
+        },
+        {
+            "start": "TUBA4A",
+            "end": "TUBB4A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Tubulin beta-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA4A",
+            "end": "TUBB4A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 970.0,
+                "annotation": "Tubulin beta-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA4A",
+            "end": "TUBB2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 995.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "TUBA4A",
+            "end": "TUBB2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 991.0,
+                "annotation": "Tubulin beta-2A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)."
+            }
+        },
+        {
+            "start": "APBB1",
+            "end": "APBB2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 870.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 2; May modulate the internalization of amyloid-beta precursor protein."
+            }
+        },
+        {
+            "start": "APBB1",
+            "end": "APBB2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 680.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 2; May modulate the internalization of amyloid-beta precursor protein."
+            }
+        },
+        {
+            "start": "APBB1",
+            "end": "APBB3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 485.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 3; May modulate the internalization of amyloid-beta precursor protein."
+            }
+        },
+        {
+            "start": "APBB1",
+            "end": "APBB3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 201.0,
+                "annotation": "Amyloid-beta A4 precursor protein-binding family B member 3; May modulate the internalization of amyloid-beta precursor protein."
+            }
+        },
+        {
+            "start": "TUBB2A",
+            "end": "TUBB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 800.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBB2A",
+            "end": "TUBB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 668.0,
+                "annotation": "Tubulin beta chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBB2A",
+            "end": "TUBB4A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 785.0,
+                "annotation": "Tubulin beta-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBB2A",
+            "end": "TUBB4A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 572.0,
+                "annotation": "Tubulin beta-4A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA8",
+            "end": "TUBB8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 963.0,
+                "annotation": "Tubulin beta-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). TUBB8 has a key role in meiotic spindle assembly and oocyte maturation ; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA8",
+            "end": "TUBB8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 933.0,
+                "annotation": "Tubulin beta-8 chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). TUBB8 has a key role in meiotic spindle assembly and oocyte maturation ; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA8",
+            "end": "TUBB8B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 756.0,
+                "annotation": "Tubulin beta 8B; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA8",
+            "end": "TUBB8B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 580.0,
+                "annotation": "Tubulin beta 8B; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity). Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "CEP170",
+            "end": "CEP162",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 518.0,
+                "annotation": "Centrosomal protein of 162 kDa; Required to promote assembly of the transition zone in primary cilia. Acts by specifically recognizing and binding the axonemal microtubule. Localizes to the distal ends of centrioles before ciliogenesis and directly binds to axonemal microtubule, thereby promoting and restricting transition zone formation specifically at the cilia base. Required to mediate CEP290 association with microtubules. Belongs to the CEP162 family."
+            }
+        },
+        {
+            "start": "CEP170",
+            "end": "CEP162",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centrosomal protein of 162 kDa; Required to promote assembly of the transition zone in primary cilia. Acts by specifically recognizing and binding the axonemal microtubule. Localizes to the distal ends of centrioles before ciliogenesis and directly binds to axonemal microtubule, thereby promoting and restricting transition zone formation specifically at the cilia base. Required to mediate CEP290 association with microtubules. Belongs to the CEP162 family."
+            }
+        },
+        {
+            "start": "CEP170",
+            "end": "CEP170B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 537.0,
+                "annotation": "Centrosomal protein of 170 kDa protein B; Plays a role in microtubule organization."
+            }
+        },
+        {
+            "start": "CEP170",
+            "end": "CEP170B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 463.0,
+                "annotation": "Centrosomal protein of 170 kDa protein B; Plays a role in microtubule organization."
+            }
+        }
+    ]
+}

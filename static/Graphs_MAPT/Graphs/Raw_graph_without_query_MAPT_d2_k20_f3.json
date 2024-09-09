@@ -1,0 +1,702 @@
+{
+    "Graph name": "MAPT_d2_k20_f3",
+    "Protein": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "HIP1",
+            "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] ",
+            "depth": 1
+        },
+        {
+            "name": "KIF2A",
+            "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity.",
+            "depth": 1
+        },
+        {
+            "name": "SIRPA",
+            "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CAMK2A",
+            "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PTBP1",
+            "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CEP350",
+            "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation.",
+            "depth": 1
+        },
+        {
+            "name": "CENPU",
+            "annotation": "Centromere protein U; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. Plays an important role in the correct PLK1 localization to the mitotic kinetochores. A scaffold protein responsible for the initial recruitment and maintenance of the kinetochore PLK1 population until its degradation. Involved in tra [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TNC",
+            "annotation": "Tenascin; Extracellular matrix protein implicated in guidance of migrating neurons as well as axons during development, synaptic plasticity as well as neuronal regeneration. Promotes neurite outgrowth from cortical neurons grown on a monolayer of astrocytes. Ligand for integrins alpha-8/beta-1, alpha-9/beta-1, alpha-V/beta-3 and alpha- V/beta-6. In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells.",
+            "depth": 1
+        },
+        {
+            "name": "CLIP1",
+            "annotation": "CAP-Gly domain-containing linker protein 1; Binds to the plus end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth and microtubule bundling. Links cytoplasmic vesicles to microtubules and thereby plays an important role in intracellular vesicle trafficking. Plays a role macropinocytosis and endosome trafficking.",
+            "depth": 1
+        },
+        {
+            "name": "GSKIP",
+            "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] ",
+            "depth": 1
+        },
+        {
+            "name": "HIP1R",
+            "annotation": "Huntingtin-interacting protein 1-related protein; Component of clathrin-coated pits and vesicles, that may link the endocytic machinery to the actin cytoskeleton. Binds 3- phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases following ligand-induced endocytosis.",
+            "depth": 2
+        },
+        {
+            "name": "DNAJC6",
+            "annotation": "Putative tyrosine-protein phosphatase auxilin; Recruits HSPA8/HSC70 to clathrin-coated vesicles and promotes uncoating of clathrin-coated vesicles. Plays a role in clathrin- mediated endocytosis in neurons (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "KIF20B",
+            "annotation": "Kinesin-like protein KIF20B; Plus-end-directed motor enzyme that is required for completion of cytokinesis. Required for proper midbody organization and abscission in polarized cortical stem cells. Plays a role in the regulation of neuronal polarization by mediating the transport of specific cargos. Participates in the mobilization of SHTN1 and in the accumulation of PIP3 in the growth cone of primary hippocampal neurons in a tubulin and actin-dependent manner. In the developing telencephalon, cooperates with SHTN1 to promote both the transition from the multipolar to the bipolar stage [...] ",
+            "depth": 2
+        },
+        {
+            "name": "KIF2B",
+            "annotation": "Kinesin-like protein KIF2B; Plus end-directed microtubule-dependent motor required for spindle assembly and chromosome movement. Has microtubule depolymerization activity. Plays a role in chromosome congression.",
+            "depth": 2
+        },
+        {
+            "name": "CD47",
+            "annotation": "Leukocyte surface antigen CD47; Has a role in both cell adhesion by acting as an adhesion receptor for THBS1 on platelets, and in the modulation of integrins. Plays an important role in memory formation and synaptic plasticity in the hippocampus (By similarity). Receptor for SIRPA, binding to which prevents maturation of immature dendritic cells and inhibits cytokine production by mature dendritic cells. Interaction with SIRPG mediates cell-cell adhesion, enhances superantigen-dependent T-cell-mediated proliferation and costimulates T-cell activation. May play a role in membrane transp [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PTPN6",
+            "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis.",
+            "depth": 2
+        },
+        {
+            "name": "CAMK2G",
+            "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit gamma; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in sarcoplasmic reticulum Ca(2+) transport in skeletal muscle and may function in dendritic spine and synapse formation and neuronal plasticity. In slow-twitch muscles, is involved in regulation of sarcoplasmic reticulum (SR) Ca(2+) transport and in fast-twitch muscle participates in the control of Ca(2+) release from the SR through phosphorylation of the ryanodine receptor-cou [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CAMK2B",
+            "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit beta; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in dendritic spine and synapse formation, neuronal plasticity and regulation of sarcoplasmic reticulum Ca(2+) transport in skeletal muscle. In neurons, plays an essential structural role in the reorganization of the actin cytoskeleton during plasticity by binding and bundling actin filaments in a kinase-independent manner. This structural function is required for correct targeti [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PTBP3",
+            "annotation": "Polypyrimidine tract-binding protein 3; RNA-binding protein that mediates pre-mRNA alternative splicing regulation. Plays a role in the regulation of cell proliferation, differentiation and migration. Positive regulator of EPO-dependent erythropoiesis. Participates in cell differentiation regulation by repressing tissue-specific exons. Promotes FAS exon 6 skipping. Binds RNA, preferentially to both poly(G) and poly(U).",
+            "depth": 2
+        },
+        {
+            "name": "PTBP2",
+            "annotation": "Polypyrimidine tract-binding protein 2; RNA-binding protein which binds to intronic polypyrimidine tracts and mediates negative regulation of exons splicing. May antagonize in a tissue-specific manner the ability of NOVA1 to activate exon selection. In addition to its function in pre-mRNA splicing, plays also a role in the regulation of translation. Isoform 5 has a reduced affinity for RNA.",
+            "depth": 2
+        },
+        {
+            "name": "CEP192",
+            "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1.",
+            "depth": 2
+        },
+        {
+            "name": "CEP135",
+            "annotation": "Centrosomal protein of 135 kDa; Involved in early centriole assembly/duplication/biogenesis/formation/. Required for centriole elongation. Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubule wall during early S phase in a PLK4-dependent manner.",
+            "depth": 2
+        },
+        {
+            "name": "CENPW",
+            "annotation": "Centromere protein W; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation (By similarity). The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres (By similarity). Part of a nucleosome-associated complex that binds specifically to histone H3-containing nucleosomes at the centromere, as opposed to nucleosomes containing CENPA. Component of the heterotetrameric CENP [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CENPN",
+            "annotation": "Centromere protein N; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. CENPN is the first protein to bind specifically to CENPA nucleosomes and the direct binding of CENPA nucleosomes by CENPN is required for centromere assembly. Required for chromosome congression and efficiently align the chromosomes o [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TNN",
+            "annotation": "Tenascin-N; Extracellular matrix protein that seems to be a ligand for ITGA8:ITGB1, ITGAV:ITGB1 and ITGA4:ITGB1 (By similarity). Involved in neurite outgrowth and cell migration in hippocampal explants (By similarity). During endochondral bone formation, inhibits proliferation and differentiation of proteoblasts mediated by canonical WNT signaling (By similarity). In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells. Expressed in most mammary tumors, may facilitate tumorigenesis by supporting the migratory behavior of breast cancer cells. ECO:0 [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TNR",
+            "annotation": "Tenascin-R; Neural extracellular matrix (ECM) protein involved in interactions with different cells and matrix components. These interactions can influence cellular behavior by either evoking a stable adhesion and differentiation, or repulsion and inhibition of neurite growth. Binding to cell surface gangliosides inhibits RGD-dependent integrin-mediated cell adhesion and results in an inhibition of PTK2/FAK1 (FAK) phosphorylation and cell detachment. Binding to membrane surface sulfatides results in a oligodendrocyte adhesion and differentiation. Interaction with CNTN1 induces a repuls [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CLASP2",
+            "annotation": "CLIP-associating protein 2; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CLASP1",
+            "annotation": "CLIP-associating protein 1; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] ",
+            "depth": 2
+        },
+        {
+            "name": "GSK3B",
+            "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] ",
+            "depth": 2
+        },
+        {
+            "name": "GSK3A",
+            "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] ",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MAPT",
+            "end": "HIP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 300.0,
+                "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "HIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Huntingtin-interacting protein 1; Plays a role in clathrin-mediated endocytosis and trafficking. Involved in regulating AMPA receptor trafficking in the central nervous system in an NMDA-dependent manner (By similarity). Regulates presynaptic nerve terminal activity (By similarity). Enhances androgen receptor (AR)- mediated transcription. May act as a proapoptotic protein that induces cell death by acting through the intrinsic apoptosis pathway. Binds 3-phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "KIF2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 398.0,
+                "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "KIF2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Kinesin-like protein KIF2A; Plus end-directed microtubule-dependent motor required for normal brain development. May regulate microtubule dynamics during axonal growth. Required for normal progression through mitosis. Required for normal congress of chromosomes at the metaphase plate. Required for normal spindle dynamics during mitosis. Promotes spindle turnover. Implicated in formation of bipolar mitotic spindles. Has microtubule depolymerization activity."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SIRPA",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 421.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SIRPA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 248.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type substrate 1; Immunoglobulin-like cell surface receptor for CD47. Acts as docking protein and induces translocation of PTPN6, PTPN11 and other binding partners from the cytosol to the plasma membrane. Supports adhesion of cerebellar neurons, neurite outgrowth and glial cell attachment. May play a key role in intracellular signaling during synaptogenesis and in synaptic function (By similarity). Involved in the negative regulation of receptor tyrosine kinase-coupled cellular responses induced by cell adhesion, growth factors or insulin. Medi [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CAMK2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 976.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CAMK2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit alpha; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in synaptic plasticity, neurotransmitter release and long-term potentiation. Member of the NMDAR signaling complex in excitatory synapses, it regulates NMDAR-dependent potentiation of the AMPAR and therefore excitatory synaptic transmission (By similarity). Regulates dendritic spine development. Also regulates the migration of developing neurons. Phosphorylates the transcriptio [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "PTBP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 431.0,
+                "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "PTBP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Polypyrimidine tract-binding protein 1; Plays a role in pre-mRNA splicing and in the regulation of alternative splicing events. Activates exon skipping of its own pre- mRNA during muscle cell differentiation. Binds to the polypyrimidine tract of introns. May promote RNA looping when bound to two separate polypyrimidine tracts in the same pre-mRNA. May promote the binding of U2 snRNP to pre-mRNA. Cooperates with RAVER1 to modulate switching between mutually exclusive exons during maturation of the TPM1 pre- mRNA. Represses the splicing of MAPT/Tau exon 10. In case of infection by picorn [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP350",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 302.0,
+                "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CEP350",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centrosome-associated protein 350; Plays an essential role in centriole growth by stabilizing a procentriolar seed composed of at least, SASS6 and CENPJ. Required for anchoring microtubules to the centrosomes and for the integrity of the microtubule network. Recruits PPARA to discrete subcellular compartments and thereby modulates PPARA activity. Required for ciliation."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CENPU",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 312.0,
+                "annotation": "Centromere protein U; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. Plays an important role in the correct PLK1 localization to the mitotic kinetochores. A scaffold protein responsible for the initial recruitment and maintenance of the kinetochore PLK1 population until its degradation. Involved in tra [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CENPU",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Centromere protein U; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. Plays an important role in the correct PLK1 localization to the mitotic kinetochores. A scaffold protein responsible for the initial recruitment and maintenance of the kinetochore PLK1 population until its degradation. Involved in tra [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TNC",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 303.0,
+                "annotation": "Tenascin; Extracellular matrix protein implicated in guidance of migrating neurons as well as axons during development, synaptic plasticity as well as neuronal regeneration. Promotes neurite outgrowth from cortical neurons grown on a monolayer of astrocytes. Ligand for integrins alpha-8/beta-1, alpha-9/beta-1, alpha-V/beta-3 and alpha- V/beta-6. In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TNC",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Tenascin; Extracellular matrix protein implicated in guidance of migrating neurons as well as axons during development, synaptic plasticity as well as neuronal regeneration. Promotes neurite outgrowth from cortical neurons grown on a monolayer of astrocytes. Ligand for integrins alpha-8/beta-1, alpha-9/beta-1, alpha-V/beta-3 and alpha- V/beta-6. In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CLIP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 465.0,
+                "annotation": "CAP-Gly domain-containing linker protein 1; Binds to the plus end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth and microtubule bundling. Links cytoplasmic vesicles to microtubules and thereby plays an important role in intracellular vesicle trafficking. Plays a role macropinocytosis and endosome trafficking."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CLIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "CAP-Gly domain-containing linker protein 1; Binds to the plus end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth and microtubule bundling. Links cytoplasmic vesicles to microtubules and thereby plays an important role in intracellular vesicle trafficking. Plays a role macropinocytosis and endosome trafficking."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "GSKIP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 372.0,
+                "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "GSKIP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "GSK3B-interacting protein; A-kinase anchoring protein for GSK3B and PKA that regulates or facilitates their kinase activity towards their targets. The ternary complex enhances Wnt-induced signaling by facilitating the GSK3B- and PKA-induced phosphorylation of beta-catenin leading to beta-catenin degradation and stabilization respectively. Upon cAMP activation, the ternary complex contributes to neuroprotection against oxidative stress-induced apoptosis by facilitating the PKA-induced phosphorylation of DML1 and PKA-induced inactivation of GSK3B. During neurite outgrowth promotes neuron [...] "
+            }
+        },
+        {
+            "start": "HIP1",
+            "end": "HIP1R",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 872.0,
+                "annotation": "Huntingtin-interacting protein 1-related protein; Component of clathrin-coated pits and vesicles, that may link the endocytic machinery to the actin cytoskeleton. Binds 3- phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases following ligand-induced endocytosis."
+            }
+        },
+        {
+            "start": "HIP1",
+            "end": "HIP1R",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 791.0,
+                "annotation": "Huntingtin-interacting protein 1-related protein; Component of clathrin-coated pits and vesicles, that may link the endocytic machinery to the actin cytoskeleton. Binds 3- phosphoinositides (via ENTH domain). May act through the ENTH domain to promote cell survival by stabilizing receptor tyrosine kinases following ligand-induced endocytosis."
+            }
+        },
+        {
+            "start": "HIP1",
+            "end": "DNAJC6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 385.0,
+                "annotation": "Putative tyrosine-protein phosphatase auxilin; Recruits HSPA8/HSC70 to clathrin-coated vesicles and promotes uncoating of clathrin-coated vesicles. Plays a role in clathrin- mediated endocytosis in neurons (By similarity)."
+            }
+        },
+        {
+            "start": "HIP1",
+            "end": "DNAJC6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 258.0,
+                "annotation": "Putative tyrosine-protein phosphatase auxilin; Recruits HSPA8/HSC70 to clathrin-coated vesicles and promotes uncoating of clathrin-coated vesicles. Plays a role in clathrin- mediated endocytosis in neurons (By similarity)."
+            }
+        },
+        {
+            "start": "KIF2A",
+            "end": "KIF20B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 686.0,
+                "annotation": "Kinesin-like protein KIF20B; Plus-end-directed motor enzyme that is required for completion of cytokinesis. Required for proper midbody organization and abscission in polarized cortical stem cells. Plays a role in the regulation of neuronal polarization by mediating the transport of specific cargos. Participates in the mobilization of SHTN1 and in the accumulation of PIP3 in the growth cone of primary hippocampal neurons in a tubulin and actin-dependent manner. In the developing telencephalon, cooperates with SHTN1 to promote both the transition from the multipolar to the bipolar stage [...] "
+            }
+        },
+        {
+            "start": "KIF2A",
+            "end": "KIF20B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Kinesin-like protein KIF20B; Plus-end-directed motor enzyme that is required for completion of cytokinesis. Required for proper midbody organization and abscission in polarized cortical stem cells. Plays a role in the regulation of neuronal polarization by mediating the transport of specific cargos. Participates in the mobilization of SHTN1 and in the accumulation of PIP3 in the growth cone of primary hippocampal neurons in a tubulin and actin-dependent manner. In the developing telencephalon, cooperates with SHTN1 to promote both the transition from the multipolar to the bipolar stage [...] "
+            }
+        },
+        {
+            "start": "KIF2A",
+            "end": "KIF2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 813.0,
+                "annotation": "Kinesin-like protein KIF2B; Plus end-directed microtubule-dependent motor required for spindle assembly and chromosome movement. Has microtubule depolymerization activity. Plays a role in chromosome congression."
+            }
+        },
+        {
+            "start": "KIF2A",
+            "end": "KIF2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 800.0,
+                "annotation": "Kinesin-like protein KIF2B; Plus end-directed microtubule-dependent motor required for spindle assembly and chromosome movement. Has microtubule depolymerization activity. Plays a role in chromosome congression."
+            }
+        },
+        {
+            "start": "SIRPA",
+            "end": "CD47",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Leukocyte surface antigen CD47; Has a role in both cell adhesion by acting as an adhesion receptor for THBS1 on platelets, and in the modulation of integrins. Plays an important role in memory formation and synaptic plasticity in the hippocampus (By similarity). Receptor for SIRPA, binding to which prevents maturation of immature dendritic cells and inhibits cytokine production by mature dendritic cells. Interaction with SIRPG mediates cell-cell adhesion, enhances superantigen-dependent T-cell-mediated proliferation and costimulates T-cell activation. May play a role in membrane transp [...] "
+            }
+        },
+        {
+            "start": "SIRPA",
+            "end": "CD47",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Leukocyte surface antigen CD47; Has a role in both cell adhesion by acting as an adhesion receptor for THBS1 on platelets, and in the modulation of integrins. Plays an important role in memory formation and synaptic plasticity in the hippocampus (By similarity). Receptor for SIRPA, binding to which prevents maturation of immature dendritic cells and inhibits cytokine production by mature dendritic cells. Interaction with SIRPG mediates cell-cell adhesion, enhances superantigen-dependent T-cell-mediated proliferation and costimulates T-cell activation. May play a role in membrane transp [...] "
+            }
+        },
+        {
+            "start": "SIRPA",
+            "end": "PTPN6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 942.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis."
+            }
+        },
+        {
+            "start": "SIRPA",
+            "end": "PTPN6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 845.0,
+                "annotation": "Tyrosine-protein phosphatase non-receptor type 6; Modulates signaling by tyrosine phosphorylated cell surface receptors such as KIT and the EGF receptor/EGFR. The SH2 regions may interact with other cellular components to modulate its own phosphatase activity against interacting substrates. Together with MTUS1, induces UBE2V2 expression upon angiotensin II stimulation. Plays a key role in hematopoiesis."
+            }
+        },
+        {
+            "start": "CAMK2A",
+            "end": "CAMK2G",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 945.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit gamma; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in sarcoplasmic reticulum Ca(2+) transport in skeletal muscle and may function in dendritic spine and synapse formation and neuronal plasticity. In slow-twitch muscles, is involved in regulation of sarcoplasmic reticulum (SR) Ca(2+) transport and in fast-twitch muscle participates in the control of Ca(2+) release from the SR through phosphorylation of the ryanodine receptor-cou [...] "
+            }
+        },
+        {
+            "start": "CAMK2A",
+            "end": "CAMK2G",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 885.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit gamma; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in sarcoplasmic reticulum Ca(2+) transport in skeletal muscle and may function in dendritic spine and synapse formation and neuronal plasticity. In slow-twitch muscles, is involved in regulation of sarcoplasmic reticulum (SR) Ca(2+) transport and in fast-twitch muscle participates in the control of Ca(2+) release from the SR through phosphorylation of the ryanodine receptor-cou [...] "
+            }
+        },
+        {
+            "start": "CAMK2A",
+            "end": "CAMK2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit beta; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in dendritic spine and synapse formation, neuronal plasticity and regulation of sarcoplasmic reticulum Ca(2+) transport in skeletal muscle. In neurons, plays an essential structural role in the reorganization of the actin cytoskeleton during plasticity by binding and bundling actin filaments in a kinase-independent manner. This structural function is required for correct targeti [...] "
+            }
+        },
+        {
+            "start": "CAMK2A",
+            "end": "CAMK2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 998.0,
+                "annotation": "Calcium/calmodulin-dependent protein kinase type II subunit beta; Calcium/calmodulin-dependent protein kinase that functions autonomously after Ca(2+)/calmodulin-binding and autophosphorylation, and is involved in dendritic spine and synapse formation, neuronal plasticity and regulation of sarcoplasmic reticulum Ca(2+) transport in skeletal muscle. In neurons, plays an essential structural role in the reorganization of the actin cytoskeleton during plasticity by binding and bundling actin filaments in a kinase-independent manner. This structural function is required for correct targeti [...] "
+            }
+        },
+        {
+            "start": "PTBP1",
+            "end": "PTBP3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 463.0,
+                "annotation": "Polypyrimidine tract-binding protein 3; RNA-binding protein that mediates pre-mRNA alternative splicing regulation. Plays a role in the regulation of cell proliferation, differentiation and migration. Positive regulator of EPO-dependent erythropoiesis. Participates in cell differentiation regulation by repressing tissue-specific exons. Promotes FAS exon 6 skipping. Binds RNA, preferentially to both poly(G) and poly(U)."
+            }
+        },
+        {
+            "start": "PTBP1",
+            "end": "PTBP3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "Polypyrimidine tract-binding protein 3; RNA-binding protein that mediates pre-mRNA alternative splicing regulation. Plays a role in the regulation of cell proliferation, differentiation and migration. Positive regulator of EPO-dependent erythropoiesis. Participates in cell differentiation regulation by repressing tissue-specific exons. Promotes FAS exon 6 skipping. Binds RNA, preferentially to both poly(G) and poly(U)."
+            }
+        },
+        {
+            "start": "PTBP1",
+            "end": "PTBP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 484.0,
+                "annotation": "Polypyrimidine tract-binding protein 2; RNA-binding protein which binds to intronic polypyrimidine tracts and mediates negative regulation of exons splicing. May antagonize in a tissue-specific manner the ability of NOVA1 to activate exon selection. In addition to its function in pre-mRNA splicing, plays also a role in the regulation of translation. Isoform 5 has a reduced affinity for RNA."
+            }
+        },
+        {
+            "start": "PTBP1",
+            "end": "PTBP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 452.0,
+                "annotation": "Polypyrimidine tract-binding protein 2; RNA-binding protein which binds to intronic polypyrimidine tracts and mediates negative regulation of exons splicing. May antagonize in a tissue-specific manner the ability of NOVA1 to activate exon selection. In addition to its function in pre-mRNA splicing, plays also a role in the regulation of translation. Isoform 5 has a reduced affinity for RNA."
+            }
+        },
+        {
+            "start": "CEP350",
+            "end": "CEP192",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 659.0,
+                "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1."
+            }
+        },
+        {
+            "start": "CEP350",
+            "end": "CEP192",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Centrosomal protein of 192 kDa; Required for mitotic centrosome maturation and bipolar spindle assembly. Appears to be a major regulator of pericentriolar material (PCM) recruitment, centrosome maturation, and centriole duplication. Centrosome- specific activating scaffold for AURKA and PLK1."
+            }
+        },
+        {
+            "start": "CEP350",
+            "end": "CEP135",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 749.0,
+                "annotation": "Centrosomal protein of 135 kDa; Involved in early centriole assembly/duplication/biogenesis/formation/. Required for centriole elongation. Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubule wall during early S phase in a PLK4-dependent manner."
+            }
+        },
+        {
+            "start": "CEP350",
+            "end": "CEP135",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 474.0,
+                "annotation": "Centrosomal protein of 135 kDa; Involved in early centriole assembly/duplication/biogenesis/formation/. Required for centriole elongation. Required for the recruitment of CEP295 to the proximal end of new-born centrioles at the centriolar microtubule wall during early S phase in a PLK4-dependent manner."
+            }
+        },
+        {
+            "start": "CENPU",
+            "end": "CENPW",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 997.0,
+                "annotation": "Centromere protein W; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation (By similarity). The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres (By similarity). Part of a nucleosome-associated complex that binds specifically to histone H3-containing nucleosomes at the centromere, as opposed to nucleosomes containing CENPA. Component of the heterotetrameric CENP [...] "
+            }
+        },
+        {
+            "start": "CENPU",
+            "end": "CENPW",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 987.0,
+                "annotation": "Centromere protein W; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation (By similarity). The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres (By similarity). Part of a nucleosome-associated complex that binds specifically to histone H3-containing nucleosomes at the centromere, as opposed to nucleosomes containing CENPA. Component of the heterotetrameric CENP [...] "
+            }
+        },
+        {
+            "start": "CENPU",
+            "end": "CENPN",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Centromere protein N; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. CENPN is the first protein to bind specifically to CENPA nucleosomes and the direct binding of CENPA nucleosomes by CENPN is required for centromere assembly. Required for chromosome congression and efficiently align the chromosomes o [...] "
+            }
+        },
+        {
+            "start": "CENPU",
+            "end": "CENPN",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Centromere protein N; Component of the CENPA-NAC (nucleosome-associated) complex, a complex that plays a central role in assembly of kinetochore proteins, mitotic progression and chromosome segregation. The CENPA-NAC complex recruits the CENPA-CAD (nucleosome distal) complex and may be involved in incorporation of newly synthesized CENPA into centromeres. CENPN is the first protein to bind specifically to CENPA nucleosomes and the direct binding of CENPA nucleosomes by CENPN is required for centromere assembly. Required for chromosome congression and efficiently align the chromosomes o [...] "
+            }
+        },
+        {
+            "start": "TNC",
+            "end": "TNN",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 499.0,
+                "annotation": "Tenascin-N; Extracellular matrix protein that seems to be a ligand for ITGA8:ITGB1, ITGAV:ITGB1 and ITGA4:ITGB1 (By similarity). Involved in neurite outgrowth and cell migration in hippocampal explants (By similarity). During endochondral bone formation, inhibits proliferation and differentiation of proteoblasts mediated by canonical WNT signaling (By similarity). In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells. Expressed in most mammary tumors, may facilitate tumorigenesis by supporting the migratory behavior of breast cancer cells. ECO:0 [...] "
+            }
+        },
+        {
+            "start": "TNC",
+            "end": "TNN",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 568.0,
+                "annotation": "Tenascin-N; Extracellular matrix protein that seems to be a ligand for ITGA8:ITGB1, ITGAV:ITGB1 and ITGA4:ITGB1 (By similarity). Involved in neurite outgrowth and cell migration in hippocampal explants (By similarity). During endochondral bone formation, inhibits proliferation and differentiation of proteoblasts mediated by canonical WNT signaling (By similarity). In tumors, stimulates angiogenesis by elongation, migration and sprouting of endothelial cells. Expressed in most mammary tumors, may facilitate tumorigenesis by supporting the migratory behavior of breast cancer cells. ECO:0 [...] "
+            }
+        },
+        {
+            "start": "TNC",
+            "end": "TNR",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 499.0,
+                "annotation": "Tenascin-R; Neural extracellular matrix (ECM) protein involved in interactions with different cells and matrix components. These interactions can influence cellular behavior by either evoking a stable adhesion and differentiation, or repulsion and inhibition of neurite growth. Binding to cell surface gangliosides inhibits RGD-dependent integrin-mediated cell adhesion and results in an inhibition of PTK2/FAK1 (FAK) phosphorylation and cell detachment. Binding to membrane surface sulfatides results in a oligodendrocyte adhesion and differentiation. Interaction with CNTN1 induces a repuls [...] "
+            }
+        },
+        {
+            "start": "TNC",
+            "end": "TNR",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 565.0,
+                "annotation": "Tenascin-R; Neural extracellular matrix (ECM) protein involved in interactions with different cells and matrix components. These interactions can influence cellular behavior by either evoking a stable adhesion and differentiation, or repulsion and inhibition of neurite growth. Binding to cell surface gangliosides inhibits RGD-dependent integrin-mediated cell adhesion and results in an inhibition of PTK2/FAK1 (FAK) phosphorylation and cell detachment. Binding to membrane surface sulfatides results in a oligodendrocyte adhesion and differentiation. Interaction with CNTN1 induces a repuls [...] "
+            }
+        },
+        {
+            "start": "CLIP1",
+            "end": "CLASP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 993.0,
+                "annotation": "CLIP-associating protein 2; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] "
+            }
+        },
+        {
+            "start": "CLIP1",
+            "end": "CLASP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 899.0,
+                "annotation": "CLIP-associating protein 2; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] "
+            }
+        },
+        {
+            "start": "CLIP1",
+            "end": "CLASP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 982.0,
+                "annotation": "CLIP-associating protein 1; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] "
+            }
+        },
+        {
+            "start": "CLIP1",
+            "end": "CLASP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 730.0,
+                "annotation": "CLIP-associating protein 1; Microtubule plus-end tracking protein that promotes the stabilization of dynamic microtubules. Involved in the nucleation of noncentrosomal microtubules originating from the trans-Golgi network (TGN). Required for the polarization of the cytoplasmic microtubule arrays in migrating cells towards the leading edge of the cell. May act at the cell cortex to enhance the frequency of rescue of depolymerizing microtubules by attaching their plus-ends to cortical platforms composed of ERC1 and PHLDB2. This cortical microtubule stabilizing activity is regulated at le [...] "
+            }
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 985.0,
+                "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] "
+            }
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 948.0,
+                "annotation": "Glycogen synthase kinase-3 beta; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), EIF2B, CTNNB1/beta-catenin, APC, AXIN1, DPYSL2/CRMP2, JUN, NFATC1/NFATC, MAPT/TAU and MACF1. Requires primed phosphorylation of the majority of its substrates. In skeletal muscle, contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glyc [...] "
+            }
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 848.0,
+                "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] "
+            }
+        },
+        {
+            "start": "GSKIP",
+            "end": "GSK3A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 658.0,
+                "annotation": "Glycogen synthase kinase-3 alpha; Constitutively active protein kinase that acts as a negative regulator in the hormonal control of glucose homeostasis, Wnt signaling and regulation of transcription factors and microtubules, by phosphorylating and inactivating glycogen synthase (GYS1 or GYS2), CTNNB1/beta-catenin, APC and AXIN1. Requires primed phosphorylation of the majority of its substrates. Contributes to insulin regulation of glycogen synthesis by phosphorylating and inhibiting GYS1 activity and hence glycogen synthesis. Regulates glycogen metabolism in liver, but not in muscle (B [...] "
+            }
+        }
+    ]
+}

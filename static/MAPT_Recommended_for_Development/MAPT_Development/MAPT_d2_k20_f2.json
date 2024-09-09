@@ -1,0 +1,677 @@
+{
+    "Recommended Proteins": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "ABL1",
+            "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MARK2",
+            "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+            "depth": 1
+        },
+        {
+            "name": "BRSK1",
+            "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+            "depth": 1
+        },
+        {
+            "name": "BRSK2",
+            "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+            "depth": 2
+        },
+        {
+            "name": "ABI2",
+            "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK3",
+            "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MAP2",
+            "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+            "depth": 1
+        },
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 2
+        },
+        {
+            "name": "ABL2",
+            "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MARK1",
+            "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] ",
+            "depth": 2
+        }
+    ],
+    "Relationships": [
+        {
+            "start": "MAPT",
+            "end": "ABL1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+            },
+            "explanation": "The interaction is relevant because ABL1 directly phosphorylates MAPT, impacting cytoskeleton dynamics and neuronal polarity, as indicated by the annotations. This direct interaction aligns with the query requirements."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 621.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            },
+            "explanation": "The interaction is relevant because MARK2 directly phosphorylates MAPT/TAU, which aligns with the query requirement. This phosphorylation impacts microtubule dynamics and cell polarity, crucial for neuronal function."
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            },
+            "explanation": "The interaction is relevant. BRSK1 phosphorylates MAPT at specific residues (Thr-529 and Ser-579), directly impacting MAPT's role in neuronal polarity and microtubule stability, thus fulfilling the query's requirement."
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            },
+            "explanation": "The interaction is relevant. BRSK1 directly phosphorylates MAPT at specific residues (Thr-529 and Ser-579), playing a crucial role in neuronal polarization and centrosome duplication, as per the given annotations."
+        },
+        {
+            "start": "BRSK1",
+            "end": "BRSK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 348.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            },
+            "explanation": "The interaction is relevant because both BRSK1 and BRSK2 directly phosphorylate MAPT at the same sites ('Thr-529' and 'Ser-579'). This direct phosphorylation aligns with the query's requirement."
+        },
+        {
+            "start": "MAPT",
+            "end": "ABL1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+            },
+            "explanation": "The interaction is relevant. ABL1 phosphorylates MAPT, impacting cytoskeleton remodeling. This direct interaction aligns with the query's aim to find proteins that phosphorylate MAPT, providing functional insights into neuronal polarity and stability maintenance."
+        },
+        {
+            "start": "ABL1",
+            "end": "ABI2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 840.0,
+                "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] "
+            },
+            "explanation": "The interaction between ABL1 and ABI2 is relevant because ABL1 phosphorylates proteins involved in actin dynamics, and ABI2 is a regulator and substrate of ABL1, playing a role in similar cellular processes."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 621.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            },
+            "explanation": "The interaction is relevant. MARK2 phosphorylates MAPT at KXGS motifs, causing detachment from microtubules and their disassembly, which aligns directly with the query's requirement of the end protein phosphorylating MAPT."
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 647.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction between MARK2 and MARK3 is relevant because both proteins are serine/threonine-protein kinases that phosphorylate the microtubule-associated protein MAPT/TAU. MARK2 and MARK3 can potentially act in a pathway impacting MAPT phosphorylation."
+        },
+        {
+            "start": "MARK3",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAP2. This phosphorylation potentially influences MAP2\u2019s interactions with MAPT/TAU, indirectly impacting MAPT's function."
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAP2 and MAPT/TAU. This direct phosphorylation ability of MARK4 aligns with the query requirement of finding a protein path where the end protein phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            },
+            "explanation": "The interaction is not relevant. There is no direct evidence that MAP2 phosphorylates MAPT. Both MAPT and MAP2 are microtubule-associated proteins with stabilizing roles but lack direct phosphorylation activity on each other."
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+            },
+            "explanation": "The interaction is relevant because MARK4 phosphorylates MAP2, which is a direct interaction. MARK4 also phosphorylates MAPT, fulfilling the query's requirement that the end protein (MARK4) phosphorylates MAPT."
+        },
+        {
+            "start": "MAPT",
+            "end": "ABL1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+            },
+            "explanation": "The interaction is relevant to the query. ABL1 phosphorylates MAPT, as indicated in the end_annotation. This phosphorylation impacts MAPT's role in microtubule stabilization and neuronal polarity, aligning with the query requirements."
+        },
+        {
+            "start": "ABL1",
+            "end": "ABL2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 976.0,
+                "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] "
+            },
+            "explanation": "The interaction is not relevant. ABL1 and ABL2 have overlapping roles but there's no direct evidence in the provided information that ABL2 phosphorylates MAPT, which is essential for the query."
+        },
+        {
+            "start": "MAPT",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 621.0,
+                "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+            },
+            "explanation": "The interaction is relevant. MARK2 phosphorylates MAPT/TAU, causing detachment from microtubules and their disassembly, aligning with the query's requirement for the end protein (MARK2) to phosphorylate the start protein (MAPT)."
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 675.0,
+                "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+            },
+            "explanation": "The interaction between MARK2 and MARK1 is not relevant to the query. No evidence suggests MARK2 directly interacts with or phosphorylates MARK1, a necessary condition for the path to be considered valid."
+        },
+        {
+            "start": "MAPT",
+            "end": "MAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+            },
+            "explanation": "The interaction is not relevant. No evidence indicates MAP2 phosphorylates MAPT. Their primary roles involve microtubule stabilization, with no direct phosphorylation relationship. Thus, no meaningful biological process connects them in this context."
+        },
+        {
+            "start": "MAP2",
+            "end": "MARK3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 297.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction between MAP2 and MARK3 is relevant because MARK3 phosphorylates microtubule-associated proteins, including MAP2 and MAPT. Therefore, MARK3 can phosphorylate MAPT, fulfilling the query requirement."
+        },
+        {
+            "start": "MARK3",
+            "end": "MARK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 647.0,
+                "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+            },
+            "explanation": "The interaction between MARK3 and MARK2 is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAPT/TAU, and MARK2 also phosphorylates MAPT/TAU, indicating a shared pathway in regulating MAPT phosphorylation."
+        },
+        {
+            "start": "MARK2",
+            "end": "MARK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 675.0,
+                "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+            },
+            "explanation": "The interaction between MARK2 and MARK1 is not directly relevant to the query. Both MARK2 and MARK1 can phosphorylate MAPT independently, but there is no evidence that MARK1 phosphorylates MAPT as a result of MARK2's activity."
+        }
+    ],
+    "Path Details": [
+        {
+            "path": [
+                "MAPT",
+                "ABL1"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> ABL1 is highly relevant because ABL1 directly phosphorylates MAPT. This phosphorylation affects cytoskeleton dynamics and neuronal polarity, which are crucial for neuronal function and stability. The direct interaction between ABL1 and MAPT aligns perfectly with the query requirements.",
+            "details": "MAPT -> ABL1:\nThe interaction is relevant because ABL1 directly phosphorylates MAPT, impacting cytoskeleton dynamics and neuronal polarity, as indicated by the annotations. This direct interaction aligns with the query requirements.\n\n",
+            "proteins": [
+                {
+                    "name": "MAPT",
+                    "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+                    "depth": 0
+                },
+                {
+                    "name": "ABL1",
+                    "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "ABL1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+                    },
+                    "explanation": "The interaction is relevant because ABL1 directly phosphorylates MAPT, impacting cytoskeleton dynamics and neuronal polarity, as indicated by the annotations. This direct interaction aligns with the query requirements."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK2"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> MARK2 is highly relevant because MARK2 directly phosphorylates MAPT/TAU, impacting microtubule dynamics and cell polarity. This interaction is crucial for neuronal function, meeting the query requirement.",
+            "details": "MAPT -> MARK2:\nThe interaction is relevant because MARK2 directly phosphorylates MAPT/TAU, which aligns with the query requirement. This phosphorylation impacts microtubule dynamics and cell polarity, crucial for neuronal function.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK2",
+                    "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 621.0,
+                        "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+                    },
+                    "explanation": "The interaction is relevant because MARK2 directly phosphorylates MAPT/TAU, which aligns with the query requirement. This phosphorylation impacts microtubule dynamics and cell polarity, crucial for neuronal function."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "BRSK1"
+            ],
+            "score": 100.0,
+            "explanation": "BRSK1 phosphorylates MAPT at Thr-529 and Ser-579, which impacts neuronal polarity and microtubule stability. This phosphorylation directly modifies MAPT's function, making the interaction highly relevant to the query.",
+            "details": "MAPT -> BRSK1:\nThe interaction is relevant. BRSK1 phosphorylates MAPT at specific residues (Thr-529 and Ser-579), directly impacting MAPT's role in neuronal polarity and microtubule stability, thus fulfilling the query's requirement.\n\n",
+            "proteins": [
+                {
+                    "name": "BRSK1",
+                    "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+                    "depth": 1
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "BRSK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+                    },
+                    "explanation": "The interaction is relevant. BRSK1 phosphorylates MAPT at specific residues (Thr-529 and Ser-579), directly impacting MAPT's role in neuronal polarity and microtubule stability, thus fulfilling the query's requirement."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "BRSK1",
+                "BRSK2"
+            ],
+            "score": 100.0,
+            "explanation": "The path MAPT -> BRSK1 -> BRSK2 is highly relevant because BRSK1 directly phosphorylates MAPT at key residues (Thr-529 and Ser-579), which are crucial for neuronal polarization and centrosome duplication. Additionally, BRSK2 can also phosphorylate MAPT at the same sites, ensuring the path aligns perfectly with the query's requirement that the end protein phosphorylates MAPT.",
+            "details": "MAPT -> BRSK1:\nThe interaction is relevant. BRSK1 directly phosphorylates MAPT at specific residues (Thr-529 and Ser-579), playing a crucial role in neuronal polarization and centrosome duplication, as per the given annotations.\n\nBRSK1 -> BRSK2:\nThe interaction is relevant because both BRSK1 and BRSK2 directly phosphorylate MAPT at the same sites ('Thr-529' and 'Ser-579'). This direct phosphorylation aligns with the query's requirement.\n\n",
+            "proteins": [
+                {
+                    "name": "BRSK2",
+                    "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "BRSK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 292.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+                    },
+                    "explanation": "The interaction is relevant. BRSK1 directly phosphorylates MAPT at specific residues (Thr-529 and Ser-579), playing a crucial role in neuronal polarization and centrosome duplication, as per the given annotations."
+                },
+                {
+                    "start": "BRSK1",
+                    "end": "BRSK2",
+                    "type": "INTERACTS_FULL",
+                    "properties": {
+                        "score": 348.0,
+                        "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+                    },
+                    "explanation": "The interaction is relevant because both BRSK1 and BRSK2 directly phosphorylate MAPT at the same sites ('Thr-529' and 'Ser-579'). This direct phosphorylation aligns with the query's requirement."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "ABL1",
+                "ABI2"
+            ],
+            "score": 95.0,
+            "explanation": "This path is highly relevant as ABL1 directly phosphorylates MAPT, impacting cytoskeleton remodeling, neuronal polarity, and stability. Additionally, ABI2 is a substrate of ABL1 involved in actin dynamics, which further supports the functional link between these proteins in similar cellular processes.",
+            "details": "MAPT -> ABL1:\nThe interaction is relevant. ABL1 phosphorylates MAPT, impacting cytoskeleton remodeling. This direct interaction aligns with the query's aim to find proteins that phosphorylate MAPT, providing functional insights into neuronal polarity and stability maintenance.\n\nABL1 -> ABI2:\nThe interaction between ABL1 and ABI2 is relevant because ABL1 phosphorylates proteins involved in actin dynamics, and ABI2 is a regulator and substrate of ABL1, playing a role in similar cellular processes.\n\n",
+            "proteins": [
+                {
+                    "name": "ABI2",
+                    "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "ABL1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+                    },
+                    "explanation": "The interaction is relevant. ABL1 phosphorylates MAPT, impacting cytoskeleton remodeling. This direct interaction aligns with the query's aim to find proteins that phosphorylate MAPT, providing functional insights into neuronal polarity and stability maintenance."
+                },
+                {
+                    "start": "ABL1",
+                    "end": "ABI2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 840.0,
+                        "annotation": "Abl interactor 2; Regulator of actin cytoskeleton dynamics underlying cell motility and adhesion. Functions as a component of the WAVE complex, which activates actin nucleating machinery Arp2/3 to drive lamellipodia formation. Acts as regulator and substrate of nonreceptor tyrosine kinases ABL1 and ABL2 involved in processes linked to cell growth and differentiation. Positively regulates ABL1-mediated phosphorylation of ENAH, which is required for proper polymerization of nucleated actin filaments at the leading edge. Contributes to the regulation of actin assembly at the tips of neuro [...] "
+                    },
+                    "explanation": "The interaction between ABL1 and ABI2 is relevant because ABL1 phosphorylates proteins involved in actin dynamics, and ABI2 is a regulator and substrate of ABL1, playing a role in similar cellular processes."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK2",
+                "MARK3",
+                "MAP2",
+                "MARK4"
+            ],
+            "score": 95.0,
+            "explanation": "The path MAPT -> MARK2 -> MARK3 -> MAP2 -> MARK4 is highly relevant because each protein in the path can interact directly and influence the phosphorylation state of MAPT. MARK2 directly phosphorylates MAPT, and MARK4 also directly phosphorylates MAPT. The intermediary steps involving MARK3 and MAP2 are supported by their roles in microtubule dynamics and protein phosphorylation, ensuring a coherent biological mechanism.",
+            "details": "MAPT -> MARK2:\nThe interaction is relevant. MARK2 phosphorylates MAPT at KXGS motifs, causing detachment from microtubules and their disassembly, which aligns directly with the query's requirement of the end protein phosphorylating MAPT.\n\nMARK2 -> MARK3:\nThe interaction between MARK2 and MARK3 is relevant because both proteins are serine/threonine-protein kinases that phosphorylate the microtubule-associated protein MAPT/TAU. MARK2 and MARK3 can potentially act in a pathway impacting MAPT phosphorylation.\n\nMARK3 -> MAP2:\nThe interaction is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAP2. This phosphorylation potentially influences MAP2\u2019s interactions with MAPT/TAU, indirectly impacting MAPT's function.\n\nMAP2 -> MARK4:\nThe interaction is relevant. MARK4 directly phosphorylates MAP2 and MAPT/TAU. This direct phosphorylation ability of MARK4 aligns with the query requirement of finding a protein path where the end protein phosphorylates MAPT.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK3",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] ",
+                    "depth": 2
+                },
+                {
+                    "name": "MAP2",
+                    "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules.",
+                    "depth": 1
+                },
+                {
+                    "name": "MARK4",
+                    "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 621.0,
+                        "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK2 phosphorylates MAPT at KXGS motifs, causing detachment from microtubules and their disassembly, which aligns directly with the query's requirement of the end protein phosphorylating MAPT."
+                },
+                {
+                    "start": "MARK2",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 647.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction between MARK2 and MARK3 is relevant because both proteins are serine/threonine-protein kinases that phosphorylate the microtubule-associated protein MAPT/TAU. MARK2 and MARK3 can potentially act in a pathway impacting MAPT phosphorylation."
+                },
+                {
+                    "start": "MARK3",
+                    "end": "MAP2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAP2. This phosphorylation potentially influences MAP2\u2019s interactions with MAPT/TAU, indirectly impacting MAPT's function."
+                },
+                {
+                    "start": "MAP2",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK4 directly phosphorylates MAP2 and MAPT/TAU. This direct phosphorylation ability of MARK4 aligns with the query requirement of finding a protein path where the end protein phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MAP2",
+                "MARK4"
+            ],
+            "score": 70.0,
+            "explanation": "MARK4 directly phosphorylates both MAP2 and MAPT, fulfilling the query's requirement that the end protein phosphorylates MAPT. Although MAP2 and MAPT do not interact directly, their roles as microtubule-associated proteins are relevant to the context of phosphorylation by MARK4.",
+            "details": "MAPT -> MAP2:\nThe interaction is not relevant. There is no direct evidence that MAP2 phosphorylates MAPT. Both MAPT and MAP2 are microtubule-associated proteins with stabilizing roles but lack direct phosphorylation activity on each other.\n\nMAP2 -> MARK4:\nThe interaction is relevant because MARK4 phosphorylates MAP2, which is a direct interaction. MARK4 also phosphorylates MAPT, fulfilling the query's requirement that the end protein (MARK4) phosphorylates MAPT.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MAP2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+                    },
+                    "explanation": "The interaction is not relevant. There is no direct evidence that MAP2 phosphorylates MAPT. Both MAPT and MAP2 are microtubule-associated proteins with stabilizing roles but lack direct phosphorylation activity on each other."
+                },
+                {
+                    "start": "MAP2",
+                    "end": "MARK4",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] "
+                    },
+                    "explanation": "The interaction is relevant because MARK4 phosphorylates MAP2, which is a direct interaction. MARK4 also phosphorylates MAPT, fulfilling the query's requirement that the end protein (MARK4) phosphorylates MAPT."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "ABL1",
+                "ABL2"
+            ],
+            "score": 50.0,
+            "explanation": "The path MAPT -> ABL1 is relevant because ABL1 phosphorylates MAPT, affecting microtubule stabilization and neuronal polarity. However, the path ABL1 -> ABL2 is not relevant because there is no evidence that ABL2 phosphorylates MAPT. Therefore, the path does not fully satisfy the query requirements.",
+            "details": "MAPT -> ABL1:\nThe interaction is relevant to the query. ABL1 phosphorylates MAPT, as indicated in the end_annotation. This phosphorylation impacts MAPT's role in microtubule stabilization and neuronal polarity, aligning with the query requirements.\n\nABL1 -> ABL2:\nThe interaction is not relevant. ABL1 and ABL2 have overlapping roles but there's no direct evidence in the provided information that ABL2 phosphorylates MAPT, which is essential for the query.\n\n",
+            "proteins": [
+                {
+                    "name": "ABL2",
+                    "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "ABL1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Tyrosine-protein kinase ABL1; Non-receptor tyrosine-protein kinase that plays a role in many key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion, receptor endocytosis, autophagy, DNA damage response and apoptosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like WASF3 (involved in branch formation); ANXA1 (involved in membrane anchoring); DBN1, DBNL, CTTN, RAPH1 and ENAH (involved in signaling); or MAPT and PXN (microtubule-bindin [...] "
+                    },
+                    "explanation": "The interaction is relevant to the query. ABL1 phosphorylates MAPT, as indicated in the end_annotation. This phosphorylation impacts MAPT's role in microtubule stabilization and neuronal polarity, aligning with the query requirements."
+                },
+                {
+                    "start": "ABL1",
+                    "end": "ABL2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 976.0,
+                        "annotation": "Tyrosine-protein kinase ABL2; Non-receptor tyrosine-protein kinase that plays an ABL1- overlapping role in key processes linked to cell growth and survival such as cytoskeleton remodeling in response to extracellular stimuli, cell motility and adhesion and receptor endocytosis. Coordinates actin remodeling through tyrosine phosphorylation of proteins controlling cytoskeleton dynamics like MYH10 (involved in movement); CTTN (involved in signaling); or TUBA1 and TUBB (microtubule subunits). Binds directly F-actin and regulates actin cytoskeletal structure through its F-actin- bundling ac [...] "
+                    },
+                    "explanation": "The interaction is not relevant. ABL1 and ABL2 have overlapping roles but there's no direct evidence in the provided information that ABL2 phosphorylates MAPT, which is essential for the query."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MARK2",
+                "MARK1"
+            ],
+            "score": 50.0,
+            "explanation": "The path MAPT -> MARK2 is relevant because MARK2 phosphorylates MAPT, causing microtubule disassembly. However, the path MARK2 -> MARK1 is not relevant because there is no evidence of interaction or phosphorylation between MARK2 and MARK1, making the overall path invalid for the query.",
+            "details": "MAPT -> MARK2:\nThe interaction is relevant. MARK2 phosphorylates MAPT/TAU, causing detachment from microtubules and their disassembly, aligning with the query's requirement for the end protein (MARK2) to phosphorylate the start protein (MAPT).\n\nMARK2 -> MARK1:\nThe interaction between MARK2 and MARK1 is not relevant to the query. No evidence suggests MARK2 directly interacts with or phosphorylates MARK1, a necessary condition for the path to be considered valid.\n\n",
+            "proteins": [
+                {
+                    "name": "MARK1",
+                    "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] ",
+                    "depth": 2
+                }
+            ],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MARK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 621.0,
+                        "annotation": "Serine/threonine-protein kinase MARK2; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates CRTC2/TORC2, DCX, HDAC7, KIF13B, MAP2, MAP4 and RAB11FIP2. Phosphorylates the microtubule-associated protein MAPT/TAU. Plays a key role in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Regulates epithelial cell polarity by phosphorylating RAB11FIP2. Involved in the regulation of neuronal migration through its dual ac [...] "
+                    },
+                    "explanation": "The interaction is relevant. MARK2 phosphorylates MAPT/TAU, causing detachment from microtubules and their disassembly, aligning with the query's requirement for the end protein (MARK2) to phosphorylate the start protein (MAPT)."
+                },
+                {
+                    "start": "MARK2",
+                    "end": "MARK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 675.0,
+                        "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+                    },
+                    "explanation": "The interaction between MARK2 and MARK1 is not relevant to the query. No evidence suggests MARK2 directly interacts with or phosphorylates MARK1, a necessary condition for the path to be considered valid."
+                }
+            ]
+        },
+        {
+            "path": [
+                "MAPT",
+                "MAP2",
+                "MARK3",
+                "MARK2",
+                "MARK1"
+            ],
+            "score": 40.0,
+            "explanation": "This path is not recommended because the first interaction (MAPT -> MAP2) is not relevant, with no evidence of phosphorylation. The rest of the path (MAP2 -> MARK3 -> MARK2) is partially relevant as MARK3 and MARK2 are involved in phosphorylating MAPT. However, the last interaction (MARK2 -> MARK1) is not directly impactful for MAPT phosphorylation, reducing the overall relevance.",
+            "details": "MAPT -> MAP2:\nThe interaction is not relevant. No evidence indicates MAP2 phosphorylates MAPT. Their primary roles involve microtubule stabilization, with no direct phosphorylation relationship. Thus, no meaningful biological process connects them in this context.\n\nMAP2 -> MARK3:\nThe interaction between MAP2 and MARK3 is relevant because MARK3 phosphorylates microtubule-associated proteins, including MAP2 and MAPT. Therefore, MARK3 can phosphorylate MAPT, fulfilling the query requirement.\n\nMARK3 -> MARK2:\nThe interaction between MARK3 and MARK2 is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAPT/TAU, and MARK2 also phosphorylates MAPT/TAU, indicating a shared pathway in regulating MAPT phosphorylation.\n\nMARK2 -> MARK1:\nThe interaction between MARK2 and MARK1 is not directly relevant to the query. Both MARK2 and MARK1 can phosphorylate MAPT independently, but there is no evidence that MARK1 phosphorylates MAPT as a result of MARK2's activity.\n\n",
+            "proteins": [],
+            "relationships": [
+                {
+                    "start": "MAPT",
+                    "end": "MAP2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 457.0,
+                        "annotation": "Microtubule-associated protein 2; The exact function of MAP2 is unknown but MAPs may stabilize the microtubules against depolymerization. They also seem to have a stiffening effect on microtubules."
+                    },
+                    "explanation": "The interaction is not relevant. No evidence indicates MAP2 phosphorylates MAPT. Their primary roles involve microtubule stabilization, with no direct phosphorylation relationship. Thus, no meaningful biological process connects them in this context."
+                },
+                {
+                    "start": "MAP2",
+                    "end": "MARK3",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 297.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction between MAP2 and MARK3 is relevant because MARK3 phosphorylates microtubule-associated proteins, including MAP2 and MAPT. Therefore, MARK3 can phosphorylate MAPT, fulfilling the query requirement."
+                },
+                {
+                    "start": "MARK3",
+                    "end": "MARK2",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 647.0,
+                        "annotation": "MAP/microtubule affinity-regulating kinase 3; Serine/threonine-protein kinase. Involved in the specific phosphorylation of microtubule-associated proteins for MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Phosphorylates CDC25C on 'Ser-216'. Regulates localization and activity of some histone deacetylases by mediating phosphorylation of HDAC7, promoting subsequent interaction between HDAC7 and 14-3-3 and export from the nucleus. Negatively regulates the Hippo signaling pathway and antagonizes the phosphorylation of LATS1. Cooperates with DLG5 to inhibit the  [...] "
+                    },
+                    "explanation": "The interaction between MARK3 and MARK2 is relevant. MARK3 phosphorylates microtubule-associated proteins, including MAPT/TAU, and MARK2 also phosphorylates MAPT/TAU, indicating a shared pathway in regulating MAPT phosphorylation."
+                },
+                {
+                    "start": "MARK2",
+                    "end": "MARK1",
+                    "type": "INTERACTS_PHY",
+                    "properties": {
+                        "score": 675.0,
+                        "annotation": "Serine/threonine-protein kinase MARK1; Serine/threonine-protein kinase. Involved in cell polarity and microtubule dynamics regulation. Phosphorylates DCX, MAP2 and MAP4. Phosphorylates the microtubule-associated protein MAPT/TAU. Involved in cell polarity by phosphorylating the microtubule-associated proteins MAP2, MAP4 and MAPT/TAU at KXGS motifs, causing detachment from microtubules, and their disassembly. Involved in the regulation of neuronal migration through its dual activities in regulating cellular polarity and microtubule dynamics, possibly by phosphorylating and regulating DC [...] "
+                    },
+                    "explanation": "The interaction between MARK2 and MARK1 is not directly relevant to the query. Both MARK2 and MARK1 can phosphorylate MAPT independently, but there is no evidence that MARK1 phosphorylates MAPT as a result of MARK2's activity."
+                }
+            ]
+        }
+    ]
+}

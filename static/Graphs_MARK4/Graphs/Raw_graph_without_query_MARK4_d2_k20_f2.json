@@ -1,0 +1,687 @@
+{
+    "Graph name": "MARK4_d2_k20_f2",
+    "Protein": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "HGS",
+            "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] ",
+            "depth": 1
+        },
+        {
+            "name": "STK11",
+            "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PRKAA1",
+            "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PPP2R1A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis.",
+            "depth": 1
+        },
+        {
+            "name": "USP9X",
+            "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MZT1",
+            "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family.",
+            "depth": 1
+        },
+        {
+            "name": "CYFIP2",
+            "annotation": "Cytoplasmic FMR1-interacting protein 2; Involved in T-cell adhesion and p53/TP53-dependent induction of apoptosis. Does not bind RNA. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "MZT2A",
+            "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family.",
+            "depth": 1
+        },
+        {
+            "name": "KCTD20",
+            "annotation": "BTB/POZ domain-containing protein KCTD20; Promotes the phosphorylation of AKT family members.",
+            "depth": 1
+        },
+        {
+            "name": "AGAP2",
+            "annotation": "Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2; GTPase-activating protein (GAP) for ARF1 and ARF5, which also shows strong GTPase activity. Isoform 1 participates in the prevention of neuronal apoptosis by enhancing PI3 kinase activity. It aids the coupling of metabotropic glutamate receptor 1 (GRM1) to cytoplasmic PI3 kinase by interacting with Homer scaffolding proteins, and also seems to mediate anti-apoptotic effects of NGF by activating nuclear PI3 kinase. Isoform 2 does not stimulate PI3 kinase but may protect cells from apoptosis by stimulating Akt. It also r [...] ",
+            "depth": 1
+        },
+        {
+            "name": "EPS15",
+            "annotation": "Epidermal growth factor receptor substrate 15; Involved in cell growth regulation. May be involved in the regulation of mitogenic signals and control of cell proliferation. Involved in the internalization of ligand-inducible receptors of the receptor tyrosine kinase (RTK) type, in particular EGFR. Plays a role in the assembly of clathrin-coated pits (CCPs). Acts as a clathrin adapter required for post-Golgi trafficking. Seems to be involved in CCPs maturation including invagination or budding. Involved in endocytosis of integrin beta-1 (ITGB1) and transferrin receptor (TFR); internaliz [...] ",
+            "depth": 2
+        },
+        {
+            "name": "LITAF",
+            "annotation": "Lipopolysaccharide-induced tumor necrosis factor-alpha factor; Plays a role in endosomal protein trafficking and in targeting proteins for lysosomal degradation. Plays a role in targeting endocytosed EGFR and ERGG3 for lysosomal degradation, and thereby helps downregulate downstream signaling cascades. Helps recruit the ESCRT complex components TSG101, HGS and STAM to cytoplasmic membranes. Probably plays a role in regulating protein degradation via its interaction with NEDD4. May also contribute to the regulation of gene expression in the nucleus. Binds DNA (in vitro) and may play a s [...] ",
+            "depth": 2
+        },
+        {
+            "name": "SIK1",
+            "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] ",
+            "depth": 2
+        },
+        {
+            "name": "STK11IP",
+            "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization.",
+            "depth": 2
+        },
+        {
+            "name": "PRKAB1",
+            "annotation": "5'-AMP-activated protein kinase subunit beta-1; Non-catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts as a reg [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PRKAA2",
+            "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-2; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PPP2R1B",
+            "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit.",
+            "depth": 2
+        },
+        {
+            "name": "PPP2R5A",
+            "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment.",
+            "depth": 2
+        },
+        {
+            "name": "SMURF1",
+            "annotation": "E3 ubiquitin-protein ligase SMURF1; E3 ubiquitin-protein ligase that acts as a negative regulator of BMP signaling pathway. Mediates ubiquitination and degradation of SMAD1 and SMAD5, 2 receptor-regulated SMADs specific for the BMP pathway. Promotes ubiquitination and subsequent proteasomal degradation of TRAF family members and RHOA. Promotes ubiquitination and subsequent proteasomal degradation of MAVS. Plays a role in dendrite formation by melanocytes.",
+            "depth": 2
+        },
+        {
+            "name": "USP34",
+            "annotation": "Ubiquitin carboxyl-terminal hydrolase 34; Ubiquitin hydrolase that can remove conjugated ubiquitin from AXIN1 and AXIN2, thereby acting as a regulator of Wnt signaling pathway. Acts as an activator of the Wnt signaling pathway downstream of the beta-catenin destruction complex by deubiquitinating and stabilizing AXIN1 and AXIN2, leading to promote nuclear accumulation of AXIN1 and AXIN2 and positively regulate beta-catenin (CTNBB1)-mediated transcription. Recognizes and hydrolyzes the peptide bond at the C- terminal Gly of ubiquitin. Involved in the processing of poly-ubiquitin precurs [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MZT2B",
+            "annotation": "Mitotic spindle organizing protein 2B.",
+            "depth": 2
+        },
+        {
+            "name": "NCKAP1",
+            "annotation": "Nck-associated protein 1; Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex. Actin remodeling activity is regulated by RAC1. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes.",
+            "depth": 2
+        },
+        {
+            "name": "WASF1",
+            "annotation": "Wiskott-Aldrich syndrome protein family member 1; Downstream effector molecule involved in the transmission of signals from tyrosine kinase receptors and small GTPases to the actin cytoskeleton. Promotes formation of actin filaments. Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex (By similarity). As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "YWHAB",
+            "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "BTBD10",
+            "annotation": "BTB/POZ domain-containing protein 10; Plays a major role as an activator of AKT family members by inhibiting PPP2CA-mediated dephosphorylation, thereby keeping AKTs activated. Plays a role in preventing motor neuronal death and accelerating the growth of pancreatic beta cells.",
+            "depth": 2
+        },
+        {
+            "name": "ARF1",
+            "annotation": "ADP-ribosylation factor 1; GTP-binding protein involved in protein trafficking among different compartments. Modulates vesicle budding and uncoating within the Golgi complex. Deactivation induces the redistribution of the entire Golgi complex to the endoplasmic reticulum, suggesting a crucial role in protein trafficking. In its GTP-bound form, its triggers the association with coat proteins with the Golgi membrane. The hydrolysis of ARF1-bound GTP, which is mediated by ARFGAPs proteins, is required for dissociation of coat proteins from Golgi membranes and vesicles. The GTP-bound form  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "HOMER1",
+            "annotation": "Homer protein homolog 1; Postsynaptic density scaffolding protein. Binds and cross- links cytoplasmic regions of GRM1, GRM5, ITPR1, DNM3, RYR1, RYR2, SHANK1 and SHANK3. By physically linking GRM1 and GRM5 with ER- associated ITPR1 receptors, it aids the coupling of surface receptors to intracellular calcium release. May also couple GRM1 to PI3 kinase through its interaction with AGAP2. Isoform 1 regulates the trafficking and surface expression of GRM5. Isoform 3 acts as a natural dominant negative, in dynamic competition with constitutively expressed isoform 1 to regulate synaptic meta [...] ",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MARK4",
+            "end": "HGS",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 297.0,
+                "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "HGS",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Hepatocyte growth factor-regulated tyrosine kinase substrate; Involved in intracellular signal transduction mediated by cytokines and growth factors. When associated with STAM, it suppresses DNA signaling upon stimulation by IL-2 and GM-CSF. Could be a direct effector of PI3-kinase in vesicular pathway via early endosomes and may regulate trafficking to early and late endosomes by recruiting clathrin. May concentrate ubiquitinated receptors within clathrin- coated regions. Involved in down-regulation of receptor tyrosine kinase via multivesicular body (MVBs) when complexed with STAM (E [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "STK11",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 542.0,
+                "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "STK11",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase STK11; Tumor suppressor serine/threonine-protein kinase that controls the activity of AMP-activated protein kinase (AMPK) family members, thereby playing a role in various processes such as cell metabolism, cell polarity, apoptosis and DNA damage response. Acts by phosphorylating the T-loop of AMPK family proteins, thus promoting their activity: phosphorylates PRKAA1, PRKAA2, BRSK1, BRSK2, MARK1, MARK2, MARK3, MARK4, NUAK1, NUAK2, SIK1, SIK2, SIK3 and SNRK but not MELK. Also phosphorylates non-AMPK family proteins such as STRADA, PTEN and possibly p53/TP [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKAA1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 371.0,
+                "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKAA1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-1; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 187.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2R1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit. Upon interaction with GNA12 promotes dephosphorylation of microtubule associated protein TAU/MAPT. Required for proper chromosome segregation and for centromeric localization of SGO1 in mitosis."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "USP9X",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 855.0,
+                "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "USP9X",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 745.0,
+                "annotation": "Probable ubiquitin carboxyl-terminal hydrolase FAF-X; Deubiquitinase involved both in the processing of ubiquitin precursors and of ubiquitinated proteins. May therefore play an important regulatory role at the level of protein turnover by preventing degradation of proteins through the removal of conjugated ubiquitin. Specifically hydrolyzes 'Lys-48'-, 'Lys-29'- and 'Lys-33'- linked polyubiquitins chains. Essential component of TGF-beta/BMP signaling cascade. Specifically deubiquitinates monoubiquitinated SMAD4, opposing the activity of E3 ubiquitin-protein ligase TRIM33. Deubiquitinat [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CYFIP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 294.0,
+                "annotation": "Cytoplasmic FMR1-interacting protein 2; Involved in T-cell adhesion and p53/TP53-dependent induction of apoptosis. Does not bind RNA. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CYFIP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Cytoplasmic FMR1-interacting protein 2; Involved in T-cell adhesion and p53/TP53-dependent induction of apoptosis. Does not bind RNA. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 720.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 720.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "KCTD20",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 168.0,
+                "annotation": "BTB/POZ domain-containing protein KCTD20; Promotes the phosphorylation of AKT family members."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "KCTD20",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "BTB/POZ domain-containing protein KCTD20; Promotes the phosphorylation of AKT family members."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "AGAP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 443.0,
+                "annotation": "Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2; GTPase-activating protein (GAP) for ARF1 and ARF5, which also shows strong GTPase activity. Isoform 1 participates in the prevention of neuronal apoptosis by enhancing PI3 kinase activity. It aids the coupling of metabotropic glutamate receptor 1 (GRM1) to cytoplasmic PI3 kinase by interacting with Homer scaffolding proteins, and also seems to mediate anti-apoptotic effects of NGF by activating nuclear PI3 kinase. Isoform 2 does not stimulate PI3 kinase but may protect cells from apoptosis by stimulating Akt. It also r [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "AGAP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 202.0,
+                "annotation": "Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2; GTPase-activating protein (GAP) for ARF1 and ARF5, which also shows strong GTPase activity. Isoform 1 participates in the prevention of neuronal apoptosis by enhancing PI3 kinase activity. It aids the coupling of metabotropic glutamate receptor 1 (GRM1) to cytoplasmic PI3 kinase by interacting with Homer scaffolding proteins, and also seems to mediate anti-apoptotic effects of NGF by activating nuclear PI3 kinase. Isoform 2 does not stimulate PI3 kinase but may protect cells from apoptosis by stimulating Akt. It also r [...] "
+            }
+        },
+        {
+            "start": "HGS",
+            "end": "EPS15",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 989.0,
+                "annotation": "Epidermal growth factor receptor substrate 15; Involved in cell growth regulation. May be involved in the regulation of mitogenic signals and control of cell proliferation. Involved in the internalization of ligand-inducible receptors of the receptor tyrosine kinase (RTK) type, in particular EGFR. Plays a role in the assembly of clathrin-coated pits (CCPs). Acts as a clathrin adapter required for post-Golgi trafficking. Seems to be involved in CCPs maturation including invagination or budding. Involved in endocytosis of integrin beta-1 (ITGB1) and transferrin receptor (TFR); internaliz [...] "
+            }
+        },
+        {
+            "start": "HGS",
+            "end": "EPS15",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 918.0,
+                "annotation": "Epidermal growth factor receptor substrate 15; Involved in cell growth regulation. May be involved in the regulation of mitogenic signals and control of cell proliferation. Involved in the internalization of ligand-inducible receptors of the receptor tyrosine kinase (RTK) type, in particular EGFR. Plays a role in the assembly of clathrin-coated pits (CCPs). Acts as a clathrin adapter required for post-Golgi trafficking. Seems to be involved in CCPs maturation including invagination or budding. Involved in endocytosis of integrin beta-1 (ITGB1) and transferrin receptor (TFR); internaliz [...] "
+            }
+        },
+        {
+            "start": "HGS",
+            "end": "LITAF",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 293.0,
+                "annotation": "Lipopolysaccharide-induced tumor necrosis factor-alpha factor; Plays a role in endosomal protein trafficking and in targeting proteins for lysosomal degradation. Plays a role in targeting endocytosed EGFR and ERGG3 for lysosomal degradation, and thereby helps downregulate downstream signaling cascades. Helps recruit the ESCRT complex components TSG101, HGS and STAM to cytoplasmic membranes. Probably plays a role in regulating protein degradation via its interaction with NEDD4. May also contribute to the regulation of gene expression in the nucleus. Binds DNA (in vitro) and may play a s [...] "
+            }
+        },
+        {
+            "start": "HGS",
+            "end": "LITAF",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 224.0,
+                "annotation": "Lipopolysaccharide-induced tumor necrosis factor-alpha factor; Plays a role in endosomal protein trafficking and in targeting proteins for lysosomal degradation. Plays a role in targeting endocytosed EGFR and ERGG3 for lysosomal degradation, and thereby helps downregulate downstream signaling cascades. Helps recruit the ESCRT complex components TSG101, HGS and STAM to cytoplasmic membranes. Probably plays a role in regulating protein degradation via its interaction with NEDD4. May also contribute to the regulation of gene expression in the nucleus. Binds DNA (in vitro) and may play a s [...] "
+            }
+        },
+        {
+            "start": "STK11",
+            "end": "SIK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 495.0,
+                "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] "
+            }
+        },
+        {
+            "start": "STK11",
+            "end": "SIK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase SIK1; Serine/threonine-protein kinase involved in various processes such as cell cycle regulation, gluconeogenesis and lipogenesis regulation, muscle growth and differentiation and tumor suppression. Phosphorylates HDAC4, HDAC5, PPME1, SREBF1, CRTC1/TORC1. Inhibits CREB activity by phosphorylating and inhibiting activity of TORCs, the CREB- specific coactivators, like CRTC2/TORC2 and CRTC3/TORC3 in response to cAMP signaling. Acts as a tumor suppressor and plays a key role in p53/TP53-dependent anoikis, a type of apoptosis triggered by cell detachment: r [...] "
+            }
+        },
+        {
+            "start": "STK11",
+            "end": "STK11IP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 912.0,
+                "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization."
+            }
+        },
+        {
+            "start": "STK11",
+            "end": "STK11IP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 688.0,
+                "annotation": "Serine/threonine-protein kinase 11-interacting protein; May regulate STK11/LKB1 function by controlling its subcellular localization."
+            }
+        },
+        {
+            "start": "PRKAA1",
+            "end": "PRKAB1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "5'-AMP-activated protein kinase subunit beta-1; Non-catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts as a reg [...] "
+            }
+        },
+        {
+            "start": "PRKAA1",
+            "end": "PRKAB1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 995.0,
+                "annotation": "5'-AMP-activated protein kinase subunit beta-1; Non-catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts as a reg [...] "
+            }
+        },
+        {
+            "start": "PRKAA1",
+            "end": "PRKAA2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 984.0,
+                "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-2; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+            }
+        },
+        {
+            "start": "PRKAA1",
+            "end": "PRKAA2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 984.0,
+                "annotation": "5'-AMP-activated protein kinase catalytic subunit alpha-2; Catalytic subunit of AMP-activated protein kinase (AMPK), an energy sensor protein kinase that plays a key role in regulating cellular energy metabolism. In response to reduction of intracellular ATP levels, AMPK activates energy-producing pathways and inhibits energy-consuming processes: inhibits protein, carbohydrate and lipid biosynthesis, as well as cell growth and proliferation. AMPK acts via direct phosphorylation of metabolic enzymes, and by longer-term effects via phosphorylation of transcription regulators. Also acts a [...] "
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 990.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform; The PR65 subunit of protein phosphatase 2A serves as a scaffolding molecule to coordinate the assembly of the catalytic subunit and a variable regulatory B subunit."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R5A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment."
+            }
+        },
+        {
+            "start": "PPP2R1A",
+            "end": "PPP2R5A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment."
+            }
+        },
+        {
+            "start": "USP9X",
+            "end": "SMURF1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 754.0,
+                "annotation": "E3 ubiquitin-protein ligase SMURF1; E3 ubiquitin-protein ligase that acts as a negative regulator of BMP signaling pathway. Mediates ubiquitination and degradation of SMAD1 and SMAD5, 2 receptor-regulated SMADs specific for the BMP pathway. Promotes ubiquitination and subsequent proteasomal degradation of TRAF family members and RHOA. Promotes ubiquitination and subsequent proteasomal degradation of MAVS. Plays a role in dendrite formation by melanocytes."
+            }
+        },
+        {
+            "start": "USP9X",
+            "end": "SMURF1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 543.0,
+                "annotation": "E3 ubiquitin-protein ligase SMURF1; E3 ubiquitin-protein ligase that acts as a negative regulator of BMP signaling pathway. Mediates ubiquitination and degradation of SMAD1 and SMAD5, 2 receptor-regulated SMADs specific for the BMP pathway. Promotes ubiquitination and subsequent proteasomal degradation of TRAF family members and RHOA. Promotes ubiquitination and subsequent proteasomal degradation of MAVS. Plays a role in dendrite formation by melanocytes."
+            }
+        },
+        {
+            "start": "USP9X",
+            "end": "USP34",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 793.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 34; Ubiquitin hydrolase that can remove conjugated ubiquitin from AXIN1 and AXIN2, thereby acting as a regulator of Wnt signaling pathway. Acts as an activator of the Wnt signaling pathway downstream of the beta-catenin destruction complex by deubiquitinating and stabilizing AXIN1 and AXIN2, leading to promote nuclear accumulation of AXIN1 and AXIN2 and positively regulate beta-catenin (CTNBB1)-mediated transcription. Recognizes and hydrolyzes the peptide bond at the C- terminal Gly of ubiquitin. Involved in the processing of poly-ubiquitin precurs [...] "
+            }
+        },
+        {
+            "start": "USP9X",
+            "end": "USP34",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 438.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 34; Ubiquitin hydrolase that can remove conjugated ubiquitin from AXIN1 and AXIN2, thereby acting as a regulator of Wnt signaling pathway. Acts as an activator of the Wnt signaling pathway downstream of the beta-catenin destruction complex by deubiquitinating and stabilizing AXIN1 and AXIN2, leading to promote nuclear accumulation of AXIN1 and AXIN2 and positively regulate beta-catenin (CTNBB1)-mediated transcription. Recognizes and hydrolyzes the peptide bond at the C- terminal Gly of ubiquitin. Involved in the processing of poly-ubiquitin precurs [...] "
+            }
+        },
+        {
+            "start": "MZT1",
+            "end": "MZT2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "MZT1",
+            "end": "MZT2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 971.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "MZT1",
+            "end": "MZT2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        },
+        {
+            "start": "MZT1",
+            "end": "MZT2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 953.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        },
+        {
+            "start": "CYFIP2",
+            "end": "NCKAP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Nck-associated protein 1; Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex. Actin remodeling activity is regulated by RAC1. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes."
+            }
+        },
+        {
+            "start": "CYFIP2",
+            "end": "NCKAP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Nck-associated protein 1; Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex. Actin remodeling activity is regulated by RAC1. As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes."
+            }
+        },
+        {
+            "start": "CYFIP2",
+            "end": "WASF1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Wiskott-Aldrich syndrome protein family member 1; Downstream effector molecule involved in the transmission of signals from tyrosine kinase receptors and small GTPases to the actin cytoskeleton. Promotes formation of actin filaments. Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex (By similarity). As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity)."
+            }
+        },
+        {
+            "start": "CYFIP2",
+            "end": "WASF1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 998.0,
+                "annotation": "Wiskott-Aldrich syndrome protein family member 1; Downstream effector molecule involved in the transmission of signals from tyrosine kinase receptors and small GTPases to the actin cytoskeleton. Promotes formation of actin filaments. Part of the WAVE complex that regulates lamellipodia formation. The WAVE complex regulates actin filament reorganization via its interaction with the Arp2/3 complex (By similarity). As component of the WAVE1 complex, required for BDNF-NTRK2 endocytic trafficking and signaling from early endosomes (By similarity)."
+            }
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 953.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 870.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "MZT2A",
+            "end": "MZT2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 812.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "KCTD20",
+            "end": "YWHAB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 501.0,
+                "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] "
+            }
+        },
+        {
+            "start": "KCTD20",
+            "end": "YWHAB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 400.0,
+                "annotation": "14-3-3 protein beta/alpha, N-terminally processed; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negative regulator of osteogenesis. Blocks the nuclear translocation of the phosphorylated form (by AKT1) of SRPK2 and antagonizes its stimulatory effect on cyclin D1 expression resulting in blockage of neuronal apoptosis elicited by  [...] "
+            }
+        },
+        {
+            "start": "KCTD20",
+            "end": "BTBD10",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 474.0,
+                "annotation": "BTB/POZ domain-containing protein 10; Plays a major role as an activator of AKT family members by inhibiting PPP2CA-mediated dephosphorylation, thereby keeping AKTs activated. Plays a role in preventing motor neuronal death and accelerating the growth of pancreatic beta cells."
+            }
+        },
+        {
+            "start": "KCTD20",
+            "end": "BTBD10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 428.0,
+                "annotation": "BTB/POZ domain-containing protein 10; Plays a major role as an activator of AKT family members by inhibiting PPP2CA-mediated dephosphorylation, thereby keeping AKTs activated. Plays a role in preventing motor neuronal death and accelerating the growth of pancreatic beta cells."
+            }
+        },
+        {
+            "start": "AGAP2",
+            "end": "ARF1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "ADP-ribosylation factor 1; GTP-binding protein involved in protein trafficking among different compartments. Modulates vesicle budding and uncoating within the Golgi complex. Deactivation induces the redistribution of the entire Golgi complex to the endoplasmic reticulum, suggesting a crucial role in protein trafficking. In its GTP-bound form, its triggers the association with coat proteins with the Golgi membrane. The hydrolysis of ARF1-bound GTP, which is mediated by ARFGAPs proteins, is required for dissociation of coat proteins from Golgi membranes and vesicles. The GTP-bound form  [...] "
+            }
+        },
+        {
+            "start": "AGAP2",
+            "end": "ARF1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 502.0,
+                "annotation": "ADP-ribosylation factor 1; GTP-binding protein involved in protein trafficking among different compartments. Modulates vesicle budding and uncoating within the Golgi complex. Deactivation induces the redistribution of the entire Golgi complex to the endoplasmic reticulum, suggesting a crucial role in protein trafficking. In its GTP-bound form, its triggers the association with coat proteins with the Golgi membrane. The hydrolysis of ARF1-bound GTP, which is mediated by ARFGAPs proteins, is required for dissociation of coat proteins from Golgi membranes and vesicles. The GTP-bound form  [...] "
+            }
+        },
+        {
+            "start": "AGAP2",
+            "end": "HOMER1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Homer protein homolog 1; Postsynaptic density scaffolding protein. Binds and cross- links cytoplasmic regions of GRM1, GRM5, ITPR1, DNM3, RYR1, RYR2, SHANK1 and SHANK3. By physically linking GRM1 and GRM5 with ER- associated ITPR1 receptors, it aids the coupling of surface receptors to intracellular calcium release. May also couple GRM1 to PI3 kinase through its interaction with AGAP2. Isoform 1 regulates the trafficking and surface expression of GRM5. Isoform 3 acts as a natural dominant negative, in dynamic competition with constitutively expressed isoform 1 to regulate synaptic meta [...] "
+            }
+        },
+        {
+            "start": "AGAP2",
+            "end": "HOMER1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 441.0,
+                "annotation": "Homer protein homolog 1; Postsynaptic density scaffolding protein. Binds and cross- links cytoplasmic regions of GRM1, GRM5, ITPR1, DNM3, RYR1, RYR2, SHANK1 and SHANK3. By physically linking GRM1 and GRM5 with ER- associated ITPR1 receptors, it aids the coupling of surface receptors to intracellular calcium release. May also couple GRM1 to PI3 kinase through its interaction with AGAP2. Isoform 1 regulates the trafficking and surface expression of GRM5. Isoform 3 acts as a natural dominant negative, in dynamic competition with constitutively expressed isoform 1 to regulate synaptic meta [...] "
+            }
+        }
+    ]
+}

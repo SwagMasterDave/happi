@@ -1,0 +1,697 @@
+{
+    "Graph name": "MARK4_d2_k20_f3",
+    "Protein": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "USP7",
+            "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] ",
+            "depth": 1
+        },
+        {
+            "name": "MYH10",
+            "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.",
+            "depth": 1
+        },
+        {
+            "name": "PARD6A",
+            "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family.",
+            "depth": 1
+        },
+        {
+            "name": "PPP2CB",
+            "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily.",
+            "depth": 1
+        },
+        {
+            "name": "YWHAH",
+            "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1.",
+            "depth": 1
+        },
+        {
+            "name": "MYO18A",
+            "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] ",
+            "depth": 1
+        },
+        {
+            "name": "ODF2",
+            "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TOPORS",
+            "annotation": "E3 ubiquitin-protein ligase Topors; Functions as an E3 ubiquitin-protein ligase and as an E3 SUMO1-protein ligase. Probable tumor suppressor involved in cell growth, cell proliferation and apoptosis that regulates p53/TP53 stability through ubiquitin-dependent degradation. May regulate chromatin modification through sumoylation of several chromatin modification-associated proteins. May be involved in DNA damage-induced cell death through IKBKE sumoylation.",
+            "depth": 1
+        },
+        {
+            "name": "TUBGCP4",
+            "annotation": "Gamma-tubulin complex component 4; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 1
+        },
+        {
+            "name": "MZT2B",
+            "annotation": "Mitotic spindle organizing protein 2B.",
+            "depth": 1
+        },
+        {
+            "name": "MDM2",
+            "annotation": "E3 ubiquitin-protein ligase Mdm2; E3 ubiquitin-protein ligase that mediates ubiquitination of p53/TP53, leading to its degradation by the proteasome. Inhibits p53/TP53- and p73/TP73-mediated cell cycle arrest and apoptosis by binding its transcriptional activation domain. Also acts as a ubiquitin ligase E3 toward itself and ARRB1. Permits the nuclear export of p53/TP53. Promotes proteasome-dependent ubiquitin-independent degradation of retinoblastoma RB1 protein. Inhibits DAXX-mediated apoptosis by inducing its ubiquitination and degradation. Component of the TRIM28/KAP1-MDM2-p53/TP53  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "USP24",
+            "annotation": "Ubiquitin carboxyl-terminal hydrolase 24; Ubiquitin-specific protease that regulates cell survival in various contexts through modulating the protein stability of some of its substrates including DDB2, MCL1 or TP53. Plays a positive role on ferritinophagy where ferritin is degraded in lysosomes and releases free iron.",
+            "depth": 2
+        },
+        {
+            "name": "MYH9",
+            "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10.",
+            "depth": 2
+        },
+        {
+            "name": "MYH14",
+            "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping.",
+            "depth": 2
+        },
+        {
+            "name": "PARD6B",
+            "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family.",
+            "depth": 2
+        },
+        {
+            "name": "PARD6G",
+            "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity).",
+            "depth": 2
+        },
+        {
+            "name": "PPP2CA",
+            "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform; PP2A is the major phosphatase for microtubule-associated proteins (MAPs). PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Cooperates with SGO2 to protect centromeric cohesin from separase- mediated cleavage in oocytes specifically during meiosis I (By similarity). Can dephosphorylate SV40 large T antigen and p53/TP53. Activates RAF1 by dephosphorylating it at 'Ser-259'.",
+            "depth": 2
+        },
+        {
+            "name": "PPP2R5B",
+            "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform; As the regulatory component of the serine/threonine-protein phosphatase 2A (PP2A) holoenzyme, modulates substrate specificity, subcellular localization, and responsiveness to phosphorylation. The phosphorylated form mediates the interaction between PP2A and AKT1, leading to AKT1 dephosphorylation.",
+            "depth": 2
+        },
+        {
+            "name": "YWHAE",
+            "annotation": "14-3-3 protein epsilon; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner (By similarity). Positively regulates phosphorylated protein HSF1 nuclear export to the cytoplasm.",
+            "depth": 2
+        },
+        {
+            "name": "YWHAQ",
+            "annotation": "14-3-3 protein theta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1; Belongs to the 14-3-3 family.",
+            "depth": 2
+        },
+        {
+            "name": "MYO18B",
+            "annotation": "Unconventional myosin-XVIIIb; May be involved in intracellular trafficking of the muscle cell when in the cytoplasm, whereas entering the nucleus, may be involved in the regulation of muscle specific genes. May play a role in the control of tumor development and progression; restored MYO18B expression in lung cancer cells suppresses anchorage-independent growth; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.",
+            "depth": 2
+        },
+        {
+            "name": "CCDC114",
+            "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family.",
+            "depth": 2
+        },
+        {
+            "name": "CCDC120",
+            "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth.",
+            "depth": 2
+        },
+        {
+            "name": "RNF4",
+            "annotation": "E3 ubiquitin-protein ligase RNF4; E3 ubiquitin-protein ligase which binds polysumoylated chains covalently attached to proteins and mediates 'Lys-6'-, 'Lys-11'-, 'Lys- 48'- and 'Lys-63'-linked polyubiquitination of those substrates and their subsequent targeting to the proteasome for degradation. Regulates the degradation of several proteins including PML and the transcriptional activator PEA3. Involved in chromosome alignment and spindle assembly, it regulates the kinetochore CENPH-CENPI-CENPK complex by targeting polysumoylated CENPI to proteasomal degradation. Regulates the cellular [...] ",
+            "depth": 2
+        },
+        {
+            "name": "UBE2I",
+            "annotation": "SUMO-conjugating enzyme UBC9; Accepts the ubiquitin-like proteins SUMO1, SUMO2, SUMO3, SUMO4 and SUMO1P1/SUMO5 from the UBLE1A-UBLE1B E1 complex and catalyzes their covalent attachment to other proteins with the help of an E3 ligase such as RANBP2, CBX4 and ZNF451. Can catalyze the formation of poly-SUMO chains. Necessary for sumoylation of FOXL2 and KAT5. Essential for nuclear architecture and chromosome segregation. Sumoylates p53/TP53 at 'Lys-386'. Mediates sumoylation of ERCC6 which is essential for its transcription-coupled nucleotide excision repair activity. Belongs to the ubiqu [...] ",
+            "depth": 2
+        },
+        {
+            "name": "TUBGCP3",
+            "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 2
+        },
+        {
+            "name": "TUBGCP2",
+            "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 2
+        },
+        {
+            "name": "MZT1",
+            "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family.",
+            "depth": 2
+        },
+        {
+            "name": "MZT2A",
+            "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MARK4",
+            "end": "USP7",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 246.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "USP7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 7; Hydrolase that deubiquitinates target proteins such as FOXO4, p53/TP53, MDM2, ERCC6, DNMT1, UHRF1, PTEN, KMT2E/MLL5 and DAXX. Together with DAXX, prevents MDM2 self-ubiquitination and enhances the E3 ligase activity of MDM2 towards p53/TP53, thereby promoting p53/TP53 ubiquitination and proteasomal degradation. Deubiquitinates p53/TP53, preventing degradation of p53/TP53, and enhances p53/TP53-dependent transcription regulation, cell growth repression and apoptosis. Deubiquitinates p53/TP53 and MDM2 and strongly stabilizes p53/TP53 even in the p [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH10",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 311.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 421.0,
+                "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PARD6A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Partitioning defective 6 homolog alpha; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in the formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins. Regulates centrosome organization and function. Essential for the centrosomal recruitment of key proteins that control centrosomal microtubule organization ; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2CB",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 182.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PPP2CB",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform; PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Belongs to the PPP phosphatase family. PP-1 subfamily."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "YWHAH",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 469.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "YWHAH",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 370.0,
+                "annotation": "14-3-3 protein eta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYO18A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 212.0,
+                "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MYO18A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Unconventional myosin-XVIIIa; May link Golgi membranes to the cytoskeleton and participate in the tensile force required for vesicle budding from the Golgi. Thereby, may play a role in Golgi membrane trafficking and could indirectly give its flattened shape to the Golgi apparatus. Alternatively, in concert with LURAP1 and CDC42BPA/CDC42BPB, has been involved in modulating lamellar actomyosin retrograde flow that is crucial to cell protrusion and migration. May be involved in the maintenance of the stromal cell architectures required for cell to cell contact (By similarity). Regulates t [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "ODF2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 315.0,
+                "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "ODF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Outer dense fiber protein 2; Seems to be a major component of sperm tail outer dense fibers (ODF). ODFs are filamentous structures located on the outside of the axoneme in the midpiece and principal piece of the mammalian sperm tail and may help to maintain the passive elastic structures and elastic recoil of the sperm tail. May have a modulating influence on sperm motility. Functions as a general scaffold protein that is specifically localized at the distal/subdistal appendages of mother centrioles. Component of the centrosome matrix required for the localization of PLK1 and NIN to th [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TOPORS",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 720.0,
+                "annotation": "E3 ubiquitin-protein ligase Topors; Functions as an E3 ubiquitin-protein ligase and as an E3 SUMO1-protein ligase. Probable tumor suppressor involved in cell growth, cell proliferation and apoptosis that regulates p53/TP53 stability through ubiquitin-dependent degradation. May regulate chromatin modification through sumoylation of several chromatin modification-associated proteins. May be involved in DNA damage-induced cell death through IKBKE sumoylation."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TOPORS",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 720.0,
+                "annotation": "E3 ubiquitin-protein ligase Topors; Functions as an E3 ubiquitin-protein ligase and as an E3 SUMO1-protein ligase. Probable tumor suppressor involved in cell growth, cell proliferation and apoptosis that regulates p53/TP53 stability through ubiquitin-dependent degradation. May regulate chromatin modification through sumoylation of several chromatin modification-associated proteins. May be involved in DNA damage-induced cell death through IKBKE sumoylation."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Gamma-tubulin complex component 4; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Gamma-tubulin complex component 4; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "MZT2B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Mitotic spindle organizing protein 2B."
+            }
+        },
+        {
+            "start": "USP7",
+            "end": "MDM2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "E3 ubiquitin-protein ligase Mdm2; E3 ubiquitin-protein ligase that mediates ubiquitination of p53/TP53, leading to its degradation by the proteasome. Inhibits p53/TP53- and p73/TP73-mediated cell cycle arrest and apoptosis by binding its transcriptional activation domain. Also acts as a ubiquitin ligase E3 toward itself and ARRB1. Permits the nuclear export of p53/TP53. Promotes proteasome-dependent ubiquitin-independent degradation of retinoblastoma RB1 protein. Inhibits DAXX-mediated apoptosis by inducing its ubiquitination and degradation. Component of the TRIM28/KAP1-MDM2-p53/TP53  [...] "
+            }
+        },
+        {
+            "start": "USP7",
+            "end": "MDM2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 996.0,
+                "annotation": "E3 ubiquitin-protein ligase Mdm2; E3 ubiquitin-protein ligase that mediates ubiquitination of p53/TP53, leading to its degradation by the proteasome. Inhibits p53/TP53- and p73/TP73-mediated cell cycle arrest and apoptosis by binding its transcriptional activation domain. Also acts as a ubiquitin ligase E3 toward itself and ARRB1. Permits the nuclear export of p53/TP53. Promotes proteasome-dependent ubiquitin-independent degradation of retinoblastoma RB1 protein. Inhibits DAXX-mediated apoptosis by inducing its ubiquitination and degradation. Component of the TRIM28/KAP1-MDM2-p53/TP53  [...] "
+            }
+        },
+        {
+            "start": "USP7",
+            "end": "USP24",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 575.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 24; Ubiquitin-specific protease that regulates cell survival in various contexts through modulating the protein stability of some of its substrates including DDB2, MCL1 or TP53. Plays a positive role on ferritinophagy where ferritin is degraded in lysosomes and releases free iron."
+            }
+        },
+        {
+            "start": "USP7",
+            "end": "USP24",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Ubiquitin carboxyl-terminal hydrolase 24; Ubiquitin-specific protease that regulates cell survival in various contexts through modulating the protein stability of some of its substrates including DDB2, MCL1 or TP53. Plays a positive role on ferritinophagy where ferritin is degraded in lysosomes and releases free iron."
+            }
+        },
+        {
+            "start": "MYH10",
+            "end": "MYH9",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 985.0,
+                "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+            }
+        },
+        {
+            "start": "MYH10",
+            "end": "MYH9",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Myosin-9; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the margins but not the central part of spreading cells), and lamellipodial retraction; this function is mechanically antagonized by MYH10."
+            }
+        },
+        {
+            "start": "MYH10",
+            "end": "MYH14",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 915.0,
+                "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping."
+            }
+        },
+        {
+            "start": "MYH10",
+            "end": "MYH14",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 906.0,
+                "annotation": "Myosin-14; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping."
+            }
+        },
+        {
+            "start": "PARD6A",
+            "end": "PARD6B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 929.0,
+                "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "PARD6A",
+            "end": "PARD6B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 923.0,
+                "annotation": "Partitioning defective 6 homolog beta; Adapter protein involved in asymmetrical cell division and cell polarization processes. Probably involved in formation of epithelial tight junctions. Association with PARD3 may prevent the interaction of PARD3 with F11R/JAM1, thereby preventing tight junction assembly. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins; Belongs to the PAR6 family."
+            }
+        },
+        {
+            "start": "PARD6A",
+            "end": "PARD6G",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 908.0,
+                "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+            }
+        },
+        {
+            "start": "PARD6A",
+            "end": "PARD6G",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Partitioning defective 6 homolog gamma; Adapter protein involved in asymmetrical cell division and cell polarization processes. May play a role in the formation of epithelial tight junctions. The PARD6-PARD3 complex links GTP-bound Rho small GTPases to atypical protein kinase C proteins (By similarity)."
+            }
+        },
+        {
+            "start": "PPP2CB",
+            "end": "PPP2CA",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 986.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform; PP2A is the major phosphatase for microtubule-associated proteins (MAPs). PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Cooperates with SGO2 to protect centromeric cohesin from separase- mediated cleavage in oocytes specifically during meiosis I (By similarity). Can dephosphorylate SV40 large T antigen and p53/TP53. Activates RAF1 by dephosphorylating it at 'Ser-259'."
+            }
+        },
+        {
+            "start": "PPP2CB",
+            "end": "PPP2CA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 978.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform; PP2A is the major phosphatase for microtubule-associated proteins (MAPs). PP2A can modulate the activity of phosphorylase B kinase casein kinase 2, mitogen-stimulated S6 kinase, and MAP-2 kinase. Cooperates with SGO2 to protect centromeric cohesin from separase- mediated cleavage in oocytes specifically during meiosis I (By similarity). Can dephosphorylate SV40 large T antigen and p53/TP53. Activates RAF1 by dephosphorylating it at 'Ser-259'."
+            }
+        },
+        {
+            "start": "PPP2CB",
+            "end": "PPP2R5B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 966.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform; As the regulatory component of the serine/threonine-protein phosphatase 2A (PP2A) holoenzyme, modulates substrate specificity, subcellular localization, and responsiveness to phosphorylation. The phosphorylated form mediates the interaction between PP2A and AKT1, leading to AKT1 dephosphorylation."
+            }
+        },
+        {
+            "start": "PPP2CB",
+            "end": "PPP2R5B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 899.0,
+                "annotation": "Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit beta isoform; As the regulatory component of the serine/threonine-protein phosphatase 2A (PP2A) holoenzyme, modulates substrate specificity, subcellular localization, and responsiveness to phosphorylation. The phosphorylated form mediates the interaction between PP2A and AKT1, leading to AKT1 dephosphorylation."
+            }
+        },
+        {
+            "start": "YWHAH",
+            "end": "YWHAE",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 948.0,
+                "annotation": "14-3-3 protein epsilon; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner (By similarity). Positively regulates phosphorylated protein HSF1 nuclear export to the cytoplasm."
+            }
+        },
+        {
+            "start": "YWHAH",
+            "end": "YWHAE",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 862.0,
+                "annotation": "14-3-3 protein epsilon; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner (By similarity). Positively regulates phosphorylated protein HSF1 nuclear export to the cytoplasm."
+            }
+        },
+        {
+            "start": "YWHAH",
+            "end": "YWHAQ",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 911.0,
+                "annotation": "14-3-3 protein theta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1; Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "YWHAH",
+            "end": "YWHAQ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 819.0,
+                "annotation": "14-3-3 protein theta; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathways. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner. Negatively regulates the kinase activity of PDPK1; Belongs to the 14-3-3 family."
+            }
+        },
+        {
+            "start": "MYO18A",
+            "end": "MYH10",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 629.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MYO18A",
+            "end": "MYH10",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Myosin-10; Cellular myosin that appears to play a role in cytokinesis, cell shape, and specialized functions such as secretion and capping. Involved with LARP6 in the stabilization of type I collagen mRNAs for CO1A1 and CO1A2. During cell spreading, plays an important role in cytoskeleton reorganization, focal contacts formation (in the central part but not the margins of spreading cells), and lamellipodial extension; this function is mechanically antagonized by MYH9. Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MYO18A",
+            "end": "MYO18B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 599.0,
+                "annotation": "Unconventional myosin-XVIIIb; May be involved in intracellular trafficking of the muscle cell when in the cytoplasm, whereas entering the nucleus, may be involved in the regulation of muscle specific genes. May play a role in the control of tumor development and progression; restored MYO18B expression in lung cancer cells suppresses anchorage-independent growth; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "MYO18A",
+            "end": "MYO18B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Unconventional myosin-XVIIIb; May be involved in intracellular trafficking of the muscle cell when in the cytoplasm, whereas entering the nucleus, may be involved in the regulation of muscle specific genes. May play a role in the control of tumor development and progression; restored MYO18B expression in lung cancer cells suppresses anchorage-independent growth; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family."
+            }
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC114",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 298.0,
+                "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family."
+            }
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC114",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Coiled-coil domain-containing protein 114; Probable component of the outer dynein arm complex required along the entire axoneme for tethering of outer dynein arms. Belongs to the ODA1/DCC2 family."
+            }
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC120",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 892.0,
+                "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth."
+            }
+        },
+        {
+            "start": "ODF2",
+            "end": "CCDC120",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 808.0,
+                "annotation": "Coiled-coil domain-containing protein 120; Centriolar protein required for centriole subdistal appendage assembly and microtubule anchoring in interphase cells. Together with CCDC68, cooperate with subdistal appendage components ODF2, NIN and CEP170 for hierarchical subdistal appendage assembly. Recruits NIN and CEP170 to centrosomes. Also required for neurite growth. Localizes CYTH2 to vesicles to allow its transport along neurites, and subsequent ARF6 activation and neurite growth."
+            }
+        },
+        {
+            "start": "TOPORS",
+            "end": "RNF4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 625.0,
+                "annotation": "E3 ubiquitin-protein ligase RNF4; E3 ubiquitin-protein ligase which binds polysumoylated chains covalently attached to proteins and mediates 'Lys-6'-, 'Lys-11'-, 'Lys- 48'- and 'Lys-63'-linked polyubiquitination of those substrates and their subsequent targeting to the proteasome for degradation. Regulates the degradation of several proteins including PML and the transcriptional activator PEA3. Involved in chromosome alignment and spindle assembly, it regulates the kinetochore CENPH-CENPI-CENPK complex by targeting polysumoylated CENPI to proteasomal degradation. Regulates the cellular [...] "
+            }
+        },
+        {
+            "start": "TOPORS",
+            "end": "RNF4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "E3 ubiquitin-protein ligase RNF4; E3 ubiquitin-protein ligase which binds polysumoylated chains covalently attached to proteins and mediates 'Lys-6'-, 'Lys-11'-, 'Lys- 48'- and 'Lys-63'-linked polyubiquitination of those substrates and their subsequent targeting to the proteasome for degradation. Regulates the degradation of several proteins including PML and the transcriptional activator PEA3. Involved in chromosome alignment and spindle assembly, it regulates the kinetochore CENPH-CENPI-CENPK complex by targeting polysumoylated CENPI to proteasomal degradation. Regulates the cellular [...] "
+            }
+        },
+        {
+            "start": "TOPORS",
+            "end": "UBE2I",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 900.0,
+                "annotation": "SUMO-conjugating enzyme UBC9; Accepts the ubiquitin-like proteins SUMO1, SUMO2, SUMO3, SUMO4 and SUMO1P1/SUMO5 from the UBLE1A-UBLE1B E1 complex and catalyzes their covalent attachment to other proteins with the help of an E3 ligase such as RANBP2, CBX4 and ZNF451. Can catalyze the formation of poly-SUMO chains. Necessary for sumoylation of FOXL2 and KAT5. Essential for nuclear architecture and chromosome segregation. Sumoylates p53/TP53 at 'Lys-386'. Mediates sumoylation of ERCC6 which is essential for its transcription-coupled nucleotide excision repair activity. Belongs to the ubiqu [...] "
+            }
+        },
+        {
+            "start": "TOPORS",
+            "end": "UBE2I",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 539.0,
+                "annotation": "SUMO-conjugating enzyme UBC9; Accepts the ubiquitin-like proteins SUMO1, SUMO2, SUMO3, SUMO4 and SUMO1P1/SUMO5 from the UBLE1A-UBLE1B E1 complex and catalyzes their covalent attachment to other proteins with the help of an E3 ligase such as RANBP2, CBX4 and ZNF451. Can catalyze the formation of poly-SUMO chains. Necessary for sumoylation of FOXL2 and KAT5. Essential for nuclear architecture and chromosome segregation. Sumoylates p53/TP53 at 'Lys-386'. Mediates sumoylation of ERCC6 which is essential for its transcription-coupled nucleotide excision repair activity. Belongs to the ubiqu [...] "
+            }
+        },
+        {
+            "start": "TUBGCP4",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP4",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP4",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP4",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 997.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MZT2B",
+            "end": "MZT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 971.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MZT2B",
+            "end": "MZT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Mitotic-spindle organizing protein 1; Required for gamma-tubulin complex recruitment to the centrosome; Belongs to the MOZART1 family."
+            }
+        },
+        {
+            "start": "MZT2B",
+            "end": "MZT2A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 812.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        },
+        {
+            "start": "MZT2B",
+            "end": "MZT2A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 870.0,
+                "annotation": "Mitotic spindle organizing protein 2A; Belongs to the MOZART2 family."
+            }
+        }
+    ]
+}

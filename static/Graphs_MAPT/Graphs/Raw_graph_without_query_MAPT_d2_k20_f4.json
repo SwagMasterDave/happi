@@ -1,0 +1,702 @@
+{
+    "Graph name": "MAPT_d2_k20_f4",
+    "Protein": [
+        {
+            "name": "MAPT",
+            "annotation": "Microtubule-associated protein tau; Promotes microtubule assembly and stability, and might be involved in the establishment and maintenance of neuronal polarity. The C-terminus binds axonal microtubules while the N-terminus binds neural plasma membrane components, suggesting that tau functions as a linker protein between both. Axonal polarity is predetermined by TAU/MAPT localization (in the neuronal cell) in the domain of the cell body defined by the centrosome. The short isoforms allow plasticity of the cytoskeleton whereas the longer isoforms may preferentially play a role in its st [...] ",
+            "depth": 0
+        },
+        {
+            "name": "CDK5",
+            "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] ",
+            "depth": 1
+        },
+        {
+            "name": "DCTN2",
+            "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development.",
+            "depth": 1
+        },
+        {
+            "name": "RAB7A",
+            "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CCT7",
+            "annotation": "T-complex protein 1 subunit eta, N-terminally processed; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable).",
+            "depth": 1
+        },
+        {
+            "name": "TUBA1A",
+            "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 1
+        },
+        {
+            "name": "APP",
+            "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+            "depth": 1
+        },
+        {
+            "name": "SRSF6",
+            "annotation": "Serine/arginine-rich splicing factor 6; Plays a role in constitutive splicing and modulates the selection of alternative splice sites. Plays a role in the alternative splicing of MAPT/Tau exon 10. Binds to alternative exons of TNC pre- mRNA and promotes the expression of alternatively spliced TNC. Plays a role in wound healing and in the regulation of keratinocyte differentiation and proliferation via its role in alternative splicing. Belongs to the splicing factor SR family.",
+            "depth": 1
+        },
+        {
+            "name": "BRSK2",
+            "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] ",
+            "depth": 1
+        },
+        {
+            "name": "SPAG5",
+            "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] ",
+            "depth": 1
+        },
+        {
+            "name": "EML4",
+            "annotation": "Echinoderm microtubule-associated protein-like 4; May modify the assembly dynamics of microtubules, such that microtubules are slightly longer, but more dynamic; Belongs to the WD repeat EMAP family.",
+            "depth": 1
+        },
+        {
+            "name": "CDK1",
+            "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CDK2",
+            "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] ",
+            "depth": 2
+        },
+        {
+            "name": "DCTN1",
+            "annotation": "Dynactin subunit 1; Plays a key role in dynein-mediated retrograde transport of vesicles and organelles along microtubules by recruiting and tethering dynein to microtubules. Binds to both dynein and microtubules providing a link between specific cargos, microtubules and dynein. Essential for targeting dynein to microtubule plus ends, recruiting dynein to membranous cargos and enhancing dynein processivity (the ability to move along a microtubule for a long distance without falling off the track). Can also act as a brake to slow the dynein motor during motility along the microtubule. C [...] ",
+            "depth": 2
+        },
+        {
+            "name": "DCTN3",
+            "annotation": "Dynactin subunit 3; Together with dynein may be involved in spindle assembly and cytokinesis.",
+            "depth": 2
+        },
+        {
+            "name": "RAB1B",
+            "annotation": "Ras-related protein Rab-1B; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different set of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. Plays a role in the initial events of the autophagic vacuole development which take place at specialized regions of the endoplasmic reticulum. Regulates vesicular transport between the  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "RAB8A",
+            "annotation": "Ras-related protein Rab-8A; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. That Rab is involved in polarized vesicular trafficking and neurotransmitter release. Together with RAB11A, RAB3IP, the exocyst complex, PARD3, PRKCI, ANXA2, CDC42 and DNMBP promotes t [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CCT5",
+            "annotation": "T-complex protein 1 subunit epsilon; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. As part of the TRiC complex may play a role in the assembly of BBSome, a complex involved in ciliogenesis regulating transports vesicles to the cilia. The TRiC complex plays a role in the folding of actin and tubulin (Probable).",
+            "depth": 2
+        },
+        {
+            "name": "CCT6A",
+            "annotation": "T-complex protein 1 subunit zeta; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable); Belongs to the TCP-1 chaperonin family.",
+            "depth": 2
+        },
+        {
+            "name": "TUBA1B",
+            "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain.",
+            "depth": 2
+        },
+        {
+            "name": "TUBA1C",
+            "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family.",
+            "depth": 2
+        },
+        {
+            "name": "GSAP",
+            "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] ",
+            "depth": 2
+        },
+        {
+            "name": "APH1A",
+            "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family.",
+            "depth": 2
+        },
+        {
+            "name": "SRSF4",
+            "annotation": "Serine/arginine-rich splicing factor 4; Plays a role in alternative splice site selection during pre- mRNA splicing. Represses the splicing of MAPT/Tau exon 10.",
+            "depth": 2
+        },
+        {
+            "name": "SRSF9",
+            "annotation": "Serine/arginine-rich splicing factor 9; Plays a role in constitutive splicing and can modulate the selection of alternative splice sites. Represses the splicing of MAPT/Tau exon 10. Belongs to the splicing factor SR family.",
+            "depth": 2
+        },
+        {
+            "name": "PKMYT1",
+            "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] ",
+            "depth": 2
+        },
+        {
+            "name": "BRSK1",
+            "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] ",
+            "depth": 2
+        },
+        {
+            "name": "AURKA",
+            "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "KNSTRN",
+            "annotation": "Small kinetochore-associated protein; Essential component of the mitotic spindle required for faithful chromosome segregation and progression into anaphase. Promotes the metaphase-to-anaphase transition and is required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. The astrin (SPAG5)-kinastrin (SKAP) complex promotes stable microtubule-kinetochore attachments. Required for kinetochore oscillations and dynamics of microtubule plus-ends during live cell mitosis, possibly by forming a link between spindle microtubule  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "MAPRE3",
+            "annotation": "Microtubule-associated protein RP/EB family member 3; Plus-end tracking protein (+TIP) that binds to the plus-end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth. May be involved in spindle function by stabilizing microtubules and anchoring them at centrosomes. Also acts as a regulator of minus-end microtubule organization: interacts with the complex formed by AKAP9 and PDE4DIP, leading to recruit CAMSAP2 to the Golgi apparatus, thereby tethering non- centrosomal minus-end microtubules to the Golgi, an important step for polarized [...] ",
+            "depth": 2
+        },
+        {
+            "name": "EML1",
+            "annotation": "Echinoderm microtubule-associated protein-like 1; Modulates the assembly and organization of the microtubule cytoskeleton, and probably plays a role in regulating the orientation of the mitotic spindle and the orientation of the plane of cell division. Required for normal proliferation of neuronal progenitor cells in the developing brain and for normal brain development. Does not affect neuron migration per se; Belongs to the WD repeat EMAP family.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MAPT",
+            "end": "CDK5",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CDK5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 784.0,
+                "annotation": "Cyclin-dependent-like kinase 5; Proline-directed serine/threonine-protein kinase essential for neuronal cell cycle arrest and differentiation and may be involved in apoptotic cell death in neuronal diseases by triggering abortive cell cycle re-entry. Interacts with D1 and D3-type G1 cyclins. Phosphorylates SRC, NOS3, VIM/vimentin, p35/CDK5R1, MEF2A, SIPA1L1, SH3GLB1, PXN, PAK1, MCAM/MUC18, SEPT5, SYN1, DNM1, AMPH, SYNJ1, CDK16, RAC1, RHOA, CDC42, TONEBP/NFAT5, MAPT/TAU, MAP1B, histone H1, p53/TP53, HDAC1, APEX1, PTK2/FAK1, huntingtin/HTT, ATM, MAP2, NEFH and NEFM. Regulates several neu [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "DCTN2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 584.0,
+                "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "DCTN2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Dynactin subunit 2; Modulates cytoplasmic dynein binding to an organelle, and plays a role in prometaphase chromosome alignment and spindle organization during mitosis. Involved in anchoring microtubules to centrosomes. May play a role in synapse formation during brain development."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "RAB7A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 405.0,
+                "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "RAB7A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Ras-related protein Rab-7a; Key regulator in endo-lysosomal trafficking. Governs early- to-late endosomal maturation, microtubule minus-end as well as plus-end directed endosomal migration and positioning, and endosome-lysosome transport through different protein-protein interaction cascades. Plays a central role, not only in endosomal traffic, but also in many other cellular and physiological events, such as growth-factor-mediated cell signaling, nutrient-transportor mediated nutrient uptake, neurotrophin transport in the axons of neurons and lipid metabolism. Also involved in regulat [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CCT7",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 297.0,
+                "annotation": "T-complex protein 1 subunit eta, N-terminally processed; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable)."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "CCT7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "T-complex protein 1 subunit eta, N-terminally processed; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable)."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 978.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "TUBA1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 457.0,
+                "annotation": "Detyrosinated tubulin alpha-1A chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "APP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 995.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "APP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 886.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SRSF6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 638.0,
+                "annotation": "Serine/arginine-rich splicing factor 6; Plays a role in constitutive splicing and modulates the selection of alternative splice sites. Plays a role in the alternative splicing of MAPT/Tau exon 10. Binds to alternative exons of TNC pre- mRNA and promotes the expression of alternatively spliced TNC. Plays a role in wound healing and in the regulation of keratinocyte differentiation and proliferation via its role in alternative splicing. Belongs to the splicing factor SR family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SRSF6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 426.0,
+                "annotation": "Serine/arginine-rich splicing factor 6; Plays a role in constitutive splicing and modulates the selection of alternative splice sites. Plays a role in the alternative splicing of MAPT/Tau exon 10. Binds to alternative exons of TNC pre- mRNA and promotes the expression of alternatively spliced TNC. Plays a role in wound healing and in the regulation of keratinocyte differentiation and proliferation via its role in alternative splicing. Belongs to the splicing factor SR family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 531.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "BRSK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Serine/threonine-protein kinase BRSK2; Serine/threonine-protein kinase that plays a key role in polarization of neurons and axonogenesis, cell cycle progress and insulin secretion. Phosphorylates CDK16, CDC25C, MAPT/TAU, PAK1 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to d [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SPAG5",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 323.0,
+                "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "SPAG5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Sperm-associated antigen 5; Essential component of the mitotic spindle required for normal chromosome segregation and progression into anaphase. Required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. In complex with SKAP, promotes stable microtubule- kinetochore attachments. May contribute to the regulation of separase activity. May regulate AURKA localization to mitotic spindle, but not to centrosomes and CCNB1 localization to both mitotic spindle and centrosomes. Involved in centriole duplication. Required for C [...] "
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "EML4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 363.0,
+                "annotation": "Echinoderm microtubule-associated protein-like 4; May modify the assembly dynamics of microtubules, such that microtubules are slightly longer, but more dynamic; Belongs to the WD repeat EMAP family."
+            }
+        },
+        {
+            "start": "MAPT",
+            "end": "EML4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Echinoderm microtubule-associated protein-like 4; May modify the assembly dynamics of microtubules, such that microtubules are slightly longer, but more dynamic; Belongs to the WD repeat EMAP family."
+            }
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 461.0,
+                "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] "
+            }
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 293.0,
+                "annotation": "Cyclin-dependent kinase 1; Plays a key role in the control of the eukaryotic cell cycle by modulating the centrosome cycle as well as mitotic onset; promotes G2-M transition, and regulates G1 progress and G1-S transition via association with multiple interphase cyclins. Required in higher cells for entry into S-phase and mitosis. Phosphorylates PARVA/actopaxin, APC, AMPH, APC, BARD1, Bcl-xL/BCL2L1, BRCA2, CALD1, CASP8, CDC7, CDC20, CDC25A, CDC25C, CC2D1A, CENPA, CSNK2 proteins/CKII, FZR1/CDH1, CDK7, CEBPB, CHAMP1, DMD/dystrophin, EEF1 proteins/EF-1, EZH2, KIF11/EG5, EGFR, FANCG, FOS, G [...] "
+            }
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 928.0,
+                "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] "
+            }
+        },
+        {
+            "start": "CDK5",
+            "end": "CDK2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 921.0,
+                "annotation": "Cyclin-dependent kinase 2; Serine/threonine-protein kinase involved in the control of the cell cycle; essential for meiosis, but dispensable for mitosis. Phosphorylates CTNNB1, USP37, p53/TP53, NPM1, CDK7, RB1, BRCA2, MYC, NPAT, EZH2. Triggers duplication of centrosomes and DNA. Acts at the G1-S transition to promote the E2F transcriptional program and the initiation of DNA synthesis, and modulates G2 progression; controls the timing of entry into mitosis/meiosis by controlling the subsequent activation of cyclin B/CDK1 by phosphorylation, and coordinates the activation of cyclin B/CDK [...] "
+            }
+        },
+        {
+            "start": "DCTN2",
+            "end": "DCTN1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Dynactin subunit 1; Plays a key role in dynein-mediated retrograde transport of vesicles and organelles along microtubules by recruiting and tethering dynein to microtubules. Binds to both dynein and microtubules providing a link between specific cargos, microtubules and dynein. Essential for targeting dynein to microtubule plus ends, recruiting dynein to membranous cargos and enhancing dynein processivity (the ability to move along a microtubule for a long distance without falling off the track). Can also act as a brake to slow the dynein motor during motility along the microtubule. C [...] "
+            }
+        },
+        {
+            "start": "DCTN2",
+            "end": "DCTN1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Dynactin subunit 1; Plays a key role in dynein-mediated retrograde transport of vesicles and organelles along microtubules by recruiting and tethering dynein to microtubules. Binds to both dynein and microtubules providing a link between specific cargos, microtubules and dynein. Essential for targeting dynein to microtubule plus ends, recruiting dynein to membranous cargos and enhancing dynein processivity (the ability to move along a microtubule for a long distance without falling off the track). Can also act as a brake to slow the dynein motor during motility along the microtubule. C [...] "
+            }
+        },
+        {
+            "start": "DCTN2",
+            "end": "DCTN3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Dynactin subunit 3; Together with dynein may be involved in spindle assembly and cytokinesis."
+            }
+        },
+        {
+            "start": "DCTN2",
+            "end": "DCTN3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 996.0,
+                "annotation": "Dynactin subunit 3; Together with dynein may be involved in spindle assembly and cytokinesis."
+            }
+        },
+        {
+            "start": "RAB7A",
+            "end": "RAB1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 494.0,
+                "annotation": "Ras-related protein Rab-1B; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different set of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. Plays a role in the initial events of the autophagic vacuole development which take place at specialized regions of the endoplasmic reticulum. Regulates vesicular transport between the  [...] "
+            }
+        },
+        {
+            "start": "RAB7A",
+            "end": "RAB1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 186.0,
+                "annotation": "Ras-related protein Rab-1B; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different set of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. Plays a role in the initial events of the autophagic vacuole development which take place at specialized regions of the endoplasmic reticulum. Regulates vesicular transport between the  [...] "
+            }
+        },
+        {
+            "start": "RAB7A",
+            "end": "RAB8A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 690.0,
+                "annotation": "Ras-related protein Rab-8A; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. That Rab is involved in polarized vesicular trafficking and neurotransmitter release. Together with RAB11A, RAB3IP, the exocyst complex, PARD3, PRKCI, ANXA2, CDC42 and DNMBP promotes t [...] "
+            }
+        },
+        {
+            "start": "RAB7A",
+            "end": "RAB8A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 617.0,
+                "annotation": "Ras-related protein Rab-8A; The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between an inactive GDP-bound form and an active GTP-bound form that is able to recruit to membranes different sets of downstream effectors directly responsible for vesicle formation, movement, tethering and fusion. That Rab is involved in polarized vesicular trafficking and neurotransmitter release. Together with RAB11A, RAB3IP, the exocyst complex, PARD3, PRKCI, ANXA2, CDC42 and DNMBP promotes t [...] "
+            }
+        },
+        {
+            "start": "CCT7",
+            "end": "CCT5",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "T-complex protein 1 subunit epsilon; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. As part of the TRiC complex may play a role in the assembly of BBSome, a complex involved in ciliogenesis regulating transports vesicles to the cilia. The TRiC complex plays a role in the folding of actin and tubulin (Probable)."
+            }
+        },
+        {
+            "start": "CCT7",
+            "end": "CCT5",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "T-complex protein 1 subunit epsilon; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. As part of the TRiC complex may play a role in the assembly of BBSome, a complex involved in ciliogenesis regulating transports vesicles to the cilia. The TRiC complex plays a role in the folding of actin and tubulin (Probable)."
+            }
+        },
+        {
+            "start": "CCT7",
+            "end": "CCT6A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "T-complex protein 1 subunit zeta; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable); Belongs to the TCP-1 chaperonin family."
+            }
+        },
+        {
+            "start": "CCT7",
+            "end": "CCT6A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "T-complex protein 1 subunit zeta; Component of the chaperonin-containing T-complex (TRiC), a molecular chaperone complex that assists the folding of proteins upon ATP hydrolysis. The TRiC complex mediates the folding of WRAP53/TCAB1, thereby regulating telomere maintenance. The TRiC complex plays a role in the folding of actin and tubulin (Probable); Belongs to the TCP-1 chaperonin family."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 966.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 922.0,
+                "annotation": "Detyrosinated tubulin alpha-1B chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1C",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 691.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "TUBA1A",
+            "end": "TUBA1C",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 165.0,
+                "annotation": "Detyrosinated tubulin alpha-1C chain; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain; Belongs to the tubulin family."
+            }
+        },
+        {
+            "start": "APP",
+            "end": "GSAP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 905.0,
+                "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+            }
+        },
+        {
+            "start": "APP",
+            "end": "GSAP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 539.0,
+                "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+            }
+        },
+        {
+            "start": "APP",
+            "end": "APH1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 986.0,
+                "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+            }
+        },
+        {
+            "start": "APP",
+            "end": "APH1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 807.0,
+                "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+            }
+        },
+        {
+            "start": "SRSF6",
+            "end": "SRSF4",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 973.0,
+                "annotation": "Serine/arginine-rich splicing factor 4; Plays a role in alternative splice site selection during pre- mRNA splicing. Represses the splicing of MAPT/Tau exon 10."
+            }
+        },
+        {
+            "start": "SRSF6",
+            "end": "SRSF4",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 959.0,
+                "annotation": "Serine/arginine-rich splicing factor 4; Plays a role in alternative splice site selection during pre- mRNA splicing. Represses the splicing of MAPT/Tau exon 10."
+            }
+        },
+        {
+            "start": "SRSF6",
+            "end": "SRSF9",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 963.0,
+                "annotation": "Serine/arginine-rich splicing factor 9; Plays a role in constitutive splicing and can modulate the selection of alternative splice sites. Represses the splicing of MAPT/Tau exon 10. Belongs to the splicing factor SR family."
+            }
+        },
+        {
+            "start": "SRSF6",
+            "end": "SRSF9",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 937.0,
+                "annotation": "Serine/arginine-rich splicing factor 9; Plays a role in constitutive splicing and can modulate the selection of alternative splice sites. Represses the splicing of MAPT/Tau exon 10. Belongs to the splicing factor SR family."
+            }
+        },
+        {
+            "start": "BRSK2",
+            "end": "PKMYT1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 155.0,
+                "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] "
+            }
+        },
+        {
+            "start": "BRSK2",
+            "end": "PKMYT1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 552.0,
+                "annotation": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase; Acts as a negative regulator of entry into mitosis (G2 to M transition) by phosphorylation of the CDK1 kinase specifically when CDK1 is complexed to cyclins. Mediates phosphorylation of CDK1 predominantly on 'Thr-14'. Also involved in Golgi fragmentation. May be involved in phosphorylation of CDK1 on 'Tyr-15' to a lesser degree, however tyrosine kinase activity is unclear and may be indirect. May be a downstream target of Notch signaling pathway during eye development. Belongs to the protein kinase superfamily [...] "
+            }
+        },
+        {
+            "start": "BRSK2",
+            "end": "BRSK1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            }
+        },
+        {
+            "start": "BRSK2",
+            "end": "BRSK1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 348.0,
+                "annotation": "Serine/threonine-protein kinase BRSK1; Serine/threonine-protein kinase that plays a key role in polarization of neurons and centrosome duplication. Phosphorylates CDC25B, CDC25C, MAPT/TAU, RIMS1, TUBG1, TUBG2 and WEE1. Following phosphorylation and activation by STK11/LKB1, acts as a key regulator of polarization of cortical neurons, probably by mediating phosphorylation of microtubule-associated proteins such as MAPT/TAU at 'Thr-529' and 'Ser-579'. Also regulates neuron polarization by mediating phosphorylation of WEE1 at 'Ser-642' in postmitotic neurons, leading to down-regulate WEE1 [...] "
+            }
+        },
+        {
+            "start": "SPAG5",
+            "end": "AURKA",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 800.0,
+                "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] "
+            }
+        },
+        {
+            "start": "SPAG5",
+            "end": "AURKA",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 292.0,
+                "annotation": "Aurora kinase A; Mitotic serine/threonine kinase that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for normal spindle positioning during mitosis and for the localization of NUMA1 and DCTN1 to the cell cortex during metaphase. Required for initial activation  [...] "
+            }
+        },
+        {
+            "start": "SPAG5",
+            "end": "KNSTRN",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 983.0,
+                "annotation": "Small kinetochore-associated protein; Essential component of the mitotic spindle required for faithful chromosome segregation and progression into anaphase. Promotes the metaphase-to-anaphase transition and is required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. The astrin (SPAG5)-kinastrin (SKAP) complex promotes stable microtubule-kinetochore attachments. Required for kinetochore oscillations and dynamics of microtubule plus-ends during live cell mitosis, possibly by forming a link between spindle microtubule  [...] "
+            }
+        },
+        {
+            "start": "SPAG5",
+            "end": "KNSTRN",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 906.0,
+                "annotation": "Small kinetochore-associated protein; Essential component of the mitotic spindle required for faithful chromosome segregation and progression into anaphase. Promotes the metaphase-to-anaphase transition and is required for chromosome alignment, normal timing of sister chromatid segregation, and maintenance of spindle pole architecture. The astrin (SPAG5)-kinastrin (SKAP) complex promotes stable microtubule-kinetochore attachments. Required for kinetochore oscillations and dynamics of microtubule plus-ends during live cell mitosis, possibly by forming a link between spindle microtubule  [...] "
+            }
+        },
+        {
+            "start": "EML4",
+            "end": "MAPRE3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 267.0,
+                "annotation": "Microtubule-associated protein RP/EB family member 3; Plus-end tracking protein (+TIP) that binds to the plus-end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth. May be involved in spindle function by stabilizing microtubules and anchoring them at centrosomes. Also acts as a regulator of minus-end microtubule organization: interacts with the complex formed by AKAP9 and PDE4DIP, leading to recruit CAMSAP2 to the Golgi apparatus, thereby tethering non- centrosomal minus-end microtubules to the Golgi, an important step for polarized [...] "
+            }
+        },
+        {
+            "start": "EML4",
+            "end": "MAPRE3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 175.0,
+                "annotation": "Microtubule-associated protein RP/EB family member 3; Plus-end tracking protein (+TIP) that binds to the plus-end of microtubules and regulates the dynamics of the microtubule cytoskeleton. Promotes microtubule growth. May be involved in spindle function by stabilizing microtubules and anchoring them at centrosomes. Also acts as a regulator of minus-end microtubule organization: interacts with the complex formed by AKAP9 and PDE4DIP, leading to recruit CAMSAP2 to the Golgi apparatus, thereby tethering non- centrosomal minus-end microtubules to the Golgi, an important step for polarized [...] "
+            }
+        },
+        {
+            "start": "EML4",
+            "end": "EML1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 827.0,
+                "annotation": "Echinoderm microtubule-associated protein-like 1; Modulates the assembly and organization of the microtubule cytoskeleton, and probably plays a role in regulating the orientation of the mitotic spindle and the orientation of the plane of cell division. Required for normal proliferation of neuronal progenitor cells in the developing brain and for normal brain development. Does not affect neuron migration per se; Belongs to the WD repeat EMAP family."
+            }
+        },
+        {
+            "start": "EML4",
+            "end": "EML1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 702.0,
+                "annotation": "Echinoderm microtubule-associated protein-like 1; Modulates the assembly and organization of the microtubule cytoskeleton, and probably plays a role in regulating the orientation of the mitotic spindle and the orientation of the plane of cell division. Required for normal proliferation of neuronal progenitor cells in the developing brain and for normal brain development. Does not affect neuron migration per se; Belongs to the WD repeat EMAP family."
+            }
+        }
+    ]
+}

@@ -1,0 +1,682 @@
+{
+    "Graph name": "MARK4_d2_k20_f4",
+    "Protein": [
+        {
+            "name": "MARK4",
+            "annotation": "MAP/microtubule affinity-regulating kinase 4; Serine/threonine-protein kinase. Phosphorylates the microtubule-associated protein MAPT/TAU. Also phosphorylates the microtubule-associated proteins MAP2 and MAP4. Involved in regulation of the microtubule network, causing reorganization of microtubules into bundles. Required for the initiation of axoneme extension during cilium assembly. Regulates the centrosomal location of ODF2 and phosphorylates ODF2 in vitro. Plays a role in cell cycle progression, specifically in the G1/S checkpoint. Reduces neuronal cell survival. Plays a role in ene [...] ",
+            "depth": 0
+        },
+        {
+            "name": "PDE4B",
+            "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily.",
+            "depth": 1
+        },
+        {
+            "name": "PRKCI",
+            "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] ",
+            "depth": 1
+        },
+        {
+            "name": "APP",
+            "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] ",
+            "depth": 1
+        },
+        {
+            "name": "PRPF40A",
+            "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family.",
+            "depth": 1
+        },
+        {
+            "name": "TRIM66",
+            "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "ARHGEF2",
+            "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] ",
+            "depth": 1
+        },
+        {
+            "name": "CYFIP1",
+            "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] ",
+            "depth": 1
+        },
+        {
+            "name": "TUBGCP3",
+            "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 1
+        },
+        {
+            "name": "TUBG2",
+            "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity).",
+            "depth": 1
+        },
+        {
+            "name": "TUBGCP2",
+            "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 1
+        },
+        {
+            "name": "PDE4D",
+            "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes.",
+            "depth": 2
+        },
+        {
+            "name": "ADCY8",
+            "annotation": "Adenylate cyclase type 8; Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation. Plays a central role in insulin secretion by controlling glucose homeostasis through glucagon- like peptide 1 and glucose signali [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PRKCZ",
+            "annotation": "Protein kinase C zeta type; Calcium- and diacylglycerol-independent serine/threonine- protein kinase that functions in phosphatidylinositol 3-kinase (PI3K) pathway and mitogen-activated protein (MAP) kinase cascade, and is involved in NF-kappa-B activation, mitogenic signaling, cell proliferation, cell polarity, inflammatory response and maintenance of long-term potentiation (LTP). Upon lipopolysaccharide (LPS) treatment in macrophages, or following mitogenic stimuli, functions downstream of PI3K to activate MAP2K1/MEK1-MAPK1/ERK2 signaling cascade independently of RAF1 activation. Req [...] ",
+            "depth": 2
+        },
+        {
+            "name": "PRKCD",
+            "annotation": "Protein kinase C delta type regulatory subunit; Calcium-independent, phospholipid- and diacylglycerol (DAG)- dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti- apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Nega [...] ",
+            "depth": 2
+        },
+        {
+            "name": "GSAP",
+            "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] ",
+            "depth": 2
+        },
+        {
+            "name": "APH1A",
+            "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family.",
+            "depth": 2
+        },
+        {
+            "name": "WIPF1",
+            "annotation": "WAS/WASL-interacting protein family member 1; Plays a role in the reorganization of the actin cytoskeleton. Contributes with NCK1 and GRB2 in the recruitment and activation of WASL. May participate in regulating the subcellular localization of WASL, resulting in the disassembly of stress fibers in favor of filopodia formation. Plays a role in the formation of cell ruffles (By similarity). Plays an important role in the intracellular motility of vaccinia virus by functioning as an adapter for recruiting WASL to vaccinia virus.",
+            "depth": 2
+        },
+        {
+            "name": "PRPF40B",
+            "annotation": "Pre-mRNA-processing factor 40 homolog B; May be involved in pre-mRNA splicing.",
+            "depth": 2
+        },
+        {
+            "name": "BCOR",
+            "annotation": "BCL-6 corepressor; Transcriptional corepressor. May specifically inhibit gene expression when recruited to promoter regions by sequence-specific DNA- binding proteins such as BCL6 and MLLT3. This repression may be mediated at least in part by histone deacetylase activities which can associate with this corepressor. Involved in the repression of TFAP2A; impairs binding of BCL6 and KDM2B to TFAP2A promoter regions. Via repression of TFAP2A acts as a negative regulator of osteo-dentiogenic capacity in adult stem cells; the function implies inhibition of methylation on histone H3 'Lys-4' ( [...] ",
+            "depth": 2
+        },
+        {
+            "name": "CBX3",
+            "annotation": "Chromobox protein homolog 3; Seems to be involved in transcriptional silencing in heterochromatin-like complexes. Recognizes and binds histone H3 tails methylated at 'Lys-9', leading to epigenetic repression. May contribute to the association of the heterochromatin with the inner nuclear membrane through its interaction with lamin B receptor (LBR). Involved in the formation of functional kinetochore through interaction with MIS12 complex proteins. Contributes to the conversion of local chromatin to a heterochromatin-like repressive state through H3 'Lys-9' trimethylation, mediates the  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "RAC1",
+            "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] ",
+            "depth": 2
+        },
+        {
+            "name": "ARHGEF7",
+            "annotation": "Rho guanine nucleotide exchange factor 7; Acts as a RAC1 guanine nucleotide exchange factor (GEF) and can induce membrane ruffling. Functions in cell migration, attachment and cell spreading. Promotes targeting of RAC1 to focal adhesions (By similarity). May function as a positive regulator of apoptosis. Downstream of NMDA receptors and CaMKK-CaMK1 signaling cascade, promotes the formation of spines and synapses in hippocampal neurons.",
+            "depth": 2
+        },
+        {
+            "name": "FMR1",
+            "annotation": "Synaptic functional regulator FMR1; Multifunctional polyribosome-associated RNA-binding protein that plays a central role in neuronal development and synaptic plasticity through the regulation of alternative mRNA splicing, mRNA stability, mRNA dendritic transport and postsynaptic local protein synthesis of a subset of mRNAs. Plays a role in the alternative splicing of its own mRNA. Plays a role in mRNA nuclear export (By similarity). Together with export factor NXF2, is involved in the regulation of the NXF1 mRNA stability in neurons (By similarity). Stabilizes the scaffolding postsyna [...] ",
+            "depth": 2
+        },
+        {
+            "name": "EIF4E",
+            "annotation": "Eukaryotic translation initiation factor 4E; Recognizes and binds the 7-methylguanosine-containing mRNA cap during an early step in the initiation of protein synthesis and facilitates ribosome binding by inducing the unwinding of the mRNAs secondary structures. Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E-FMR1 complex this subunit mediates the binding to the mRNA cap.",
+            "depth": 2
+        },
+        {
+            "name": "TUBGCP6",
+            "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome.",
+            "depth": 2
+        },
+        {
+            "name": "TUBG1",
+            "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation.",
+            "depth": 2
+        }
+    ],
+    "Relationship": [
+        {
+            "start": "MARK4",
+            "end": "PDE4B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 360.0,
+                "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PDE4B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 360.0,
+                "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes. May be involved in mediating central nervous system effects of therapeutic agents ranging from antidepressants to antiasthmatic and anti-inflammatory agents. Belongs to the cyclic nucleotide phosphodiesterase family. PDE4 subfamily."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKCI",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 446.0,
+                "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRKCI",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 370.0,
+                "annotation": "Protein kinase C iota type; Calcium- and diacylglycerol-independent serine/ threonine- protein kinase that plays a general protective role against apoptotic stimuli, is involved in NF-kappa-B activation, cell survival, differentiation and polarity, and contributes to the regulation of microtubule dynamics in the early secretory pathway. Is necessary for BCR-ABL oncogene-mediated resistance to apoptotic drug in leukemia cells, protecting leukemia cells against drug-induced apoptosis. In cultured neurons, prevents amyloid beta protein-induced apoptosis by interrupting cell death process  [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "APP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "APP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 337.0,
+                "annotation": "Gamma-secretase C-terminal fragment 50; Functions as a cell surface receptor and performs physiological functions on the surface of neurons relevant to neurite growth, neuronal adhesion and axonogenesis. Interaction between APP molecules on neighboring cells promotes synaptogenesis. Involved in cell mobility and transcription regulation through protein-protein interactions. Can promote transcription activation through binding to APBB1-KAT5 and inhibits Notch signaling through interaction with Numb. Couples to apoptosis- inducing pathways such as those mediated by G(O) and JIP. Inhibits [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRPF40A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 231.0,
+                "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "PRPF40A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 197.0,
+                "annotation": "Pre-mRNA-processing factor 40 homolog A; Binds to WASL/N-WASP and suppresses its translocation from the nucleus to the cytoplasm, thereby inhibiting its cytoplasmic function (By similarity). Plays a role in the regulation of cell morphology and cytoskeletal organization. Required in the control of cell shape and migration. May play a role in cytokinesis. May be involved in pre-mRNA splicing; Belongs to the PRPF40 family."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TRIM66",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 198.0,
+                "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TRIM66",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 163.0,
+                "annotation": "Tripartite motif-containing protein 66; May function as transcription repressor; The repressive effects are mediated, at least in part, by recruitment of deacetylase activity. May play a role as negative regulator of postmeiotic genes acting through CBX3 complex formation and centromere association (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "ARHGEF2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 597.0,
+                "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "ARHGEF2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 427.0,
+                "annotation": "Rho guanine nucleotide exchange factor 2; Activates Rho-GTPases by promoting the exchange of GDP for GTP. May be involved in epithelial barrier permeability, cell motility and polarization, dendritic spine morphology, antigen presentation, leukemic cell differentiation, cell cycle regulation, innate immune response, and cancer. Binds Rac-GTPases, but does not seem to promote nucleotide exchange activity toward Rac-GTPases, which was uniquely reported in. May stimulate instead the cortical activity of Rac. Inactive toward CDC42, TC10, or Ras-GTPases. Forms an intracellular sensing syste [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CYFIP1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 181.0,
+                "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "CYFIP1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 161.0,
+                "annotation": "Cytoplasmic FMR1-interacting protein 1; Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E- FMR1 complex this subunit is an adapter between EIF4E and FMR1. Promotes the translation repression activity of FMR1 in brain probably by mediating its association with EIF4E and mRNA (By similarity). Regulates formation of membrane ruffles and lamellipodia. Plays a role in axon outgrowth. Binds to F-actin but not to RNA. Part of the WAVE complex that regulates actin filament reorganization via its interaction with th [...] "
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBG2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBG2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Tubulin gamma-2 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation (By similarity)."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 559.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "MARK4",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 540.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "PDE4B",
+            "end": "PDE4D",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 757.0,
+                "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes."
+            }
+        },
+        {
+            "start": "PDE4B",
+            "end": "PDE4D",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 718.0,
+                "annotation": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D; Hydrolyzes the second messenger cAMP, which is a key regulator of many important physiological processes."
+            }
+        },
+        {
+            "start": "PDE4B",
+            "end": "ADCY8",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 878.0,
+                "annotation": "Adenylate cyclase type 8; Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation. Plays a central role in insulin secretion by controlling glucose homeostasis through glucagon- like peptide 1 and glucose signali [...] "
+            }
+        },
+        {
+            "start": "PDE4B",
+            "end": "ADCY8",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 398.0,
+                "annotation": "Adenylate cyclase type 8; Catalyzes the formation of cAMP in response to calcium entry leadings to cAMP signaling activation that affect processes suche as synaptic plasticity and insulin secretion. Plays a role in many brain functions, such as learning, memory, drug addiction, and anxiety modulation through regulation of synaptic plasticity by modulating long-term memory and long-term potentiation (LTP) through CREB transcription factor activity modulation. Plays a central role in insulin secretion by controlling glucose homeostasis through glucagon- like peptide 1 and glucose signali [...] "
+            }
+        },
+        {
+            "start": "PRKCI",
+            "end": "PRKCZ",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 989.0,
+                "annotation": "Protein kinase C zeta type; Calcium- and diacylglycerol-independent serine/threonine- protein kinase that functions in phosphatidylinositol 3-kinase (PI3K) pathway and mitogen-activated protein (MAP) kinase cascade, and is involved in NF-kappa-B activation, mitogenic signaling, cell proliferation, cell polarity, inflammatory response and maintenance of long-term potentiation (LTP). Upon lipopolysaccharide (LPS) treatment in macrophages, or following mitogenic stimuli, functions downstream of PI3K to activate MAP2K1/MEK1-MAPK1/ERK2 signaling cascade independently of RAF1 activation. Req [...] "
+            }
+        },
+        {
+            "start": "PRKCI",
+            "end": "PRKCZ",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 969.0,
+                "annotation": "Protein kinase C zeta type; Calcium- and diacylglycerol-independent serine/threonine- protein kinase that functions in phosphatidylinositol 3-kinase (PI3K) pathway and mitogen-activated protein (MAP) kinase cascade, and is involved in NF-kappa-B activation, mitogenic signaling, cell proliferation, cell polarity, inflammatory response and maintenance of long-term potentiation (LTP). Upon lipopolysaccharide (LPS) treatment in macrophages, or following mitogenic stimuli, functions downstream of PI3K to activate MAP2K1/MEK1-MAPK1/ERK2 signaling cascade independently of RAF1 activation. Req [...] "
+            }
+        },
+        {
+            "start": "PRKCI",
+            "end": "PRKCD",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 487.0,
+                "annotation": "Protein kinase C delta type regulatory subunit; Calcium-independent, phospholipid- and diacylglycerol (DAG)- dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti- apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Nega [...] "
+            }
+        },
+        {
+            "start": "PRKCI",
+            "end": "PRKCD",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 392.0,
+                "annotation": "Protein kinase C delta type regulatory subunit; Calcium-independent, phospholipid- and diacylglycerol (DAG)- dependent serine/threonine-protein kinase that plays contrasting roles in cell death and cell survival by functioning as a pro-apoptotic protein during DNA damage-induced apoptosis, but acting as an anti- apoptotic protein during cytokine receptor-initiated cell death, is involved in tumor suppression as well as survival of several cancers, is required for oxygen radical production by NADPH oxidase and acts as positive or negative regulator in platelet functional responses. Nega [...] "
+            }
+        },
+        {
+            "start": "APP",
+            "end": "GSAP",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 905.0,
+                "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+            }
+        },
+        {
+            "start": "APP",
+            "end": "GSAP",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 539.0,
+                "annotation": "Gamma-secretase-activating protein 16 kDa C-terminal form; Regulator of gamma-secretase activity, which specifically activates the production of amyloid-beta protein (amyloid-beta protein 40 and amyloid-beta protein 42), without affecting the cleavage of other gamma-secretase targets such has Notch. The gamma-secretase complex is an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid-beta precursor protein). Specifically promotes the gamma- cleavage of APP CTF-alpha (also named APP-CTF) by the gamma-secre [...] "
+            }
+        },
+        {
+            "start": "APP",
+            "end": "APH1A",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 986.0,
+                "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+            }
+        },
+        {
+            "start": "APP",
+            "end": "APH1A",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 807.0,
+                "annotation": "Gamma-secretase subunit APH-1A; Non-catalytic subunit of the gamma-secretase complex, an endoprotease complex that catalyzes the intramembrane cleavage of integral membrane proteins such as Notch receptors and APP (amyloid- beta precursor protein). Required for normal gamma-secretase assembly. The gamma-secretase complex plays a role in Notch and Wnt signaling cascades and regulation of downstream processes via its role in processing key regulatory proteins, and by regulating cytosolic CTNNB1 levels (Probable). Belongs to the APH-1 family."
+            }
+        },
+        {
+            "start": "PRPF40A",
+            "end": "WIPF1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 188.0,
+                "annotation": "WAS/WASL-interacting protein family member 1; Plays a role in the reorganization of the actin cytoskeleton. Contributes with NCK1 and GRB2 in the recruitment and activation of WASL. May participate in regulating the subcellular localization of WASL, resulting in the disassembly of stress fibers in favor of filopodia formation. Plays a role in the formation of cell ruffles (By similarity). Plays an important role in the intracellular motility of vaccinia virus by functioning as an adapter for recruiting WASL to vaccinia virus."
+            }
+        },
+        {
+            "start": "PRPF40A",
+            "end": "WIPF1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 166.0,
+                "annotation": "WAS/WASL-interacting protein family member 1; Plays a role in the reorganization of the actin cytoskeleton. Contributes with NCK1 and GRB2 in the recruitment and activation of WASL. May participate in regulating the subcellular localization of WASL, resulting in the disassembly of stress fibers in favor of filopodia formation. Plays a role in the formation of cell ruffles (By similarity). Plays an important role in the intracellular motility of vaccinia virus by functioning as an adapter for recruiting WASL to vaccinia virus."
+            }
+        },
+        {
+            "start": "PRPF40A",
+            "end": "PRPF40B",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 906.0,
+                "annotation": "Pre-mRNA-processing factor 40 homolog B; May be involved in pre-mRNA splicing."
+            }
+        },
+        {
+            "start": "PRPF40A",
+            "end": "PRPF40B",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 900.0,
+                "annotation": "Pre-mRNA-processing factor 40 homolog B; May be involved in pre-mRNA splicing."
+            }
+        },
+        {
+            "start": "TRIM66",
+            "end": "BCOR",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 426.0,
+                "annotation": "BCL-6 corepressor; Transcriptional corepressor. May specifically inhibit gene expression when recruited to promoter regions by sequence-specific DNA- binding proteins such as BCL6 and MLLT3. This repression may be mediated at least in part by histone deacetylase activities which can associate with this corepressor. Involved in the repression of TFAP2A; impairs binding of BCL6 and KDM2B to TFAP2A promoter regions. Via repression of TFAP2A acts as a negative regulator of osteo-dentiogenic capacity in adult stem cells; the function implies inhibition of methylation on histone H3 'Lys-4' ( [...] "
+            }
+        },
+        {
+            "start": "TRIM66",
+            "end": "BCOR",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 420.0,
+                "annotation": "BCL-6 corepressor; Transcriptional corepressor. May specifically inhibit gene expression when recruited to promoter regions by sequence-specific DNA- binding proteins such as BCL6 and MLLT3. This repression may be mediated at least in part by histone deacetylase activities which can associate with this corepressor. Involved in the repression of TFAP2A; impairs binding of BCL6 and KDM2B to TFAP2A promoter regions. Via repression of TFAP2A acts as a negative regulator of osteo-dentiogenic capacity in adult stem cells; the function implies inhibition of methylation on histone H3 'Lys-4' ( [...] "
+            }
+        },
+        {
+            "start": "TRIM66",
+            "end": "CBX3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 925.0,
+                "annotation": "Chromobox protein homolog 3; Seems to be involved in transcriptional silencing in heterochromatin-like complexes. Recognizes and binds histone H3 tails methylated at 'Lys-9', leading to epigenetic repression. May contribute to the association of the heterochromatin with the inner nuclear membrane through its interaction with lamin B receptor (LBR). Involved in the formation of functional kinetochore through interaction with MIS12 complex proteins. Contributes to the conversion of local chromatin to a heterochromatin-like repressive state through H3 'Lys-9' trimethylation, mediates the  [...] "
+            }
+        },
+        {
+            "start": "TRIM66",
+            "end": "CBX3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 787.0,
+                "annotation": "Chromobox protein homolog 3; Seems to be involved in transcriptional silencing in heterochromatin-like complexes. Recognizes and binds histone H3 tails methylated at 'Lys-9', leading to epigenetic repression. May contribute to the association of the heterochromatin with the inner nuclear membrane through its interaction with lamin B receptor (LBR). Involved in the formation of functional kinetochore through interaction with MIS12 complex proteins. Contributes to the conversion of local chromatin to a heterochromatin-like repressive state through H3 'Lys-9' trimethylation, mediates the  [...] "
+            }
+        },
+        {
+            "start": "ARHGEF2",
+            "end": "RAC1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 823.0,
+                "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] "
+            }
+        },
+        {
+            "start": "ARHGEF2",
+            "end": "RAC1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 575.0,
+                "annotation": "Ras-related C3 botulinum toxin substrate 1; Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic cells, epithelial cell polarization, neurons adhesion, migration and differentiation, and growth-factor induced formation of membrane ruffles. Rac1 p21/rho GDI heterodimer is the active component of the cytosolic factor sigma 1, which is involved in stimulation of the NADPH oxidase activity  [...] "
+            }
+        },
+        {
+            "start": "ARHGEF2",
+            "end": "ARHGEF7",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 699.0,
+                "annotation": "Rho guanine nucleotide exchange factor 7; Acts as a RAC1 guanine nucleotide exchange factor (GEF) and can induce membrane ruffling. Functions in cell migration, attachment and cell spreading. Promotes targeting of RAC1 to focal adhesions (By similarity). May function as a positive regulator of apoptosis. Downstream of NMDA receptors and CaMKK-CaMK1 signaling cascade, promotes the formation of spines and synapses in hippocampal neurons."
+            }
+        },
+        {
+            "start": "ARHGEF2",
+            "end": "ARHGEF7",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 275.0,
+                "annotation": "Rho guanine nucleotide exchange factor 7; Acts as a RAC1 guanine nucleotide exchange factor (GEF) and can induce membrane ruffling. Functions in cell migration, attachment and cell spreading. Promotes targeting of RAC1 to focal adhesions (By similarity). May function as a positive regulator of apoptosis. Downstream of NMDA receptors and CaMKK-CaMK1 signaling cascade, promotes the formation of spines and synapses in hippocampal neurons."
+            }
+        },
+        {
+            "start": "CYFIP1",
+            "end": "FMR1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Synaptic functional regulator FMR1; Multifunctional polyribosome-associated RNA-binding protein that plays a central role in neuronal development and synaptic plasticity through the regulation of alternative mRNA splicing, mRNA stability, mRNA dendritic transport and postsynaptic local protein synthesis of a subset of mRNAs. Plays a role in the alternative splicing of its own mRNA. Plays a role in mRNA nuclear export (By similarity). Together with export factor NXF2, is involved in the regulation of the NXF1 mRNA stability in neurons (By similarity). Stabilizes the scaffolding postsyna [...] "
+            }
+        },
+        {
+            "start": "CYFIP1",
+            "end": "FMR1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 998.0,
+                "annotation": "Synaptic functional regulator FMR1; Multifunctional polyribosome-associated RNA-binding protein that plays a central role in neuronal development and synaptic plasticity through the regulation of alternative mRNA splicing, mRNA stability, mRNA dendritic transport and postsynaptic local protein synthesis of a subset of mRNAs. Plays a role in the alternative splicing of its own mRNA. Plays a role in mRNA nuclear export (By similarity). Together with export factor NXF2, is involved in the regulation of the NXF1 mRNA stability in neurons (By similarity). Stabilizes the scaffolding postsyna [...] "
+            }
+        },
+        {
+            "start": "CYFIP1",
+            "end": "EIF4E",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 997.0,
+                "annotation": "Eukaryotic translation initiation factor 4E; Recognizes and binds the 7-methylguanosine-containing mRNA cap during an early step in the initiation of protein synthesis and facilitates ribosome binding by inducing the unwinding of the mRNAs secondary structures. Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E-FMR1 complex this subunit mediates the binding to the mRNA cap."
+            }
+        },
+        {
+            "start": "CYFIP1",
+            "end": "EIF4E",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 993.0,
+                "annotation": "Eukaryotic translation initiation factor 4E; Recognizes and binds the 7-methylguanosine-containing mRNA cap during an early step in the initiation of protein synthesis and facilitates ribosome binding by inducing the unwinding of the mRNAs secondary structures. Component of the CYFIP1-EIF4E-FMR1 complex which binds to the mRNA cap and mediates translational repression. In the CYFIP1-EIF4E-FMR1 complex this subunit mediates the binding to the mRNA cap."
+            }
+        },
+        {
+            "start": "TUBGCP3",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP3",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP3",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP3",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBG2",
+            "end": "TUBG1",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 958.0,
+                "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+            }
+        },
+        {
+            "start": "TUBG2",
+            "end": "TUBG1",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 981.0,
+                "annotation": "Tubulin gamma-1 chain; Tubulin is the major constituent of microtubules. The gamma chain is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome. Pericentriolar matrix component that regulates alpha/beta chain minus-end nucleation, centrosome duplication and spindle formation."
+            }
+        },
+        {
+            "start": "TUBG2",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 963.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBG2",
+            "end": "TUBGCP2",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 997.0,
+                "annotation": "Gamma-tubulin complex component 2; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP2",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP2",
+            "end": "TUBGCP3",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 3; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP2",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_FULL",
+            "properties": {
+                "score": 999.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        },
+        {
+            "start": "TUBGCP2",
+            "end": "TUBGCP6",
+            "type": "INTERACTS_PHY",
+            "properties": {
+                "score": 998.0,
+                "annotation": "Gamma-tubulin complex component 6; Gamma-tubulin complex is necessary for microtubule nucleation at the centrosome."
+            }
+        }
+    ]
+}
