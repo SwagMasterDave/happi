@@ -35,7 +35,7 @@ class TriangleCanvas {
         background(255); // Set background color to white
         
         // Draw triangle with a set color
-        fill(100, 150, 250, 150);
+        fill(150);
         triangle(
             this.triangleVertices[0].x, this.triangleVertices[0].y,
             this.triangleVertices[1].x, this.triangleVertices[1].y,

@@ -64,7 +64,7 @@ class InteractionGraphSection extends Section {
                         'line-color': '#ccc',
                         'target-arrow-color': '#ccc',
                         'target-arrow-shape': 'triangle',
-                        'label': 'data(label)',
+                        //'label': 'data(label)',
                     },
                 },
             ],
@@ -116,7 +116,7 @@ class InteractionGraphSection extends Section {
             }).run();
         };
     
-        const fetchAndUpdateGraph = async (fileIndex) => {
+        const fetchAndUpdateGraph = async (fileIndex, active) => {
             // Fetch both jsonFiles[fileIndex] and jsonFiles2[fileIndex] concurrently
             await Promise.all([
                 fetch(this.graphs[fileIndex]).then(response => response.json()),
@@ -157,7 +157,7 @@ class InteractionGraphSection extends Section {
                 cy.elements().remove(); // Clear existing elements
         
                 cy.add([...filteredNodes, ...edges]);
-        
+                
                 cy.style()
                     .selector('node')
                     .style({
@@ -170,12 +170,55 @@ class InteractionGraphSection extends Section {
                         'line-color': (edge) => pathColors[edge.data('path')] || '#ccc',
                         'target-arrow-color': (edge) => pathColors[edge.data('path')] || '#ccc',
                         'target-arrow-shape': 'triangle',
-                        'label': 'data(label)',
+                        //'label': 'data(label)',
                     })
                     .update();
         
                 arrangeNodesByDepth();
                 this.recommendJson = recommendJson;
+
+                // Add hover functionality for displaying annotations
+                let tooltip = null;
+                cy.on('mouseover', 'node', function(evt) {
+                    const node = evt.target;
+                    const name = node.data('id');
+                    const annotation = node.data('annotation');
+                    if (tooltip) {
+                        document.body.removeChild(tooltip);
+                        tooltip = null;
+                    }
+                    tooltip = document.createElement('div');
+                    tooltip.id = 'cy-tooltip';
+                    tooltip.innerHTML = `<strong>${name}</strong>: ${annotation}`;
+                    tooltip.style.position = 'absolute';
+                    tooltip.style.backgroundColor = 'white';
+                    tooltip.style.maxWidth = '250px';
+                    tooltip.style.border = '1px solid #ccc';
+                    tooltip.style.padding = '5px';
+                    tooltip.style.borderRadius = '3px';
+                    tooltip.style.boxShadow = '0px 0px 5px rgba(0,0,0,0.3)';
+                    tooltip.style.pointerEvents = 'none';
+                    document.body.appendChild(tooltip);
+
+                    cy.on('mousemove', function(e) {
+                        if (tooltip) {
+                            const cyContainer = cy.container();
+                            const rect = cyContainer.getBoundingClientRect();
+                            tooltip.style.left = (e.originalEvent.clientX + 10) + 'px';
+                            tooltip.style.top = (e.originalEvent.clientY + 10) + 'px';
+                        }
+                    });
+                });
+
+                cy.on('mouseout', 'node', function() {
+                    if (tooltip) {
+                        document.body.removeChild(tooltip);
+                        tooltip = null;
+                    }
+                });
+                if(active){
+                    this.Display();
+                }
             })
             .catch(error => {
                 console.error('Error fetching JSON data:', error);
@@ -202,12 +245,99 @@ class InteractionGraphSection extends Section {
             cy.elements().remove(); // Clear existing elements
             this.render();
         }
+        document.getElementById('DisplayOnGraph2').onclick = () => {
+            this.Display();
+            this.render();
+        }
         // Default to Graph 1 on page load
-        fetchAndUpdateGraph(this.state.graphSelected);
+        fetchAndUpdateGraph(this.state.graphSelected,this.activated);
         setActiveButton(this.buttonIds[this.state.graphSelected]);
 
         this.forwardRef.state = []; // TODO
         //this.forwardRef.render();
+    }
+    async Display() {
+        let pdbFilePaths = [];
+        let sdfFilePaths = [];
+        let sdftoptenPaths = [];
+    
+        if (queryValue.toUpperCase() == "MARK4") {
+            // Fetch PDB file paths
+            await fetch('/get_protein_files')
+                .then(response => response.json())
+                .then(data => {
+                    pdbFilePaths = data;
+                });
+    
+            // Fetch SDF file paths
+            await fetch('/get_sdf_files')
+                .then(response => response.json())
+                .then(data => {
+                    sdfFilePaths = data;
+                });
+        }
+        if (queryValue.toUpperCase() == "MAPT") {
+            // Fetch PDB file paths
+            await fetch('/get_protein_files2')
+                .then(response => response.json())
+                .then(data => {
+                    pdbFilePaths = data;
+                });
+    
+            // Fetch SDF file paths
+            await fetch('/get_sdf_files2')
+                .then(response => response.json())
+                .then(data => {
+                    sdfFilePaths = data;
+                });
+        }
+    
+        for (let i = 0; i < sdfFilePaths.length; i++) {
+            let json_file_path = sdfFilePaths[i];
+            let proteinLocation = json_file_path.split("_");
+            let proteinName = proteinLocation[2];
+    
+            await fetch(json_file_path)
+                .then(response => response.json())
+                .then(jsonData => {
+                    if (jsonData.detail == "Inference error") {
+                        sdftoptenPaths.push({
+                            name: proteinName,
+                            confidence: undefined
+                        });
+                    } else {
+                        let thirdItem = jsonData.position_confidence[0];  // Get the third item (index 2)
+                        sdftoptenPaths.push({
+                            name: proteinName,
+                            confidence: thirdItem
+                        });
+                    }
+                });
+        }
+        
+        sdftoptenPaths = sdftoptenPaths.filter(item => item.confidence !== undefined);
+        sdftoptenPaths.sort((a, b) => a.confidence - b.confidence); // Sort in descending order
+    
+        // Get top 10 nodes based on confidence
+        const topNodes = sdftoptenPaths.slice(0, 10).map(item => item.name); 
+    
+        // Remove the 'highlighted' class from any previously highlighted nodes
+        this.cy.nodes('.highlighted').removeClass('highlighted');
+
+        // Highlight only the top 10 nodes
+        this.cy.nodes().filter(node => topNodes.includes(node.id()) && node.id() !== queryValue.toUpperCase())
+            .addClass('highlighted');
+
+        // Apply styles directly to the highlighted nodes without affecting the global style
+        this.cy.batch(() => {
+            this.cy.nodes('.highlighted').forEach(node => {
+                node.style({
+                    'background-color': 'yellow',
+                    'border-color': 'red',
+                    'border-width': '2px'
+                });
+            });
+        });
     }
 }
 
@@ -255,7 +385,15 @@ class ImpactSearchSection extends Section {
                         // Update the color of nodes and edges in the main cy instance based on the path found
                         cy.nodes().forEach(node => {
                             if (node.data('id') !== queryValue.toUpperCase() && pathIds.has(node.data('id'))) {
-                                node.style('background-color', 'darkblue');
+                                var nodeColor = node.style('background-color');
+                                var yellowColor = 'rgb(255, 255, 0)';
+                                if(nodeColor === yellowColor){
+                                    node.style('background-color', 'yellow');
+                                }
+                                else{
+                                    node.style('background-color', 'dark blue');
+                                    node.style('border-color', 'red');
+                                }
                             }
                         });
     
@@ -343,11 +481,20 @@ class ImpactSearchSection extends Section {
                         });
     
                         button.onclick = async () => {
-                            // Check if the button has already been pressed
+                            if (button.classList.contains("cy-button-marked")) {
+                                // If button is already marked, disable it
+                                button.disabled = true;
+                                return;
+                            }
+                        
+                            // Mark the button as clicked
                             button.classList.add("cy-button-marked");
-    
+                            button.disabled = true; // Disable the button after marking
+                        
                             const impactVal = await getSliderModal();
                             if (impactVal === null) {
+                                // Re-enable the button if no impact value is provided
+                                button.disabled = false;
                                 return;
                             }
 
@@ -579,7 +726,47 @@ class DockingSimulatorSection extends Section {
         confidenceDiv.style.marginTop = '10px'; // Space between button and confidence score
         confidenceDiv.innerText = `Confidence: ${confidence.toFixed(2)}`; // Format confidence to 2 decimal places
         rightContainer.appendChild(confidenceDiv);
-    
+
+        const prefixRawGraph = 'static/Graphs_' + queryValue.toUpperCase() + '/Graphs/Raw_graph_without_query_' + queryValue.toUpperCase();
+        const paths = [
+            prefixRawGraph + '_d2_k20_f1.json',
+            prefixRawGraph + '_d2_k20_f2.json',
+            prefixRawGraph + '_d2_k20_f3.json',
+            prefixRawGraph + '_d2_k20_f4.json',
+            prefixRawGraph + '_d2_k20_f5.json'
+        ];
+
+        let versionList = [];
+
+        let insideVersionJson;
+
+        for (let i = 0; i < paths.length; i++) {
+            await fetch(paths[i])
+                .then(response => response.json())
+                .then(jsonData => {
+                    console.log(jsonData['Protein']);
+                    insideVersionJson = jsonData['Protein'];
+                });
+            for(let j = 0; j < insideVersionJson.length; j++){
+                if(insideVersionJson[j].name === result[2]){
+                    versionList.push(i+1);
+                }
+                else{
+                    console.log("can not find");
+                }
+            }
+        }
+
+        // Create the confidence score element
+        const VersionDiv = document.createElement('div');
+        VersionDiv.style.marginTop = '10px'; // Space between button and confidence score
+        // Convert versionList to a comma-separated string
+        const versionText = versionList.join(', ');
+
+        // Set the innerText to display the version numbers
+        VersionDiv.innerText = `Graph: ${versionText}`;
+        rightContainer.appendChild(VersionDiv);
+        
         contentContainer.appendChild(rightContainer);
         container.appendChild(contentContainer);
     
@@ -812,48 +999,59 @@ class PathwayRankingSection extends Section {
     async render() {
         // Find the target container where everything should be appended
         const targetContainer = document.querySelector('.inner-inner-box3');
-
+    
         targetContainer.innerHTML = '';
-
+    
+        // Create a Set to track unique pathways
+        const seenPathways = new Set();
+    
         const renderPathway = ({ proteinNames, conresults, pathDetail, filteredProteins, pdbresults, sdfresults, impactVal }, idx) => {
             // Join protein names with arrows (e.g., '→')
             const proteinsList = proteinNames.join(' → ');
-            
+            const uniquePathwayIdentifier = proteinsList;
+    
+            // Skip rendering if this pathway has already been seen
+            if (seenPathways.has(uniquePathwayIdentifier)) {
+                return;
+            }
+    
+            // Add this pathway to the Set
+            seenPathways.add(uniquePathwayIdentifier);
+    
             // Create a new column to hold the text list of proteins with arrows
             const columnDiv = document.createElement('div');
             columnDiv.style.display = 'flex';
             columnDiv.style.flexDirection = 'column'; // Align items in a column
             columnDiv.style.alignItems = 'center'; // Center items horizontally
             columnDiv.style.marginBottom = '20px'; // Space between each set
-
+    
             // Create a text element to show the list of proteins with arrows
             const proteinsListDiv = document.createElement('div');
             proteinsListDiv.style.marginBottom = '10px';
             proteinsListDiv.innerHTML = `Proteins in path: ${proteinsList}`;
-
+    
             // Append the text element to the column
             columnDiv.appendChild(proteinsListDiv);
-
+    
             // Create a text element to show the confidence value
             const confidenceDiv = document.createElement('div');
             confidenceDiv.style.marginBottom = '10px';
             confidenceDiv.innerHTML = `Confidence: ${conresults[0].confidence !== undefined ? conresults[0].confidence : 'N/A'}`;
-
+    
             // Append the confidence element below the proteins list
             columnDiv.appendChild(confidenceDiv);
-
+    
             // Create a div to show the detail relationships and protein descriptions
             const detailsDiv = document.createElement('div');
             detailsDiv.style.marginTop = '10px'; // Add some space above the details section
-
+    
             // Center all items inside detailsDiv using Flexbox
             detailsDiv.style.display = 'flex';
             detailsDiv.style.flexDirection = 'column'; // Arrange items in a column
             detailsDiv.style.alignItems = 'center'; // Center items horizontally
             detailsDiv.style.justifyContent = 'center'; // Center items vertically (if needed)
             detailsDiv.style.textAlign = 'center'; // Ensure text is also centered
-
-
+    
             // Create the viewer container
             const viewerContainer = document.createElement('div'); // Changed from 'canvas' to 'div'
             viewerContainer.style.width = '200px';
@@ -862,12 +1060,12 @@ class PathwayRankingSection extends Section {
             viewerContainer.style.padding = '10px'; 
             viewerContainer.style.position = 'relative'; // Ensure relative positioning for proper alignment
             viewerContainer.style.overflow = 'hidden';  // Prevent overflow issues
-
+    
             // Pass viewerContainer directly to the display function
             this.display(viewerContainer, pdbresults, sdfresults);
-
+    
             detailsDiv.appendChild(viewerContainer);
-
+    
             // Add protein descriptions with bold names and fixed size
             const explanationDiv = document.createElement('div');
             explanationDiv.style.marginTop = '10px';
@@ -876,13 +1074,13 @@ class PathwayRankingSection extends Section {
             explanationDiv.style.overflowY = 'auto'; // Scrollable if content overflows
             explanationDiv.style.border = '1px solid #ccc'; // Optional: border for better visibility
             explanationDiv.style.padding = '10px'; // Optional: padding for spacing
-
+    
             const explanationHtml = pathDetail['explanation'];
-
+    
             explanationDiv.innerHTML = `<strong>Path Explanation:</strong><br>${explanationHtml}`;
-
+    
             detailsDiv.appendChild(explanationDiv);
-
+    
             // Add relationship details
             const relationshipDetailsDiv = document.createElement('div');
             relationshipDetailsDiv.style.marginTop = '10px';
@@ -891,15 +1089,15 @@ class PathwayRankingSection extends Section {
             relationshipDetailsDiv.style.overflowY = 'auto'; // Scrollable if content overflows
             relationshipDetailsDiv.style.border = '1px solid #ccc'; // Optional: border for better visibility
             relationshipDetailsDiv.style.padding = '10px'; // Optional: padding for spacing
-
+    
             const relationshipHtml = pathDetail.relationships.map(rel => 
                 `From ${rel.start} to ${rel.end} (${rel.type})`
             ).join('<br>');
-
+    
             relationshipDetailsDiv.innerHTML = `<strong>Relationships:</strong><br>${relationshipHtml}`;
-
+    
             detailsDiv.appendChild(relationshipDetailsDiv);
-
+    
             // Add protein descriptions with bold names and fixed size
             const proteinDescriptionsDiv = document.createElement('div');
             proteinDescriptionsDiv.style.marginTop = '10px';
@@ -908,66 +1106,76 @@ class PathwayRankingSection extends Section {
             proteinDescriptionsDiv.style.overflowY = 'auto'; // Scrollable if content overflows
             proteinDescriptionsDiv.style.border = '1px solid #ccc'; // Optional: border for better visibility
             proteinDescriptionsDiv.style.padding = '10px'; // Optional: padding for spacing
-
+    
             const descriptionsHtml = filteredProteins.map(protein => 
                 `<div><strong>${protein.name}:</strong> ${protein.annotation || 'No description available'}</div>`
             ).join('');
-
+    
             proteinDescriptionsDiv.innerHTML = `<strong>Protein Descriptions:</strong><br>${descriptionsHtml}`;
-
+    
             detailsDiv.appendChild(proteinDescriptionsDiv);
-
+    
             // Append the detailsDiv to the columnDiv
             columnDiv.appendChild(detailsDiv);
-
+    
             // Create the "Delete" button
             const deleteButton = document.createElement('button');
             deleteButton.textContent = 'Delete';
             deleteButton.style.marginTop = '10px'; // Add some space above the button
-
+    
             // Add event listener to delete the columnDiv and re-enable the button
-
             deleteButton.onclick = () => {
                 this.state.pathways.splice(idx, 1);
                 this.render();
             }
-
+    
             // Append the "Delete" button to the columnDiv
             columnDiv.appendChild(deleteButton);
-
+    
             // Append the entire column to the target container
             targetContainer.appendChild(columnDiv);
         }
-
+    
         const pathways = this.state.pathways;
-
+    
         const scoreOfPathway = ({ proteinNames, conresults, pathDetail, filteredProteins, pdbresults, sdfresults, impactVal}) => {
             const impact = this.state.trianglePercentages[0];
             const docking = this.state.trianglePercentages[1]; 
             const length = this.state.trianglePercentages[2];
-
+    
             const impactScore = impact * impactVal;
             const dockingScore = -1 * docking * conresults[0].confidence;
-            const lengthScore = length * proteinNames.length;
-
+            const lengthScore = -1 * length * proteinNames.length;
+    
             return impactScore + dockingScore + lengthScore;
         }
-
+    
         const sortedPathways = pathways.sort((pathwayA, pathwayB) => {
             const scoreOfA = scoreOfPathway(pathwayA);
             const scoreOfB = scoreOfPathway(pathwayB);
             return scoreOfB - scoreOfA;
         });
-
-        this.state.pathways = sortedPathways;
-
+    
+        // Filter out duplicates
+        const uniquePathways = [];
+        const seenPathwaysForUnique = new Set();
+    
         sortedPathways.forEach(pathway => {
+            const uniquePathwayIdentifier = pathway.proteinNames.join(' → ');
+            if (!seenPathwaysForUnique.has(uniquePathwayIdentifier)) {
+                seenPathwaysForUnique.add(uniquePathwayIdentifier);
+                uniquePathways.push(pathway);
+            }
+        });
+    
+        this.state.pathways = uniquePathways;
+    
+        uniquePathways.forEach(pathway => {
             renderPathway(pathway);
         });
-
-
+    
         this.downloadSection.state = this.state;
-    }
+    }    
 }
 class DownloadSection extends Section {
     constructor() {
